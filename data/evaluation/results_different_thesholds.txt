@@ -1,0 +1,59 @@
+######################### THRESHOLD ONE MATCH  #########################
+union predictions strict:  accuracy 0.34, precision 0.73, recall 0.47, f1 0.57
+union candidates strict:   accuracy 0.69, precision 0.57, recall 1.00, f1 0.73
+
+intersect predictions strict:  accuracy 0.27, precision 0.57, recall 0.60, f1 0.58
+intersect candidates strict:   accuracy 0.45, precision 0.37, recall 1.00, f1 0.54
+
+######################### THRESHOLD 10  #########################
+union predictions strict:  accuracy 0.34, precision 0.73, recall 0.47, f1 0.57
+union candidates strict:   accuracy 0.69, precision 0.57, recall 1.00, f1 0.73
+
+intersect predictions strict:  accuracy 0.27, precision 0.57, recall 0.60, f1 0.58
+intersect candidates strict:   accuracy 0.45, precision 0.37, recall 1.00, f1 0.54
+
+######################### THRESHOLD 20  #########################
+union predictions strict:  accuracy 0.32, precision 0.76, recall 0.43, f1 0.55
+union candidates strict:   accuracy 0.69, precision 0.57, recall 1.00, f1 0.73
+
+intersect predictions strict:  accuracy 0.24, precision 0.59, recall 0.54, f1 0.57
+intersect candidates strict:   accuracy 0.45, precision 0.37, recall 1.00, f1 0.54
+
+######################### THRESHOLD 30  #########################
+union predictions strict:  accuracy 0.19, precision 0.76, recall 0.25, f1 0.38
+union candidates strict:   accuracy 0.69, precision 0.57, recall 1.00, f1 0.73
+
+intersect predictions strict:  accuracy 0.15, precision 0.62, recall 0.34, f1 0.44
+intersect candidates strict:   accuracy 0.45, precision 0.37, recall 1.00, f1 0.54
+
+######################### THRESHOLD 40  #########################
+union predictions strict:  accuracy 0.13, precision 0.79, recall 0.17, f1 0.28
+union candidates strict:   accuracy 0.69, precision 0.57, recall 1.00, f1 0.73
+
+intersect predictions strict:  accuracy 0.10, precision 0.58, recall 0.21, f1 0.31
+intersect candidates strict:   accuracy 0.45, precision 0.37, recall 1.00, f1 0.54
+
+######################### THRESHOLD 50  #########################
+union predictions strict:  accuracy 0.07, precision 0.72, recall 0.09, f1 0.15
+union candidates strict:   accuracy 0.69, precision 0.57, recall 1.00, f1 0.73
+
+intersect predictions strict:  accuracy 0.05, precision 0.56, recall 0.11, f1 0.19
+intersect candidates strict:   accuracy 0.45, precision 0.37, recall 1.00, f1 0.54
+
+######################### THRESHOLD 60  #########################
+union predictions strict:  accuracy 0.05, precision 0.77, recall 0.07, f1 0.12
+union candidates strict:   accuracy 0.69, precision 0.57, recall 1.00, f1 0.73
+
+intersect predictions strict:  accuracy 0.04, precision 0.69, recall 0.10, f1 0.17
+intersect candidates strict:   accuracy 0.45, precision 0.37, recall 1.00, f1 0.54
+
+######################### THRESHOLD 70  #########################
+union predictions strict:  accuracy 0.03, precision 0.83, recall 0.03, f1 0.06
+union candidates strict:   accuracy 0.69, precision 0.57, recall 1.00, f1 0.73
+
+intersect predictions strict:  accuracy 0.03, precision 0.83, recall 0.06, f1 0.10
+intersect candidates strict:   accuracy 0.45, precision 0.37, recall 1.00, f1 0.54
+
+######################### THRESHOLD 80  #########################
+union predictions strict:  accuracy 0.01, precision 0.75, recall 0.02, f1 0.04
+union candidates strict:   accuracy 0.69, precision 0.57, recall 1.00, f1 0.73

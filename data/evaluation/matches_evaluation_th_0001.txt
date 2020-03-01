@@ -1,0 +1,100 @@
+[oak]	[Quercus(http://vocab.getty.edu/aat/300375060), oak(http://vocab.getty.edu/aat/300012264)]
+[evening dress]	[evening dresses(http://vocab.getty.edu/aat/300243843), evening dress(http://vocab.getty.edu/aat/300224227)]
+[hospital]	[hospitals(http://vocab.getty.edu/aat/300006676), hospitals(http://vocab.getty.edu/aat/300343474), hospitals(http://vocab.getty.edu/aat/300343473), hospitals(http://vocab.getty.edu/aat/300312214)]
+[crab]	[Brachyura(http://vocab.getty.edu/aat/300249722)]
+[grammar]	[grammar(http://vocab.getty.edu/aat/300263250)]
+[white poplar]	[Populus alba(http://vocab.getty.edu/aat/300375465), white poplar(http://vocab.getty.edu/aat/300012386)]
+[ciborium]	[ciboria(http://vocab.getty.edu/aat/300076084), ciboria(http://vocab.getty.edu/aat/300198813)]
+[flax]	[Linum usitatissimum(http://vocab.getty.edu/aat/300375504), flax(http://vocab.getty.edu/aat/300014041)]
+[hood]	[hoods(http://vocab.getty.edu/aat/300046121)]
+[brick]	[brick(http://vocab.getty.edu/aat/300010463)]
+
+[apple]	[Malus(http://vocab.getty.edu/aat/300343809), apple(http://vocab.getty.edu/aat/300266417), applewood(http://vocab.getty.edu/aat/300012340)]
+[Siren]	[sirens(http://vocab.getty.edu/aat/300379597)]
+[Atlas]	[atlas(http://vocab.getty.edu/aat/300265455)]
+
+[bench]	[benches(http://vocab.getty.edu/aat/300038494)]
+[yew]	[Taxus(http://vocab.getty.edu/aat/300343673), yew(http://vocab.getty.edu/aat/300012774)]
+
+[cartoon]	[cartoons(http://vocab.getty.edu/aat/300123430), animated cartoons(http://vocab.getty.edu/aat/300263512), cartoons(http://vocab.getty.edu/aat/300034442)]
+
+[stole]	[stoles(http://vocab.getty.edu/aat/300221756)]
+[depot]	[depots(http://vocab.getty.edu/aat/300312279)]
+[embroidery]	[embroidery(http://vocab.getty.edu/aat/300264024), embroidering(http://vocab.getty.edu/aat/300053653)]
+[mule]	[mules(http://vocab.getty.edu/aat/300250277)]
+[prison]	[prisons(http://vocab.getty.edu/aat/300006460), prisons(http://vocab.getty.edu/aat/300343479)]
+[curve]	[curves(http://vocab.getty.edu/aat/300022493)]
+[juniper]	[Juniperus(http://vocab.getty.edu/aat/300343647), juniper(http://vocab.getty.edu/aat/300012594)]
+
+[bed]	[beds(http://vocab.getty.edu/aat/300224540), beds(http://vocab.getty.edu/aat/300038697)]
+[barge]	[barges(http://vocab.getty.edu/aat/300232890)]
+[bishop]	[bishops(http://vocab.getty.edu/aat/300212339), bishops(http://vocab.getty.edu/aat/300025756)]
+
+[dog]	[Canis familiaris(http://vocab.getty.edu/aat/300250130), dogs(http://vocab.getty.edu/aat/300024149)]
+
+[feather]	[feathers(http://vocab.getty.edu/aat/300204649)]
+
+[opera]	[operas(http://vocab.getty.edu/aat/300255765)]
+
+[crow]	[crows(http://vocab.getty.edu/aat/300250041)]
+
+[Dies]	[dadoes(http://vocab.getty.edu/aat/300001746)]
+[opening]	[openings(http://vocab.getty.edu/aat/300002765)]
+[exchange]	[exchanges(http://vocab.getty.edu/aat/300005222)]
+[ensemble]	[ensembles(http://vocab.getty.edu/aat/300209844)]
+[genius]	[genius(http://vocab.getty.edu/aat/300263852)]
+
+
+[temple]	[temples(http://vocab.getty.edu/aat/300007595), temples(http://vocab.getty.edu/aat/300312244)]
+
+
+[pit]	[pits(http://vocab.getty.edu/aat/300008027)]
+[knitting]	[knitting(http://vocab.getty.edu/aat/300264039), knitting(http://vocab.getty.edu/aat/300053634)]
+
+[grape]	[Vitis(http://vocab.getty.edu/aat/300389835), grape(http://vocab.getty.edu/aat/300379338)]
+[composition]	[composition(http://vocab.getty.edu/aat/300056255), composition(http://vocab.getty.edu/aat/300237906), faience(http://vocab.getty.edu/aat/300265183)]
+
+[cardinal]	[cardinals(http://vocab.getty.edu/aat/300212304), cardinals(http://vocab.getty.edu/aat/300025758)]
+[pin]	[pins(http://vocab.getty.edu/aat/300046006), pins(http://vocab.getty.edu/aat/300036423)]
+[striking]	[striking(http://vocab.getty.edu/aat/300263759)]
+[beech]	[Fagus(http://vocab.getty.edu/aat/300343877), beech(http://vocab.getty.edu/aat/300011948)]
+[state]	[states(http://vocab.getty.edu/aat/300000776)]
+[justice]	[justices(http://vocab.getty.edu/aat/300258530)]
+[housewife]	[housewives(http://vocab.getty.edu/aat/300136476)]
+
+[reflection]	[reflections(http://vocab.getty.edu/aat/300056034)]
+
+
+
+
+[acanthus]	[Acanthus(http://vocab.getty.edu/aat/300375553)]
+[redingote]	[redingotes(http://vocab.getty.edu/aat/300209851), redingotes(http://vocab.getty.edu/aat/300254632)]
+
+
+[choir]	[choirs(http://vocab.getty.edu/aat/300389787), choirs(http://vocab.getty.edu/aat/300104479)]
+[marble]	[marble(http://vocab.getty.edu/aat/300011443)]
+
+[duck]	[ducks(http://vocab.getty.edu/aat/300250047)]
+
+
+
+
+[synagogue]	[synagogues(http://vocab.getty.edu/aat/300312245), synagogues(http://vocab.getty.edu/aat/300007590)]
+[torch]	[torches(http://vocab.getty.edu/aat/300037652)]
+
+[lake]	[lakes(http://vocab.getty.edu/aat/300008680), Lake(http://vocab.getty.edu/aat/300017685)]
+
+[sculpture]	[sculpture(http://vocab.getty.edu/aat/300047090)]
+
+[table]	[tables(http://vocab.getty.edu/aat/300039548)]
+
+[ring]	[rings(http://vocab.getty.edu/aat/300046012)]
+[leading]	[leading(http://vocab.getty.edu/aat/300241557)]
+
+
+
+[profile]	[profiles(http://vocab.getty.edu/aat/300034272), profiles(http://vocab.getty.edu/aat/300123319)]
+[plate]	[plate(http://vocab.getty.edu/aat/300011041), plate(http://vocab.getty.edu/aat/300264667)]
+
+
+

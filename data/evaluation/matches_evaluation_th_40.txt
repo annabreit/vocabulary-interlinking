@@ -1,0 +1,100 @@
+[oak]	[Quercus(http://vocab.getty.edu/aat/300375060)]
+[evening dress]	[evening dresses(http://vocab.getty.edu/aat/300243843), evening dress(http://vocab.getty.edu/aat/300224227)]
+
+
+
+[white poplar]	[Populus alba(http://vocab.getty.edu/aat/300375465), white poplar(http://vocab.getty.edu/aat/300012386)]
+
+[flax]	[Linum usitatissimum(http://vocab.getty.edu/aat/300375504)]
+
+
+
+[apple]	[Malus(http://vocab.getty.edu/aat/300343809), apple(http://vocab.getty.edu/aat/300266417)]
+
+
+
+
+[yew]	[Taxus(http://vocab.getty.edu/aat/300343673)]
+
+
+
+[stole]	[stoles(http://vocab.getty.edu/aat/300221756)]
+
+[embroidery]	[embroidering(http://vocab.getty.edu/aat/300053653)]
+
+
+[curve]	[curves(http://vocab.getty.edu/aat/300022493)]
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+[grape]	[Vitis(http://vocab.getty.edu/aat/300389835), grape(http://vocab.getty.edu/aat/300379338)]
+
+[composition]	[composition(http://vocab.getty.edu/aat/300056255), composition(http://vocab.getty.edu/aat/300237906), faience(http://vocab.getty.edu/aat/300265183)]
+
+[cardinal]	[cardinals(http://vocab.getty.edu/aat/300212304), cardinals(http://vocab.getty.edu/aat/300025758)]
+
+[hood]	[hoods(http://vocab.getty.edu/aat/300046121)]
+[beech]	[Fagus(http://vocab.getty.edu/aat/300343877)]
+
+
+
+
+
+
+
+
+
+
+[acanthus]	[Acanthus(http://vocab.getty.edu/aat/300375553)]
+[redingote]	[redingotes(http://vocab.getty.edu/aat/300209851), redingotes(http://vocab.getty.edu/aat/300254632)]
+
+[marble]	[marble(http://vocab.getty.edu/aat/300011443)]
+
+
+
+
+
+
+[synagogue]	[synagogues(http://vocab.getty.edu/aat/300312245), synagogues(http://vocab.getty.edu/aat/300007590)]
+
+[choir]	[choirs(http://vocab.getty.edu/aat/300104479)]
+[lake]	[lakes(http://vocab.getty.edu/aat/300008680), Lake(http://vocab.getty.edu/aat/300017685)]
+
+[sculpture]	[sculpture(http://vocab.getty.edu/aat/300047090)]
+
+[bench]	[benches(http://vocab.getty.edu/aat/300038494)]
+
+
+
+
+
+
+
+
+
+
+[justice]	[justices(http://vocab.getty.edu/aat/300258530)]
