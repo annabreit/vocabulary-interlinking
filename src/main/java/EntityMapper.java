@@ -136,7 +136,7 @@ public abstract class EntityMapper {
             if (match.getValue().size() > 0) {
                 stringBuilder.append(match.getKey().labels
                         .stream()
-                        .filter(label -> label.language.equals("en"))
+                        .filter(label -> label.language.equals("en")) //todo change here for no language restriction
                         .map(label -> label.original_string)
                         .collect(Collectors.toList()));
                 stringBuilder.append('\t');

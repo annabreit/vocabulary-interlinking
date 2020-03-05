@@ -32,18 +32,22 @@ public class Main {
 
         List<String> multipleMatchesSubset = new ArrayList<>(Arrays.asList(multipleMatchesSubsetString.split(", ")));
 
-        String outfile = "/Users/breita/Documents/IC_AAT/matches_evaluation_th_20.txt";
-        String pathToModel = "/Users/breita/fusekidata/aat-and-ic";
+        String outfile = "./data/predicted_matches_th_20.txt";
+        String pathToModel = "./data/fuseki-aat-and-ic-oct-2019";
         IcSubjectAatMapper icLabelAatMapper = new IcSubjectAatMapper(pathToModel);
 
         List<Literal> subjects = icLabelAatMapper.getAllSubjects();
 
-        List<Literal> english_subset = subjects.stream().filter(s -> s.getLanguage().equals("en")).filter(s -> multipleMatchesSubset.contains(s.getLexicalForm())).collect(Collectors.toList());
+        List<Literal> english_subset = subjects
+                .stream()
+                .filter(s -> s.getLanguage().equals("en"))
+                //.filter(s -> multipleMatchesSubset.contains(s.getLexicalForm()))
+                .collect(Collectors.toList());
 
         icLabelAatMapper.createLinkedEntities(english_subset);
+
         BufferedWriter writer = new BufferedWriter(new FileWriter(outfile));
         writer.write(icLabelAatMapper.getMatchesString());
-
         writer.close();
 
 

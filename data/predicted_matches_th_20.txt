@@ -1,0 +1,13727 @@
+
+
+
+
+
+[parking garage]	[parking garages(http://vocab.getty.edu/aat/300007807)]
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+[novel]	[novels(http://vocab.getty.edu/aat/300202580)]
+
+
+[geodesy]	[geodesy(http://vocab.getty.edu/aat/300054544)]
+[engraver]	[engravers(http://vocab.getty.edu/aat/300025165)]
+
+
+[emblem]	[emblems(http://vocab.getty.edu/aat/300123036), emblems(http://vocab.getty.edu/aat/300123040)]
+
+
+
+
+
+[justice]	[justices(http://vocab.getty.edu/aat/300258530)]
+
+
+
+[vulture]	[vultures(http://vocab.getty.edu/aat/300310582)]
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+[lute]	[lutes(http://vocab.getty.edu/aat/300042101)]
+
+
+
+
+
+[aesthetics]	[aesthetics(http://vocab.getty.edu/aat/300054280)]
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+[playground]	[playgrounds(http://vocab.getty.edu/aat/300008203)]
+
+
+
+[shelf]	[shelves(http://vocab.getty.edu/aat/300165847)]
+[oyster shell]	[oyster shell(http://vocab.getty.edu/aat/300011836)]
+
+
+
+[necropolis]	[necropolises(http://vocab.getty.edu/aat/300000372)]
+
+
+
+[sailor]	[sailors(http://vocab.getty.edu/aat/300386642)]
+
+
+
+
+
+
+[reporter]	[reporters(http://vocab.getty.edu/aat/300025508)]
+[sprinkling]	[sprinkling(http://vocab.getty.edu/aat/300252700)]
+
+[hip]	[hips(http://vocab.getty.edu/aat/300310191)]
+
+
+
+
+
+
+
+[street]	[streets(http://vocab.getty.edu/aat/300008247)]
+
+[skeleton key]	[skeleton keys(http://vocab.getty.edu/aat/300079089)]
+[trade]	[trade(http://vocab.getty.edu/aat/300061886)]
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+[corset]	[corsets(http://vocab.getty.edu/aat/300210582)]
+
+
+
+
+
+[camera]	[cameras(http://vocab.getty.edu/aat/300022636)]
+
+
+
+
+
+
+
+
+
+
+
+
+
+[youth]	[youth(http://vocab.getty.edu/aat/300025944)]
+
+[saloon]	[saloons(http://vocab.getty.edu/aat/300005171)]
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+[optics]	[optics(http://vocab.getty.edu/aat/300054570)]
+
+
+
+
+
+
+
+[legend]	[legends(http://vocab.getty.edu/aat/300055923)]
+
+
+
+
+
+[child]	[children(http://vocab.getty.edu/aat/300025945)]
+
+
+
+
+
+
+
+[slide]	[slides(http://vocab.getty.edu/aat/300128371), slides(http://vocab.getty.edu/aat/300211246)]
+
+
+
+
+[painter]	[painters(http://vocab.getty.edu/aat/300236851), painters(http://vocab.getty.edu/aat/300025136)]
+
+
+
+
+
+
+
+
+
+
+
+
+
+[scene]	[scenes(http://vocab.getty.edu/aat/300264666)]
+
+
+
+
+
+
+
+
+
+
+
+
+[joy]	[joy(http://vocab.getty.edu/aat/300055164)]
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+[oasis]	[oases(http://vocab.getty.edu/aat/300008686)]
+[museum]	[museums(http://vocab.getty.edu/aat/300005768)]
+
+
+
+
+
+
+
+[navy]	[navies(http://vocab.getty.edu/aat/300137544)]
+
+
+
+
+
+[cylinder]	[cylinders(http://vocab.getty.edu/aat/300163037)]
+
+
+[longing]	[longing(http://vocab.getty.edu/aat/300343845)]
+
+
+
+[handball]	[handballs(http://vocab.getty.edu/aat/300211517)]
+
+
+
+[court dress]	[court dress(http://vocab.getty.edu/aat/300256706)]
+
+
+
+[culture]	[culture(http://vocab.getty.edu/aat/300055768)]
+
+[snake]	[Serpentes(http://vocab.getty.edu/aat/300250870)]
+
+
+[republic]	[republics(http://vocab.getty.edu/aat/300179493)]
+
+
+
+
+
+
+
+
+[carton]	[cartons(http://vocab.getty.edu/aat/300215468)]
+
+
+
+
+
+
+
+
+
+
+
+
+
+[occupations]	[occupations(http://vocab.getty.edu/aat/300379081), occupations(http://vocab.getty.edu/aat/300263369)]
+
+
+
+
+
+
+
+
+
+
+
+
+
+[stepmother]	[stepmothers(http://vocab.getty.edu/aat/300386762)]
+
+
+
+
+[awl]	[awls(http://vocab.getty.edu/aat/300024663)]
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+[moon]	[moons(http://vocab.getty.edu/aat/300386951)]
+
+[tapestry]	[tapestries(http://vocab.getty.edu/aat/300205002)]
+
+
+
+
+
+[panther]	[Panthera(http://vocab.getty.edu/aat/300310374), panthers(http://vocab.getty.edu/aat/300379760)]
+
+[telephone]	[telephones(http://vocab.getty.edu/aat/300249768)]
+
+
+
+[canteen]	[recreation centers(http://vocab.getty.edu/aat/300007241)]
+[rack]	[racks(http://vocab.getty.edu/aat/300391487)]
+
+[recording studio]	[recording studios(http://vocab.getty.edu/aat/300005397)]
+
+
+
+[concert]	[concerts(http://vocab.getty.edu/aat/300069210)]
+[monkey]	[monkeys(http://vocab.getty.edu/aat/300250028)]
+
+
+
+
+
+
+
+
+[step]	[steps(http://vocab.getty.edu/aat/300003312)]
+
+
+
+
+
+[candle]	[candles(http://vocab.getty.edu/aat/300037654)]
+
+
+
+
+
+
+
+
+
+[conditions]	[conditions(http://vocab.getty.edu/aat/300389724)]
+
+
+
+[willow]	[Salix(http://vocab.getty.edu/aat/300375384), willow(http://vocab.getty.edu/aat/300012498)]
+
+[thief]	[thieves(http://vocab.getty.edu/aat/300025841)]
+
+[masque]	[masques(http://vocab.getty.edu/aat/300189655)]
+
+
+
+
+
+
+
+[cathedral]	[cathedrals(http://vocab.getty.edu/aat/300007501)]
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+[bee]	[Apis(http://vocab.getty.edu/aat/300375640), Apoidea(http://vocab.getty.edu/aat/300310662)]
+
+
+[civil rights]	[civil rights(http://vocab.getty.edu/aat/300068783)]
+
+
+
+
+
+
+[Coptic Church]	[Coptic(http://vocab.getty.edu/aat/300022022)]
+
+
+
+
+
+
+
+[journeyman]	[journeymen(http://vocab.getty.edu/aat/300025903)]
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+[reed]	[reed(http://vocab.getty.edu/aat/300011878), reed(http://vocab.getty.edu/aat/300375478), reeds(http://vocab.getty.edu/aat/300343551)]
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+[menorah]	[Hanukkah lamps(http://vocab.getty.edu/aat/300180588), menorahs(http://vocab.getty.edu/aat/300391227)]
+[hazel]	[Corylus(http://vocab.getty.edu/aat/300374894), filbert(http://vocab.getty.edu/aat/300136915)]
+
+[carp]	[carp(http://vocab.getty.edu/aat/300250185)]
+
+
+
+
+[courtier]	[courtiers(http://vocab.getty.edu/aat/300025449)]
+
+
+
+
+
+
+
+
+
+[whale]	[whales(http://vocab.getty.edu/aat/300250157)]
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+[nephew]	[nephews(http://vocab.getty.edu/aat/300386770)]
+
+
+
+
+
+
+
+
+
+
+
+[alcoholism]	[alcoholism(http://vocab.getty.edu/aat/300189153)]
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+[prince]	[princes(http://vocab.getty.edu/aat/300025482)]
+
+
+
+
+
+
+
+
+
+[hammock]	[hammocks(http://vocab.getty.edu/aat/300134616)]
+
+
+
+
+
+
+[monocle]	[monocles(http://vocab.getty.edu/aat/300263207)]
+
+
+
+
+[ball games]	[ball games(http://vocab.getty.edu/aat/300239662)]
+
+
+
+
+[winter]	[winter(http://vocab.getty.edu/aat/300133101)]
+
+
+[mathematics]	[mathematics(http://vocab.getty.edu/aat/300054522)]
+
+
+
+[mortise chisel]	[mortise chisels(http://vocab.getty.edu/aat/300023672)]
+
+
+
+
+
+
+
+
+
+[lictor]	[lictors(http://vocab.getty.edu/aat/300379965)]
+
+[breakwater]	[breakwaters(http://vocab.getty.edu/aat/300006137)]
+
+
+
+
+
+
+
+[spear]	[spears(http://vocab.getty.edu/aat/300037038)]
+
+
+[transverse flute]	[transverse flutes(http://vocab.getty.edu/aat/300201259)]
+[social stratification]	[social stratification(http://vocab.getty.edu/aat/300055479)]
+[municipal government]	[municipal government(http://vocab.getty.edu/aat/300055500)]
+
+
+
+[emperor]	[emperors(http://vocab.getty.edu/aat/300025480)]
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+[labarum]	[labarums(http://vocab.getty.edu/aat/300300219)]
+
+[hose]	[hoses(http://vocab.getty.edu/aat/300024764)]
+
+
+
+
+
+
+
+[magnetism]	[magnetism(http://vocab.getty.edu/aat/300195455)]
+
+
+
+
+[barrel]	[barrels(http://vocab.getty.edu/aat/300203978), barrels(http://vocab.getty.edu/aat/300194514)]
+
+
+
+
+
+
+
+[swimming]	[swimming(http://vocab.getty.edu/aat/300239495)]
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+[epic poetry]	[epics(http://vocab.getty.edu/aat/300253035)]
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+[soil pollution]	[soil pollution(http://vocab.getty.edu/aat/300055354)]
+[solid]	[solid(http://vocab.getty.edu/aat/300015377)]
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+[negative]	[negatives(http://vocab.getty.edu/aat/300127173)]
+
+[photographer]	[photographers(http://vocab.getty.edu/aat/300025687)]
+
+
+
+
+
+
+
+
+
+
+[ruler]	[rulers(http://vocab.getty.edu/aat/300025475)]
+
+
+
+
+
+[Echo]	[echo(http://vocab.getty.edu/aat/300056063)]
+[doorknob]	[doorknobs(http://vocab.getty.edu/aat/300176901)]
+
+
+
+
+
+
+
+
+
+
+
+
+
+[theologian]	[theologians(http://vocab.getty.edu/aat/300025784)]
+
+
+
+
+
+
+
+
+
+
+
+[stork]	[Ciconiidae(http://vocab.getty.edu/aat/300250101)]
+
+
+
+
+[drapery]	[draperies(http://vocab.getty.edu/aat/300203770)]
+
+[cake]	[cake(http://vocab.getty.edu/aat/300255019)]
+[hockey]	[ice hockey(http://vocab.getty.edu/aat/300222778)]
+
+
+
+
+
+
+
+
+[hangings]	[hangings(http://vocab.getty.edu/aat/300205010)]
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+[steel]	[steel(http://vocab.getty.edu/aat/300133751)]
+
+
+
+
+
+[concert hall]	[concert halls(http://vocab.getty.edu/aat/300007102)]
+
+
+
+[footstool]	[footstools(http://vocab.getty.edu/aat/300038435)]
+
+
+
+
+[Easter]	[Easter(http://vocab.getty.edu/aat/300069057)]
+
+[coelenterate]	[Cnidaria(http://vocab.getty.edu/aat/300265921)]
+
+
+
+
+
+
+[customs]	[customs(http://vocab.getty.edu/aat/300055807)]
+
+
+
+
+
+[chair]	[chairs(http://vocab.getty.edu/aat/300037772)]
+[knee]	[knees(http://vocab.getty.edu/aat/300040883), knees(http://vocab.getty.edu/aat/300310190)]
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+[publisher]	[publishers(http://vocab.getty.edu/aat/300025574)]
+
+
+
+
+[shoe]	[shoes(http://vocab.getty.edu/aat/300046065)]
+
+
+[grindstone]	[grindstones(http://vocab.getty.edu/aat/300024720)]
+[tulip]	[Tulipa(http://vocab.getty.edu/aat/300379705)]
+
+
+
+
+
+
+[sulky]	[sulkies(http://vocab.getty.edu/aat/300226643)]
+[Pharaoh]	[pharaohs(http://vocab.getty.edu/aat/300150507)]
+
+
+
+
+
+
+
+
+
+
+
+
+[gold]	[gold(http://vocab.getty.edu/aat/300011021)]
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+[leg]	[legs(http://vocab.getty.edu/aat/300162380), legs(http://vocab.getty.edu/aat/300310192)]
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+[daughter-in-law]	[daughters-in-law(http://vocab.getty.edu/aat/300386776)]
+[rifle]	[rifles(http://vocab.getty.edu/aat/300037181), rifles(http://vocab.getty.edu/aat/300036966)]
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+[arch]	[arches(http://vocab.getty.edu/aat/300000994)]
+
+[straits]	[straits(http://vocab.getty.edu/aat/300266559)]
+
+
+
+
+[parrot]	[Psittacidae(http://vocab.getty.edu/aat/300250076)]
+
+[building block]	[building blocks(http://vocab.getty.edu/aat/300211303)]
+
+
+[onager]	[Equus hemionus onager(http://vocab.getty.edu/aat/300265998)]
+
+
+
+
+[hero]	[heroes(http://vocab.getty.edu/aat/300236801)]
+[hearing]	[hearing(http://vocab.getty.edu/aat/300055139)]
+
+
+
+[shark]	[Selachii(http://vocab.getty.edu/aat/300249658)]
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+[whiskers]	[whiskers(http://vocab.getty.edu/aat/300379274)]
+
+
+
+
+
+
+
+[pear]	[Pyrus(http://vocab.getty.edu/aat/300375178), pear(http://vocab.getty.edu/aat/300012338)]
+
+
+
+
+
+
+
+
+
+[dentistry]	[dentistry(http://vocab.getty.edu/aat/300054517)]
+
+[birth]	[births(http://vocab.getty.edu/aat/300069672)]
+
+[cabin]	[cabins(http://vocab.getty.edu/aat/300005496)]
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+[glove]	[gloves(http://vocab.getty.edu/aat/300148821)]
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+[goddess]	[goddesses(http://vocab.getty.edu/aat/300343852)]
+
+
+
+
+
+
+
+
+
+[leopard]	[Panthera pardus(http://vocab.getty.edu/aat/300310390)]
+
+
+
+
+
+
+
+
+
+
+[temple]	[temples(http://vocab.getty.edu/aat/300007595)]
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+[torch]	[torches(http://vocab.getty.edu/aat/300037652)]
+
+
+
+
+
+
+
+[barometer]	[barometers(http://vocab.getty.edu/aat/300195808)]
+
+
+
+
+
+
+
+
+[cinematographer]	[cinematographers(http://vocab.getty.edu/aat/300025650)]
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+[squirrel]	[squirrels(http://vocab.getty.edu/aat/300250601)]
+
+
+
+
+
+
+
+
+
+[rabbit]	[rabbits(http://vocab.getty.edu/aat/300250218)]
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+[tricorn]	[tricornes(http://vocab.getty.edu/aat/300046114)]
+
+
+
+
+
+
+
+
+[rice]	[Oryza(http://vocab.getty.edu/aat/300343827)]
+
+
+
+
+
+
+
+
+
+
+
+
+
+[consulting]	[consulting(http://vocab.getty.edu/aat/300137940)]
+
+[widow]	[widows(http://vocab.getty.edu/aat/300263464)]
+
+
+
+
+
+
+
+
+
+
+
+
+[member of parliament]	[members of Parliament(http://vocab.getty.edu/aat/300025469)]
+
+
+[model]	[models(http://vocab.getty.edu/aat/300025848)]
+
+[bus]	[buses(http://vocab.getty.edu/aat/300212677)]
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+[council]	[councils(http://vocab.getty.edu/aat/300312287)]
+
+
+
+[colossus]	[colossi(http://vocab.getty.edu/aat/300047453)]
+
+
+
+
+
+
+
+
+[rural life]	[rural life(http://vocab.getty.edu/aat/300380146)]
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+[trestle table]	[trestle tables(http://vocab.getty.edu/aat/300039612)]
+
+
+[jam]	[jam(http://vocab.getty.edu/aat/300389828)]
+
+
+
+
+
+
+
+
+
+
+[stained glass artist]	[stained glass artists(http://vocab.getty.edu/aat/300386222)]
+
+
+
+
+
+
+
+
+
+
+[singer]	[singers(http://vocab.getty.edu/aat/300025684)]
+
+
+
+
+
+
+
+[leprosarium]	[leprosaria(http://vocab.getty.edu/aat/300008507)]
+
+
+
+
+
+
+
+
+
+[graphology]	[graphology(http://vocab.getty.edu/aat/300379599)]
+
+
+[fly]	[Diptera(http://vocab.getty.edu/aat/300310504)]
+[basketball]	[basketball(http://vocab.getty.edu/aat/300222729), basketballs(http://vocab.getty.edu/aat/300211461)]
+[video camera]	[video cameras(http://vocab.getty.edu/aat/300263898)]
+[kingfisher]	[kingfishers(http://vocab.getty.edu/aat/300311169)]
+
+
+
+
+
+
+[sheet]	[sheets(http://vocab.getty.edu/aat/300204598)]
+
+
+
+
+[Turkish bath]	[Turkish baths(http://vocab.getty.edu/aat/300007371)]
+[seesaw]	[seesaws(http://vocab.getty.edu/aat/300211229)]
+
+
+
+
+
+
+
+
+
+[business]	[business(http://vocab.getty.edu/aat/300054343), businesses(http://vocab.getty.edu/aat/300025966)]
+
+
+
+[psychotic art]	[outsider art(http://vocab.getty.edu/aat/300056472)]
+[indulgence]	[indulgence(http://vocab.getty.edu/aat/300172719)]
+
+
+
+
+[manège]	[manèges(http://vocab.getty.edu/aat/300254268), manèges(http://vocab.getty.edu/aat/300343415)]
+
+
+
+
+[poplar]	[Populus(http://vocab.getty.edu/aat/300375211), poplar(http://vocab.getty.edu/aat/300012363)]
+
+
+
+
+
+
+[Sabines]	[Sabine(http://vocab.getty.edu/aat/300308016)]
+[tunny]	[Thunnus(http://vocab.getty.edu/aat/300250193)]
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+[wind instrument]	[wind instruments(http://vocab.getty.edu/aat/300042274)]
+
+
+
+
+
+[telecommunication]	[telecommunications(http://vocab.getty.edu/aat/300054355)]
+
+
+
+[tiger]	[Panthera tigris(http://vocab.getty.edu/aat/300249063)]
+
+
+
+
+
+
+[contrast]	[contrast(http://vocab.getty.edu/aat/300260079)]
+[twin]	[twins(http://vocab.getty.edu/aat/300263240)]
+
+
+
+
+
+
+[demolition]	[demolition(http://vocab.getty.edu/aat/300053085)]
+
+
+
+
+
+
+
+
+
+
+[depot]	[depots(http://vocab.getty.edu/aat/300312279)]
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+[religion]	[religions(http://vocab.getty.edu/aat/300073708), religion(http://vocab.getty.edu/aat/300054300)]
+
+
+
+
+
+
+
+
+[skeleton]	[skeleton(http://vocab.getty.edu/aat/300191778)]
+
+[eraser]	[erasers(http://vocab.getty.edu/aat/300022508)]
+
+
+[ownership]	[ownership(http://vocab.getty.edu/aat/300055603)]
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+[computer]	[computers(http://vocab.getty.edu/aat/300024521)]
+
+[telephone pole]	[telephone poles(http://vocab.getty.edu/aat/300266774)]
+
+
+[microphone]	[microphones(http://vocab.getty.edu/aat/300266322)]
+
+[conductor]	[conductors(http://vocab.getty.edu/aat/300025672)]
+
+
+
+
+
+
+
+[cassone]	[cassoni(http://vocab.getty.edu/aat/300039007)]
+
+
+[cicada]	[Cicadidae(http://vocab.getty.edu/aat/300250232)]
+
+[ibex]	[ibexes(http://vocab.getty.edu/aat/300250124)]
+
+
+[Buddhism]	[Buddhism(http://vocab.getty.edu/aat/300073738)]
+[psalm]	[psalms(http://vocab.getty.edu/aat/300379856)]
+
+
+
+
+
+
+
+
+
+
+
+
+[bookcase]	[bookcases(http://vocab.getty.edu/aat/300143716)]
+
+[barber]	[barbers(http://vocab.getty.edu/aat/300188613)]
+
+
+
+
+
+
+
+
+
+[ébéniste]	[ébénistes(http://vocab.getty.edu/aat/300025373)]
+
+
+
+
+
+
+[shopkeeper]	[shopkeepers(http://vocab.getty.edu/aat/300025247)]
+
+
+
+
+
+
+
+
+
+[guillotine]	[guillotines(http://vocab.getty.edu/aat/300261951)]
+
+
+
+[network]	[networks(http://vocab.getty.edu/aat/300311885)]
+
+
+
+
+
+
+
+
+
+
+
+
+[lacrosse]	[lacrosse(http://vocab.getty.edu/aat/300222799)]
+
+
+
+
+
+
+[guitar]	[guitars(http://vocab.getty.edu/aat/300042025)]
+
+
+
+[butterfly]	[Papilionoidea(http://vocab.getty.edu/aat/300310614)]
+[pastry]	[pastry(http://vocab.getty.edu/aat/300389829)]
+
+
+
+[summer]	[summer(http://vocab.getty.edu/aat/300133099)]
+
+
+[acanthus]	[Acanthus(http://vocab.getty.edu/aat/300375553)]
+[weather]	[weather(http://vocab.getty.edu/aat/300055366)]
+
+
+
+
+
+
+[cap]	[caps(http://vocab.getty.edu/aat/300046094)]
+
+
+
+
+
+
+[cuff link]	[cuff links(http://vocab.getty.edu/aat/300209299)]
+[physician]	[physicians(http://vocab.getty.edu/aat/300025809)]
+
+
+[earthworm]	[Lumbricus(http://vocab.getty.edu/aat/300310697)]
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+[guild]	[guilds(http://vocab.getty.edu/aat/300025988)]
+
+
+
+
+
+[ant]	[Formicidae(http://vocab.getty.edu/aat/300258809)]
+
+
+
+[doctor]	[doctors(http://vocab.getty.edu/aat/300312079)]
+
+
+
+
+
+
+[drop]	[drops(http://vocab.getty.edu/aat/300164839)]
+
+
+[bank]	[banks(http://vocab.getty.edu/aat/300005214)]
+
+[professor]	[professors(http://vocab.getty.edu/aat/300025533)]
+
+
+
+
+
+[grape]	[Vitis(http://vocab.getty.edu/aat/300389835), grape(http://vocab.getty.edu/aat/300379338)]
+
+
+
+[magnetite]	[magnetite(http://vocab.getty.edu/aat/300011110)]
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+[ghost]	[ghosts(http://vocab.getty.edu/aat/300379162)]
+
+
+
+[Siren]	[sirens(http://vocab.getty.edu/aat/300379597)]
+
+
+
+
+
+
+
+[murex]	[Murex(http://vocab.getty.edu/aat/300311514), Muricidae(http://vocab.getty.edu/aat/300389904)]
+
+
+
+
+[public library]	[public libraries(http://vocab.getty.edu/aat/300006877), public libraries(http://vocab.getty.edu/aat/300343389)]
+
+
+
+
+
+
+[motorcycle]	[motorcycles(http://vocab.getty.edu/aat/300212789)]
+
+
+
+
+[turkey]	[Meleagris(http://vocab.getty.edu/aat/300266497), Turkey leather(http://vocab.getty.edu/aat/300263091)]
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+[worm]	[worms(http://vocab.getty.edu/aat/300258742)]
+
+
+
+
+
+
+
+
+
+
+
+
+
+[fountain]	[fountains(http://vocab.getty.edu/aat/300006179)]
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+[spirit]	[spirits(http://vocab.getty.edu/aat/300379007)]
+
+[owl]	[Strigiformes(http://vocab.getty.edu/aat/300310290)]
+
+
+
+
+
+
+[viaduct]	[viaducts(http://vocab.getty.edu/aat/300007890)]
+
+
+
+
+
+
+
+
+
+
+
+
+
+[kolf]	[kolven(http://vocab.getty.edu/aat/300386077)]
+
+
+
+
+
+
+
+
+
+
+[Atlas]	[atlas(http://vocab.getty.edu/aat/300265455)]
+[connoisseur]	[connoisseurs(http://vocab.getty.edu/aat/300264539)]
+
+
+
+
+
+
+
+
+
+
+
+
+[twining]	[twining(http://vocab.getty.edu/aat/300228538)]
+[tapeworm]	[Cestoda(http://vocab.getty.edu/aat/300265686)]
+
+
+
+
+
+
+[trumpet]	[trumpets(http://vocab.getty.edu/aat/300042339)]
+
+
+
+
+
+
+
+
+
+[house]	[houses(http://vocab.getty.edu/aat/300005433)]
+
+[physics]	[physics(http://vocab.getty.edu/aat/300054559)]
+
+[bucket]	[buckets(http://vocab.getty.edu/aat/300022323), buckets(http://vocab.getty.edu/aat/300045651)]
+
+
+
+
+[type]	[type(http://vocab.getty.edu/aat/300233629), types(http://vocab.getty.edu/aat/300193569)]
+
+
+[current]	[currents(http://vocab.getty.edu/aat/300386114)]
+
+
+
+
+
+[witch]	[witches(http://vocab.getty.edu/aat/300252827)]
+
+
+
+
+[arm]	[arms(http://vocab.getty.edu/aat/300040237), arms(http://vocab.getty.edu/aat/300310201)]
+
+
+[protractor]	[protractors(http://vocab.getty.edu/aat/300022525)]
+[cathedra]	[cathedrae(http://vocab.getty.edu/aat/300125933), cathedrae(http://vocab.getty.edu/aat/300312264)]
+[centring]	[centering(http://vocab.getty.edu/aat/300178768)]
+[beach]	[beaches(http://vocab.getty.edu/aat/300008816)]
+
+
+[mouse]	[Mus(http://vocab.getty.edu/aat/300250249)]
+
+
+
+
+[rolling]	[rolling(http://vocab.getty.edu/aat/300263260)]
+
+
+
+
+
+
+
+
+
+
+
+[dedication]	[dedications(http://vocab.getty.edu/aat/300069274)]
+
+
+
+
+
+
+
+
+
+
+
+[ballista]	[ballistae(http://vocab.getty.edu/aat/300036934)]
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+[father]	[fathers(http://vocab.getty.edu/aat/300025931)]
+
+
+
+
+
+
+[technology]	[technology(http://vocab.getty.edu/aat/300056069)]
+
+
+
+
+
+
+
+
+
+
+[lipstick]	[lipsticks(http://vocab.getty.edu/aat/300236426)]
+
+
+[Hinduism]	[Hinduism(http://vocab.getty.edu/aat/300073727)]
+
+[spoon]	[spoons(http://vocab.getty.edu/aat/300043149)]
+
+
+
+
+
+[servant]	[servants(http://vocab.getty.edu/aat/300025874)]
+
+
+
+
+
+
+
+
+
+[mermaid]	[mermaids(http://vocab.getty.edu/aat/300379596)]
+[shoemaker]	[shoemakers(http://vocab.getty.edu/aat/300025294)]
+
+
+
+
+
+
+[precious stone]	[precious stone(http://vocab.getty.edu/aat/300133732)]
+
+
+[genre]	[genre(http://vocab.getty.edu/aat/300139140)]
+[tragedy]	[tragedies(http://vocab.getty.edu/aat/300201026)]
+
+
+
+
+
+
+
+
+
+
+
+[duck]	[ducks(http://vocab.getty.edu/aat/300250047)]
+
+[hill]	[hills(http://vocab.getty.edu/aat/300008777)]
+
+
+
+
+
+
+
+
+
+
+
+[artist]	[artists(http://vocab.getty.edu/aat/300025103)]
+
+
+
+
+
+
+[hail]	[hail(http://vocab.getty.edu/aat/300055376)]
+
+
+
+[silversmith]	[silversmiths(http://vocab.getty.edu/aat/300025323)]
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+[animal material]	[animal material(http://vocab.getty.edu/aat/300011793)]
+
+
+[mosaicist]	[mosaicists(http://vocab.getty.edu/aat/300025276)]
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+[adulthood]	[adulthood(http://vocab.getty.edu/aat/300189598)]
+
+
+
+
+
+[precentor]	[precentors(http://vocab.getty.edu/aat/300252053)]
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+[basin]	[basins(http://vocab.getty.edu/aat/300045614)]
+
+
+
+[airship]	[airships(http://vocab.getty.edu/aat/300045539)]
+
+
+
+
+
+
+[pipe]	[pipes(http://vocab.getty.edu/aat/300248067)]
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+[ice hockey]	[ice hockey(http://vocab.getty.edu/aat/300222778)]
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+[combustion]	[combustion(http://vocab.getty.edu/aat/300053880)]
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+[iconostasis]	[iconostases(http://vocab.getty.edu/aat/300003784)]
+
+
+
+
+
+
+
+[bar]	[bars(http://vocab.getty.edu/aat/300005158)]
+
+[criminal law]	[criminal law(http://vocab.getty.edu/aat/300054415)]
+
+
+
+
+
+[niece]	[nieces(http://vocab.getty.edu/aat/300386771)]
+
+
+
+
+
+
+[Maundy Thursday]	[Maundy Thursday(http://vocab.getty.edu/aat/300264413)]
+
+[craft]	[crafts(http://vocab.getty.edu/aat/300054704)]
+
+[Cupid]	[cupids(http://vocab.getty.edu/aat/300380105)]
+
+
+
+
+
+
+
+[tabernacle]	[tabernacles(http://vocab.getty.edu/aat/300312236)]
+
+
+
+
+
+
+
+
+
+
+
+[knitting]	[knitting(http://vocab.getty.edu/aat/300264039), knitting(http://vocab.getty.edu/aat/300053634)]
+
+
+
+
+
+
+
+[lullaby]	[lullabies(http://vocab.getty.edu/aat/300257069)]
+
+
+
+
+
+
+
+
+
+
+
+[broadcasting]	[broadcasting(http://vocab.getty.edu/aat/300054351)]
+
+
+
+
+[laboratory]	[laboratories(http://vocab.getty.edu/aat/300007660)]
+
+
+
+
+[lock]	[locks(http://vocab.getty.edu/aat/300037189)]
+
+[writer]	[writers(http://vocab.getty.edu/aat/300386629)]
+
+[handkerchief]	[handkerchiefs(http://vocab.getty.edu/aat/300216195)]
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+[expedition]	[expeditions(http://vocab.getty.edu/aat/300069799)]
+
+[trellis]	[trellises(http://vocab.getty.edu/aat/300006785)]
+
+
+
+
+
+
+
+
+[stylite]	[stylites(http://vocab.getty.edu/aat/300266258)]
+
+[hookah]	[hookahs(http://vocab.getty.edu/aat/300259151)]
+
+
+
+[etcher]	[etchers(http://vocab.getty.edu/aat/300025174)]
+[department store]	[department stores(http://vocab.getty.edu/aat/300005344)]
+
+
+
+[sanctus bell]	[sanctus bells(http://vocab.getty.edu/aat/300199272)]
+
+
+
+
+
+[lithographer]	[lithographers(http://vocab.getty.edu/aat/300025175)]
+
+
+
+
+
+
+
+
+[initiation]	[initiations(http://vocab.getty.edu/aat/300069180)]
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+[hairbrush]	[hairbrushes(http://vocab.getty.edu/aat/300236713)]
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+[wool]	[wool(http://vocab.getty.edu/aat/300243430), wool(http://vocab.getty.edu/aat/300014074)]
+
+
+
+
+
+
+
+
+
+
+
+
+[merchant]	[merchants(http://vocab.getty.edu/aat/300025245)]
+
+
+
+
+
+
+[feast]	[feasts(http://vocab.getty.edu/aat/300069097)]
+
+
+
+
+
+
+
+
+
+
+[Camaldolese Order]	[Camaldolese(http://vocab.getty.edu/aat/300264396)]
+
+
+[city council]	[city councils(http://vocab.getty.edu/aat/300252686)]
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+[doweling]	[doweling(http://vocab.getty.edu/aat/300186243)]
+
+
+
+
+
+
+
+
+
+
+[igloo]	[igloos(http://vocab.getty.edu/aat/300005601)]
+
+
+
+[etching]	[biting(http://vocab.getty.edu/aat/300053310), etchings(http://vocab.getty.edu/aat/300041365)]
+
+
+
+[mystery play]	[mystery plays(http://vocab.getty.edu/aat/300055914)]
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+[Justice]	[justices(http://vocab.getty.edu/aat/300258530)]
+
+
+
+
+
+
+
+[grass]	[Poaceae(http://vocab.getty.edu/aat/300343828)]
+[hate]	[hate(http://vocab.getty.edu/aat/300055163)]
+
+
+
+
+
+
+
+
+
+
+
+
+[bulwark]	[bulwarks(http://vocab.getty.edu/aat/300387515)]
+
+
+
+[rodent]	[Rodentia(http://vocab.getty.edu/aat/300310315)]
+
+
+
+
+
+
+
+
+
+[strongbox]	[strongboxes(http://vocab.getty.edu/aat/300198932)]
+
+
+
+
+
+
+
+[stole]	[stoles(http://vocab.getty.edu/aat/300221756)]
+
+[Vestal virgin]	[vestal virgins(http://vocab.getty.edu/aat/300379898)]
+
+
+
+
+[cow]	[cows(http://vocab.getty.edu/aat/300250120), Cowlitz(http://vocab.getty.edu/aat/300388181)]
+
+
+
+
+
+
+
+
+
+
+
+
+[robe à la française]	[sacks(http://vocab.getty.edu/aat/300224538)]
+
+[morning dress]	[morning dress(http://vocab.getty.edu/aat/300255803)]
+
+[isthmus]	[isthmuses(http://vocab.getty.edu/aat/300008794)]
+[epistemology]	[epistemology(http://vocab.getty.edu/aat/300054288)]
+
+
+
+
+
+
+[fisherman]	[fishing vessels(http://vocab.getty.edu/aat/300232733), fishermen(http://vocab.getty.edu/aat/300025608)]
+
+
+
+
+
+[farm wagon]	[farm wagons(http://vocab.getty.edu/aat/300219625)]
+
+
+
+[heron]	[Ardeinae(http://vocab.getty.edu/aat/300250066)]
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+[andiron]	[andirons(http://vocab.getty.edu/aat/300161848)]
+
+
+
+
+
+[lagoon]	[lagoons(http://vocab.getty.edu/aat/300008679)]
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+[ophthalmologist]	[ophthalmologists(http://vocab.getty.edu/aat/300237241)]
+
+
+
+[locomotive]	[locomotives(http://vocab.getty.edu/aat/300113388)]
+
+
+
+[building material]	[building materials(http://vocab.getty.edu/aat/300014857)]
+
+[workhouse]	[workhouses(http://vocab.getty.edu/aat/300006490), workhouses(http://vocab.getty.edu/aat/300343481)]
+
+
+
+
+[bison]	[Bison(http://vocab.getty.edu/aat/300250105)]
+[joining]	[joining(http://vocab.getty.edu/aat/300137062)]
+
+[façade]	[façades(http://vocab.getty.edu/aat/300002526)]
+
+
+
+[keyboard instrument]	[keyboard instruments(http://vocab.getty.edu/aat/300041674)]
+[Syrian Church]	[Nestorian(http://vocab.getty.edu/aat/300022033)]
+
+
+
+
+[sheriff]	[sheriffs(http://vocab.getty.edu/aat/300136495)]
+
+[partner]	[partners(http://vocab.getty.edu/aat/300025231)]
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+[amaranth]	[Peltogyne(http://vocab.getty.edu/aat/300375313), purpleheart(http://vocab.getty.edu/aat/300012419)]
+
+
+
+
+
+
+
+
+
+
+[stirrup]	[stirrups(http://vocab.getty.edu/aat/300255573)]
+
+
+
+
+[bathing]	[bathing(http://vocab.getty.edu/aat/300343854)]
+
+[vegetable]	[vegetables(http://vocab.getty.edu/aat/300380162)]
+
+
+
+
+
+
+
+
+
+
+
+[ox]	[oxen(http://vocab.getty.edu/aat/300250282)]
+
+
+
+
+
+[spectacles]	[spectacles(http://vocab.getty.edu/aat/300236409)]
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+[finance]	[finance(http://vocab.getty.edu/aat/300055715)]
+
+
+
+
+
+
+
+
+[marble]	[marble(http://vocab.getty.edu/aat/300011443)]
+
+
+
+
+
+
+[anniversary]	[anniversaries(http://vocab.getty.edu/aat/300069026)]
+
+
+
+[chip carving]	[chip carving(http://vocab.getty.edu/aat/300054091)]
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+[Muslim]	[Islam(http://vocab.getty.edu/aat/300073715)]
+
+
+[mercury]	[mercury(http://vocab.getty.edu/aat/300011026)]
+[hairdresser]	[hairdressers(http://vocab.getty.edu/aat/300386338)]
+
+
+
+
+
+
+
+
+[reef]	[reefs(http://vocab.getty.edu/aat/300008808)]
+[patching]	[patching(http://vocab.getty.edu/aat/300379944)]
+
+[falcon]	[Falco(http://vocab.getty.edu/aat/300250051)]
+
+
+
+[peach]	[peach(http://vocab.getty.edu/aat/300012417), Prunus persica(http://vocab.getty.edu/aat/300375307), peach(http://vocab.getty.edu/aat/300266272)]
+
+
+
+
+
+
+[bass]	[bass(http://vocab.getty.edu/aat/300206743)]
+[actress]	[actors(http://vocab.getty.edu/aat/300025658)]
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+[cynocephalus]	[Cynocephalus(http://vocab.getty.edu/aat/300310423)]
+
+
+
+
+
+
+
+
+
+
+
+[steeple]	[steeples(http://vocab.getty.edu/aat/300104224)]
+
+
+
+
+
+
+[suicide]	[suicides(http://vocab.getty.edu/aat/300069678)]
+
+
+
+
+[copper]	[copper(http://vocab.getty.edu/aat/300011020)]
+
+
+[upper class]	[upper class(http://vocab.getty.edu/aat/300055483)]
+
+[French garden]	[French gardens(http://vocab.getty.edu/aat/300108287)]
+
+
+[association]	[associations(http://vocab.getty.edu/aat/300025950)]
+
+
+[brother]	[brothers(http://vocab.getty.edu/aat/300188723)]
+
+
+
+
+
+
+
+[toad]	[toads(http://vocab.getty.edu/aat/300252284)]
+
+
+
+
+
+
+[bolt]	[bolts(http://vocab.getty.edu/aat/300033325)]
+
+
+
+[geometry]	[geometry(http://vocab.getty.edu/aat/300054529)]
+[weaving]	[weaving(http://vocab.getty.edu/aat/300053642)]
+[cockatoo]	[Cacatuidae(http://vocab.getty.edu/aat/300310656)]
+[internal migration]	[internal migration(http://vocab.getty.edu/aat/300055408)]
+
+[electric chair]	[electric chairs(http://vocab.getty.edu/aat/300391486)]
+
+
+
+
+
+
+[font]	[baptismal fonts(http://vocab.getty.edu/aat/300080617)]
+
+
+
+[building-site]	[building sites(http://vocab.getty.edu/aat/300000811)]
+
+[bear]	[Ursidae(http://vocab.getty.edu/aat/300266516)]
+
+
+
+
+
+[peacock]	[Pavo(http://vocab.getty.edu/aat/300250082)]
+
+
+[lungfish]	[Dipnoi(http://vocab.getty.edu/aat/300252298)]
+[braiding]	[braiding(http://vocab.getty.edu/aat/300053638)]
+
+[graphic artist]	[graphic artists(http://vocab.getty.edu/aat/300264850)]
+
+
+
+
+
+[imam]	[imams(http://vocab.getty.edu/aat/300146325)]
+
+
+
+
+
+
+
+
+[elementary school]	[elementary schools(http://vocab.getty.edu/aat/300006597), elementary schools(http://vocab.getty.edu/aat/300343450)]
+
+
+
+
+
+
+[gods]	[gods(http://vocab.getty.edu/aat/300343851)]
+
+
+
+
+
+
+
+[couch]	[couches(http://vocab.getty.edu/aat/300038583)]
+
+[uniform]	[uniforms(http://vocab.getty.edu/aat/300212393)]
+
+
+[lecture]	[lectures(http://vocab.getty.edu/aat/300026673)]
+[world map]	[world maps(http://vocab.getty.edu/aat/300028442)]
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+[carnation]	[Dianthus caryophyllus(http://vocab.getty.edu/aat/300375559)]
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+[woman]	[women(http://vocab.getty.edu/aat/300025943)]
+
+
+
+
+
+
+
+
+
+[river bed]	[river beds(http://vocab.getty.edu/aat/300008730)]
+
+
+
+
+[diospyros kaki]	[Diospyros kaki(http://vocab.getty.edu/aat/300374845)]
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+[Day of Atonement]	[Yom Kippur(http://vocab.getty.edu/aat/300069626)]
+[inlet]	[inlets(http://vocab.getty.edu/aat/300185707)]
+
+
+[flint]	[flint(http://vocab.getty.edu/aat/300011143)]
+
+
+
+
+
+
+
+
+
+[chieftain]	[chieftains(http://vocab.getty.edu/aat/300025445)]
+
+
+
+
+
+
+[tankard]	[tankards(http://vocab.getty.edu/aat/300043256)]
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+[rain]	[rain(http://vocab.getty.edu/aat/300055377)]
+
+
+
+
+
+[ballistics]	[ballistics(http://vocab.getty.edu/aat/300232690)]
+
+
+
+
+
+
+
+[clock tower]	[clock towers(http://vocab.getty.edu/aat/300004857)]
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+[cedar]	[Cedrus(http://vocab.getty.edu/aat/300343639), cedar(http://vocab.getty.edu/aat/300012514)]
+[barge]	[barges(http://vocab.getty.edu/aat/300232890)]
+
+
+
+
+
+
+
+
+[Eucharist]	[eucharists(http://vocab.getty.edu/aat/300264326)]
+
+
+
+
+
+
+
+
+
+
+
+
+
+[wheelbarrow]	[wheelbarrows(http://vocab.getty.edu/aat/300212906)]
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+[gulf]	[gulfs(http://vocab.getty.edu/aat/300132315)]
+
+
+
+
+
+
+
+
+
+
+
+
+[shepherd]	[shepherds(http://vocab.getty.edu/aat/300025617)]
+
+
+
+
+
+
+[triumphal column]	[triumphal columns(http://vocab.getty.edu/aat/300248647)]
+
+
+[microscope]	[microscopes(http://vocab.getty.edu/aat/300024594)]
+
+
+
+
+
+
+
+
+
+
+
+
+[cupid]	[cupids(http://vocab.getty.edu/aat/300380105)]
+
+
+[politics]	[politics(http://vocab.getty.edu/aat/300055537)]
+
+
+
+
+
+
+[burnishing]	[burnishing(http://vocab.getty.edu/aat/300158008)]
+[wasp]	[wasps(http://vocab.getty.edu/aat/300260284)]
+
+
+
+[clearing]	[clearings(http://vocab.getty.edu/aat/300386890)]
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+[goldsmith]	[goldsmiths(http://vocab.getty.edu/aat/300025319)]
+
+
+
+
+
+
+
+
+
+
+
+[spire]	[spires(http://vocab.getty.edu/aat/300002360)]
+
+
+[photograph]	[photographs(http://vocab.getty.edu/aat/300046300)]
+[non-representational art]	[nonrepresentational art(http://vocab.getty.edu/aat/300134134)]
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+[cup]	[cups(http://vocab.getty.edu/aat/300043202)]
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+[fortress]	[fortresses(http://vocab.getty.edu/aat/300006894)]
+
+[secretary]	[secretaries(http://vocab.getty.edu/aat/300137147)]
+
+
+[ensemble]	[ensembles(http://vocab.getty.edu/aat/300209844)]
+
+
+
+
+[skittles]	[skittles(http://vocab.getty.edu/aat/300212353)]
+
+
+
+[ice-cream]	[ice cream(http://vocab.getty.edu/aat/300266767)]
+
+
+
+
+[sleigh]	[sleighs(http://vocab.getty.edu/aat/300212882)]
+
+
+
+[commoners]	[commoners(http://vocab.getty.edu/aat/300379349)]
+[dodo]	[Raphus cucullatus(http://vocab.getty.edu/aat/300250043)]
+[armillary sphere]	[armillary spheres(http://vocab.getty.edu/aat/300226858)]
+
+
+
+
+[knowledge]	[knowledge(http://vocab.getty.edu/aat/300055192)]
+
+[flask]	[flasks(http://vocab.getty.edu/aat/300023108)]
+
+
+
+
+
+
+
+[polar bear]	[Ursus maritimus(http://vocab.getty.edu/aat/300310635)]
+
+
+
+[stopping]	[filling(http://vocab.getty.edu/aat/300053092)]
+
+
+
+
+
+[loophole]	[loopholes(http://vocab.getty.edu/aat/300003018)]
+[terrestrial magnetism]	[geomagnetism(http://vocab.getty.edu/aat/300191619)]
+[whirlpool]	[whirlpools(http://vocab.getty.edu/aat/300387030)]
+
+
+
+
+
+[son]	[sons(http://vocab.getty.edu/aat/300154350)]
+
+
+[back]	[backs(http://vocab.getty.edu/aat/300167577)]
+[sentry box]	[sentry boxes(http://vocab.getty.edu/aat/300048816)]
+
+
+
+
+
+
+[angel]	[angels(http://vocab.getty.edu/aat/300379004)]
+
+
+[opera house]	[opera houses(http://vocab.getty.edu/aat/300007104)]
+
+
+
+
+
+
+
+
+
+
+
+
+[rabbi]	[rabbis(http://vocab.getty.edu/aat/300025776)]
+
+[patron]	[patrons(http://vocab.getty.edu/aat/300115251)]
+
+
+
+
+
+
+
+[sandal]	[sandals(http://vocab.getty.edu/aat/300046077)]
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+[embroidery]	[embroidery(http://vocab.getty.edu/aat/300264024), embroidering(http://vocab.getty.edu/aat/300053653)]
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+[police]	[police officers(http://vocab.getty.edu/aat/300025867)]
+
+
+
+
+
+
+
+
+
+
+
+[speculation]	[speculating(http://vocab.getty.edu/aat/300121807)]
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+[floor]	[floors(http://vocab.getty.edu/aat/300002060)]
+[car wash]	[car washes(http://vocab.getty.edu/aat/300178763)]
+
+
+
+
+
+
+
+
+[orchestra]	[orchestras(http://vocab.getty.edu/aat/300205073)]
+
+
+
+
+
+[bulb]	[bulbs(http://vocab.getty.edu/aat/300132378)]
+
+
+
+
+[barley]	[Hordeum(http://vocab.getty.edu/aat/300343826)]
+[grotto]	[grottoes(http://vocab.getty.edu/aat/300006807)]
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+[battlement]	[battlements(http://vocab.getty.edu/aat/300002595)]
+
+
+
+
+
+[insole]	[insoles(http://vocab.getty.edu/aat/300210503)]
+
+
+
+
+
+
+[regent]	[regents(http://vocab.getty.edu/aat/300150511)]
+
+[artiste]	[performing artists(http://vocab.getty.edu/aat/300068931)]
+
+
+
+
+
+
+[spindle]	[spindles(http://vocab.getty.edu/aat/300265738)]
+
+
+
+
+
+
+[yoke]	[yokes(http://vocab.getty.edu/aat/300255560)]
+
+
+
+
+
+
+
+
+[clown]	[clowns(http://vocab.getty.edu/aat/300025660)]
+
+[contempt]	[contempt(http://vocab.getty.edu/aat/300379859)]
+
+
+
+
+
+[developing]	[developing(http://vocab.getty.edu/aat/300053544)]
+
+[family]	[families(http://vocab.getty.edu/aat/300055474)]
+[Judges]	[judges(http://vocab.getty.edu/aat/300025625)]
+
+
+
+
+
+
+
+[infancy]	[infancy(http://vocab.getty.edu/aat/300189590)]
+
+
+
+
+
+
+
+
+
+
+[pewterer]	[pewterers(http://vocab.getty.edu/aat/300025322)]
+
+
+
+
+
+
+
+
+
+
+
+
+
+[capital]	[capitals(http://vocab.getty.edu/aat/300001662)]
+
+
+
+
+
+
+
+[festival]	[festivals(http://vocab.getty.edu/aat/300073472)]
+
+[nymph]	[nymphs(http://vocab.getty.edu/aat/300379159)]
+
+
+
+
+
+
+
+
+[compass]	[compasses(http://vocab.getty.edu/aat/300196707)]
+
+
+
+
+
+
+
+
+
+
+
+[hunter]	[hunters(http://vocab.getty.edu/aat/300025619)]
+
+
+[aviary]	[aviaries(http://vocab.getty.edu/aat/300004973)]
+
+[camp]	[camps(http://vocab.getty.edu/aat/300000517)]
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+[purple]	[purple(http://vocab.getty.edu/aat/300130257)]
+
+
+[recorder]	[recorders(http://vocab.getty.edu/aat/300042551)]
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+[boat]	[boats(http://vocab.getty.edu/aat/300178749)]
+
+[bulldozer]	[bulldozers(http://vocab.getty.edu/aat/300022285)]
+
+
+
+[handbill]	[handbills(http://vocab.getty.edu/aat/300027033)]
+
+
+
+
+
+
+
+
+
+[picnic]	[picnics(http://vocab.getty.edu/aat/300379161)]
+
+
+
+
+
+
+
+
+
+
+[credentials]	[credentials(http://vocab.getty.edu/aat/300026922)]
+
+
+[blouse]	[blouses(http://vocab.getty.edu/aat/300259320), blouses(http://vocab.getty.edu/aat/300046133)]
+[nation]	[nations(http://vocab.getty.edu/aat/300128207)]
+
+
+[armchair]	[armchairs(http://vocab.getty.edu/aat/300037776)]
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+[fair]	[fairs(http://vocab.getty.edu/aat/300054776)]
+
+
+
+
+
+
+
+
+
+[polo]	[polo(http://vocab.getty.edu/aat/300222762)]
+[fraternity]	[fraternities(http://vocab.getty.edu/aat/300386371)]
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+[diadem]	[diadems(http://vocab.getty.edu/aat/300046021)]
+
+
+
+[plover]	[plovers(http://vocab.getty.edu/aat/300379747)]
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+[actor]	[actors(http://vocab.getty.edu/aat/300025658)]
+
+
+
+
+
+
+
+
+
+[quartet]	[quartets(http://vocab.getty.edu/aat/300379141)]
+
+
+
+
+
+
+
+[bladder]	[bladder(http://vocab.getty.edu/aat/300191774)]
+
+
+
+
+
+
+
+[robot]	[robots(http://vocab.getty.edu/aat/300391077)]
+
+
+
+
+
+
+
+
+
+
+
+[plane]	[planes(http://vocab.getty.edu/aat/300023801)]
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+[deer]	[Cervidae(http://vocab.getty.edu/aat/300250308)]
+[menhir]	[menhirs(http://vocab.getty.edu/aat/300006985)]
+
+
+
+[forester]	[foresters(http://vocab.getty.edu/aat/300025609)]
+
+[courtesan]	[courtesans(http://vocab.getty.edu/aat/300236521)]
+
+
+
+
+
+
+
+
+
+
+
+
+
+[baker]	[bakers(http://vocab.getty.edu/aat/300136385)]
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+[flower]	[flowers(http://vocab.getty.edu/aat/300132399), flower(http://vocab.getty.edu/aat/300264247)]
+
+
+[messenger]	[messengers(http://vocab.getty.edu/aat/300025865)]
+
+
+
+
+
+
+
+[pope]	[popes(http://vocab.getty.edu/aat/300025773)]
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+[cosmography]	[cosmography(http://vocab.getty.edu/aat/300054287)]
+[court]	[courts(http://vocab.getty.edu/aat/300236519)]
+
+
+
+[canyon]	[canyons(http://vocab.getty.edu/aat/300008763)]
+
+[sport]	[sports(http://vocab.getty.edu/aat/300222725)]
+
+
+
+
+
+
+
+[sling]	[slings(http://vocab.getty.edu/aat/300037216), slings(http://vocab.getty.edu/aat/300024947)]
+
+
+
+
+
+
+
+
+[spruce]	[Picea(http://vocab.getty.edu/aat/300343671), spruce(http://vocab.getty.edu/aat/300012726)]
+
+
+
+[course]	[courses(http://vocab.getty.edu/aat/300002620)]
+
+
+
+
+[sphinx]	[sphinxes(http://vocab.getty.edu/aat/300375739)]
+
+
+
+[coin]	[coins(http://vocab.getty.edu/aat/300037222)]
+
+
+[misericord]	[misericords(http://vocab.getty.edu/aat/300260121), misericords(http://vocab.getty.edu/aat/300007431)]
+
+
+
+
+[codex]	[codices(http://vocab.getty.edu/aat/300224200)]
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+[violin]	[violins(http://vocab.getty.edu/aat/300042215)]
+
+
+
+[Candlemas]	[Candlemas(http://vocab.getty.edu/aat/300264400)]
+
+
+
+
+
+
+
+
+
+[mayor]	[mayors(http://vocab.getty.edu/aat/300025468)]
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+[bony fishes]	[Osteichthyes(http://vocab.getty.edu/aat/300265954)]
+
+
+[heraldry]	[heraldry(http://vocab.getty.edu/aat/300077808)]
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+[history]	[history(http://vocab.getty.edu/aat/300054394), histories(http://vocab.getty.edu/aat/300026358)]
+
+
+
+
+
+
+
+
+
+
+
+[physical anthropology]	[physical anthropology(http://vocab.getty.edu/aat/300054322)]
+
+
+
+
+
+
+[hair]	[hair(http://vocab.getty.edu/aat/300011814)]
+
+
+
+[Maestà]	[maestà(http://vocab.getty.edu/aat/300264790)]
+
+
+[engine]	[engines(http://vocab.getty.edu/aat/300024603)]
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+[sideboard]	[sideboards(http://vocab.getty.edu/aat/300039306)]
+
+
+
+
+
+[racket]	[rackets(http://vocab.getty.edu/aat/300222734)]
+
+
+
+
+
+
+[boot]	[boots(http://vocab.getty.edu/aat/300046057)]
+
+[section]	[sections(http://vocab.getty.edu/aat/300034223)]
+
+[crow]	[crows(http://vocab.getty.edu/aat/300250041)]
+
+
+
+
+
+
+
+
+
+
+
+
+[pound]	[pounds(http://vocab.getty.edu/aat/300191932)]
+
+
+
+[humus]	[humus(http://vocab.getty.edu/aat/300014333)]
+
+
+
+
+
+
+
+
+
+
+[joust]	[jousts(http://vocab.getty.edu/aat/300230820)]
+
+
+
+
+
+[golf]	[golf(http://vocab.getty.edu/aat/300222767)]
+
+
+
+[air pollution]	[air pollution(http://vocab.getty.edu/aat/300055348)]
+
+[mixed media]	[mixed media(http://vocab.getty.edu/aat/300163347)]
+[bible]	[Bibles(http://vocab.getty.edu/aat/300264513)]
+
+
+[ewe]	[ewes(http://vocab.getty.edu/aat/300250291), Ewe(http://vocab.getty.edu/aat/300016018)]
+
+
+
+[trap]	[traps(http://vocab.getty.edu/aat/300247420)]
+
+
+
+
+
+
+
+
+[son-in-law]	[sons-in-law(http://vocab.getty.edu/aat/300386775)]
+
+
+
+
+[mohel]	[mohels(http://vocab.getty.edu/aat/300136756)]
+[robin]	[robins(http://vocab.getty.edu/aat/300250091)]
+
+
+
+
+
+
+
+
+
+
+[personification]	[personification(http://vocab.getty.edu/aat/300055905)]
+
+
+
+
+
+
+
+
+
+[slipper]	[slippers(http://vocab.getty.edu/aat/300046083)]
+
+
+[rugby]	[rugby(http://vocab.getty.edu/aat/300222800)]
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+[middle class]	[middle class(http://vocab.getty.edu/aat/300055481)]
+[candy]	[candy(http://vocab.getty.edu/aat/300250954)]
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+[pump]	[pumps(http://vocab.getty.edu/aat/300024787)]
+
+
+
+
+
+[needle]	[needles(http://vocab.getty.edu/aat/300024789)]
+[prelate]	[prelates(http://vocab.getty.edu/aat/300237368)]
+
+
+
+
+
+
+
+
+
+
+
+
+
+[psychology]	[psychology(http://vocab.getty.edu/aat/300054446)]
+
+
+[sandstorm]	[sandstorms(http://vocab.getty.edu/aat/300054743)]
+[moth]	[moths(http://vocab.getty.edu/aat/300250224)]
+
+[castanets]	[castanets(http://vocab.getty.edu/aat/300041917)]
+
+[linen]	[linen(http://vocab.getty.edu/aat/300014069), linens(http://vocab.getty.edu/aat/300257519)]
+[pheasant]	[Phasianidae(http://vocab.getty.edu/aat/300310512), Phasianinae(http://vocab.getty.edu/aat/300250085)]
+
+
+[construction]	[constructions(http://vocab.getty.edu/aat/300047195), construction(http://vocab.getty.edu/aat/300389791)]
+
+
+
+
+
+[violoncello]	[violoncellos(http://vocab.getty.edu/aat/300209202)]
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+[telescope]	[telescopes(http://vocab.getty.edu/aat/300150833)]
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+[veterinarian]	[veterinarians(http://vocab.getty.edu/aat/300237763)]
+
+[bench]	[benches(http://vocab.getty.edu/aat/300038494)]
+
+
+
+
+
+
+[pulley]	[pulleys(http://vocab.getty.edu/aat/300024574)]
+
+
+
+
+
+
+[funeral]	[funerals(http://vocab.getty.edu/aat/300069162)]
+
+
+
+[sketch]	[sketches(http://vocab.getty.edu/aat/300015617)]
+[admiral]	[admirals(http://vocab.getty.edu/aat/300236014)]
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+[root]	[root(http://vocab.getty.edu/aat/300081475)]
+
+
+
+
+
+
+
+
+
+
+
+
+[bed]	[beds(http://vocab.getty.edu/aat/300038697)]
+
+
+[almond]	[almond(http://vocab.getty.edu/aat/300012401), Prunus dulcis(http://vocab.getty.edu/aat/300375304)]
+
+
+
+[flail]	[flails(http://vocab.getty.edu/aat/300024349)]
+
+
+
+
+
+
+
+
+
+
+
+[casino]	[casinos(http://vocab.getty.edu/aat/300007227)]
+[potter]	[potters(http://vocab.getty.edu/aat/300025414)]
+
+
+
+
+
+
+
+
+[anti-semitism]	[antisemitism(http://vocab.getty.edu/aat/300055288)]
+
+
+
+
+
+
+
+
+
+[cartilaginous fish]	[Chondrichthyes(http://vocab.getty.edu/aat/300310592)]
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+[knight]	[knights(http://vocab.getty.edu/aat/300233378)]
+
+[hoe]	[hoes(http://vocab.getty.edu/aat/300024329)]
+
+
+
+
+
+
+[plate]	[plate(http://vocab.getty.edu/aat/300011041), plate(http://vocab.getty.edu/aat/300264667)]
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+[ordination]	[ordinations(http://vocab.getty.edu/aat/300069452)]
+
+
+
+
+[halberd]	[halberds(http://vocab.getty.edu/aat/300037010)]
+[anvil]	[anvils(http://vocab.getty.edu/aat/300023119)]
+
+
+[monk]	[monks(http://vocab.getty.edu/aat/300025765)]
+
+
+
+
+
+
+
+
+
+[avenue]	[avenues(http://vocab.getty.edu/aat/300008250)]
+
+
+[cradle]	[cradles(http://vocab.getty.edu/aat/300038847)]
+
+[rifle range]	[rifle ranges(http://vocab.getty.edu/aat/300000620)]
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+[caricature]	[caricatures(http://vocab.getty.edu/aat/300015634)]
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+[transept]	[transepts(http://vocab.getty.edu/aat/300004645)]
+
+[carriage]	[carriages(http://vocab.getty.edu/aat/300185335)]
+
+
+
+
+
+[jackdaw]	[Corvus monedula(http://vocab.getty.edu/aat/300379745)]
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+[Death]	[deaths(http://vocab.getty.edu/aat/300151836)]
+
+
+[pulpit]	[pulpits(http://vocab.getty.edu/aat/300003790)]
+
+[geyser]	[geysers(http://vocab.getty.edu/aat/300380167)]
+
+
+
+
+[fan vault]	[fan vaults(http://vocab.getty.edu/aat/300001396)]
+
+
+
+[genitals]	[genitals(http://vocab.getty.edu/aat/300375052)]
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+[statistics]	[statistics(http://vocab.getty.edu/aat/300026924)]
+
+
+
+
+[shape]	[shape(http://vocab.getty.edu/aat/300056273)]
+[miner]	[miners(http://vocab.getty.edu/aat/300025275)]
+
+
+
+
+[gourd]	[gourd(http://vocab.getty.edu/aat/300011870)]
+
+
+
+
+
+
+
+
+
+
+
+
+
+[redingote]	[redingotes(http://vocab.getty.edu/aat/300209851), redingotes(http://vocab.getty.edu/aat/300254632)]
+[composite order]	[Composite order(http://vocab.getty.edu/aat/300067415)]
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+[train]	[trains(http://vocab.getty.edu/aat/300212738)]
+
+
+[river]	[rivers(http://vocab.getty.edu/aat/300008707)]
+
+
+
+
+
+
+
+
+
+
+
+
+[Giants]	[giants(http://vocab.getty.edu/aat/300380125)]
+
+[Augustinians]	[Augustinian(http://vocab.getty.edu/aat/300255068)]
+
+
+
+
+
+
+
+
+[revolver]	[revolvers(http://vocab.getty.edu/aat/300037173)]
+
+
+[soup]	[soup(http://vocab.getty.edu/aat/300389823)]
+
+[turban]	[turbans(http://vocab.getty.edu/aat/300046127)]
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+[Shinto]	[Shinto(http://vocab.getty.edu/aat/300022082)]
+
+
+
+
+
+
+
+
+[nettle]	[nettle(http://vocab.getty.edu/aat/300374875)]
+
+
+
+
+
+
+
+
+
+[sponge]	[sponge(http://vocab.getty.edu/aat/300011854), Porifera(http://vocab.getty.edu/aat/300265683)]
+
+
+
+[bascule bridge]	[bascule bridges(http://vocab.getty.edu/aat/300007859)]
+
+
+
+
+
+
+
+
+
+
+
+
+[hydraulics]	[hydraulics(http://vocab.getty.edu/aat/300054566)]
+
+
+
+
+
+
+
+
+
+
+[aquamanile]	[aquamaniles(http://vocab.getty.edu/aat/300045667)]
+[pond]	[ponds(http://vocab.getty.edu/aat/300008688)]
+
+
+
+
+
+
+
+
+
+[service station]	[service stations(http://vocab.getty.edu/aat/300007815)]
+
+
+[jeu de Paume]	[jeu de paume(http://vocab.getty.edu/aat/300379788)]
+
+
+[weasel]	[weasels(http://vocab.getty.edu/aat/300250165)]
+
+
+
+
+
+
+
+
+
+
+
+[disabled]	[handicapped(http://vocab.getty.edu/aat/300025921)]
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+[community]	[communities(http://vocab.getty.edu/aat/300387203)]
+
+
+
+
+
+
+
+
+
+
+
+
+[band]	[bands(http://vocab.getty.edu/aat/300205065)]
+
+
+
+
+
+
+
+
+
+[pontoon bridge]	[pontoon bridges(http://vocab.getty.edu/aat/300007849)]
+
+
+
+[octopus]	[Octopoda(http://vocab.getty.edu/aat/300259782)]
+
+
+
+
+
+
+
+
+
+[loggia]	[loggias(http://vocab.getty.edu/aat/300004137)]
+
+
+
+
+
+
+
+[bit]	[bits(http://vocab.getty.edu/aat/300248085)]
+
+
+
+
+
+
+
+[burglar alarm]	[burglar alarms(http://vocab.getty.edu/aat/300185320)]
+
+
+
+
+
+
+
+[boy]	[boys(http://vocab.getty.edu/aat/300247598)]
+
+[ontbijtje]	[ontbijtjes(http://vocab.getty.edu/aat/300265042)]
+[saddle]	[saddles(http://vocab.getty.edu/aat/300212972), saddles(http://vocab.getty.edu/aat/300386884)]
+[stud]	[studs(http://vocab.getty.edu/aat/300036429), studs(http://vocab.getty.edu/aat/300239504)]
+
+[orphanage]	[orphanages(http://vocab.getty.edu/aat/300006769)]
+
+
+
+
+
+
+
+
+
+[bell tower]	[bell towers(http://vocab.getty.edu/aat/300004848)]
+
+
+
+
+[university]	[universities(http://vocab.getty.edu/aat/300312240), universities(http://vocab.getty.edu/aat/300006617)]
+[costume]	[costumes(http://vocab.getty.edu/aat/300266810)]
+
+
+
+
+
+[philology]	[philology(http://vocab.getty.edu/aat/300054278)]
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+[aquarium]	[aquariums(http://vocab.getty.edu/aat/300005756), aquariums(http://vocab.getty.edu/aat/300216972)]
+
+
+
+
+
+
+
+
+[bush]	[bush(http://vocab.getty.edu/aat/300008861)]
+
+
+
+
+
+
+
+
+
+
+[Carmelites]	[Carmelite(http://vocab.getty.edu/aat/300264417)]
+
+
+
+[inorganic chemistry]	[inorganic chemistry(http://vocab.getty.edu/aat/300054540)]
+
+
+
+
+
+
+
+
+
+[mustard]	[mustard(http://vocab.getty.edu/aat/300311364)]
+[day]	[day(http://vocab.getty.edu/aat/300133092)]
+
+
+
+
+[citron]	[citron(http://vocab.getty.edu/aat/300389919), Citrus medica(http://vocab.getty.edu/aat/300386058)]
+
+
+
+
+
+[ethnology]	[ethnology(http://vocab.getty.edu/aat/300054316)]
+
+
+
+
+[geology]	[geology(http://vocab.getty.edu/aat/300054546)]
+[triumphal arch]	[triumphal arches(http://vocab.getty.edu/aat/300007003)]
+
+
+
+
+[prisoner of war]	[prisoners of war(http://vocab.getty.edu/aat/300259895)]
+
+
+
+[tin]	[tin(http://vocab.getty.edu/aat/300133748), tins(http://vocab.getty.edu/aat/300216970)]
+[leading]	[leading(http://vocab.getty.edu/aat/300241557)]
+
+
+
+
+
+
+
+[fruit]	[fruit(http://vocab.getty.edu/aat/300011868)]
+
+
+
+
+[cinematography]	[cinematography(http://vocab.getty.edu/aat/300054227)]
+
+
+
+
+
+[boater]	[boaters(http://vocab.getty.edu/aat/300210718)]
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+[apron]	[aprons(http://vocab.getty.edu/aat/300258453), aprons(http://vocab.getty.edu/aat/300046131)]
+
+[autumn]	[autumn(http://vocab.getty.edu/aat/300133093)]
+[villa]	[villas(http://vocab.getty.edu/aat/300005517)]
+
+[study]	[studies(http://vocab.getty.edu/aat/300081781)]
+
+
+
+
+
+[wainscoting]	[wainscoting(http://vocab.getty.edu/aat/300002691)]
+
+
+
+
+
+
+[seat]	[seats(http://vocab.getty.edu/aat/300041116), seats(http://vocab.getty.edu/aat/300387716)]
+
+
+[tail]	[tails(http://vocab.getty.edu/aat/300251800)]
+
+
+
+
+
+
+
+
+
+
+
+
+[steppe]	[steppes(http://vocab.getty.edu/aat/300386995)]
+
+
+
+[nun]	[nuns(http://vocab.getty.edu/aat/300025770)]
+
+
+
+
+
+
+[palette]	[palettes(http://vocab.getty.edu/aat/300022625)]
+
+[island]	[islands(http://vocab.getty.edu/aat/300008791)]
+
+
+
+
+
+[insurance agent]	[insurance agents(http://vocab.getty.edu/aat/300025217)]
+
+
+[staff]	[staffs(http://vocab.getty.edu/aat/300221444), staffs(http://vocab.getty.edu/aat/300204653)]
+
+
+
+
+
+[wake]	[wakes(http://vocab.getty.edu/aat/300069655)]
+
+
+
+
+
+[cascade]	[cascades(http://vocab.getty.edu/aat/300006792)]
+
+[snail]	[snails(http://vocab.getty.edu/aat/300249702)]
+
+[diploma]	[diplomas(http://vocab.getty.edu/aat/300028011)]
+
+
+
+
+
+
+
+
+[phrenology]	[phrenology(http://vocab.getty.edu/aat/300054423)]
+
+
+
+
+
+
+
+
+
+[sunlight]	[sunlight(http://vocab.getty.edu/aat/300056028)]
+
+
+
+
+
+
+
+
+[taste]	[taste(http://vocab.getty.edu/aat/300066015)]
+
+
+
+[eagle]	[eagles(http://vocab.getty.edu/aat/300250049)]
+
+
+
+
+
+
+
+[slavery]	[slavery(http://vocab.getty.edu/aat/300055309)]
+
+
+
+[croquet]	[croquet(http://vocab.getty.edu/aat/300222768)]
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+[Capuchins]	[Capuchin(http://vocab.getty.edu/aat/300264390), capuchins(http://vocab.getty.edu/aat/300212340)]
+
+
+
+
+[theorbo]	[theorbos(http://vocab.getty.edu/aat/300042111)]
+
+
+
+
+
+
+
+[evening]	[evening(http://vocab.getty.edu/aat/300343633)]
+
+
+[mechanics]	[mechanics(http://vocab.getty.edu/aat/300054568)]
+
+[lunch]	[lunches(http://vocab.getty.edu/aat/300379056)]
+[jetton]	[jettons(http://vocab.getty.edu/aat/300191481)]
+
+
+[joist]	[joists(http://vocab.getty.edu/aat/300001544)]
+[hanging gardens]	[hanging gardens(http://vocab.getty.edu/aat/300008100)]
+
+
+
+
+
+
+
+
+[state]	[states(http://vocab.getty.edu/aat/300000776)]
+[canopy]	[canopies(http://vocab.getty.edu/aat/300142324)]
+
+
+
+
+[bedspread]	[bedspreads(http://vocab.getty.edu/aat/300197889)]
+[Hyacinthus]	[Hyacinthus(http://vocab.getty.edu/aat/300379703)]
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+[tape recorder]	[tape recorders(http://vocab.getty.edu/aat/300266302)]
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+[industrial design]	[industrial design(http://vocab.getty.edu/aat/300054183)]
+
+
+
+
+
+
+
+
+
+
+
+
+
+[rake]	[rakes(http://vocab.getty.edu/aat/300247430)]
+
+
+
+
+
+[gas]	[gas(http://vocab.getty.edu/aat/300015379), gasoline(http://vocab.getty.edu/aat/300013003)]
+
+
+
+
+
+
+
+
+
+
+[signboard]	[signboards(http://vocab.getty.edu/aat/300207704)]
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+[rat]	[Rattus(http://vocab.getty.edu/aat/300250253), Razajerdi(http://vocab.getty.edu/aat/300389141)]
+
+
+
+
+
+
+
+
+
+[oak]	[Quercus(http://vocab.getty.edu/aat/300375060)]
+
+
+
+
+
+
+
+
+
+
+
+
+
+[musical box]	[music boxes(http://vocab.getty.edu/aat/300042659)]
+
+
+
+
+
+
+
+[score]	[scores(http://vocab.getty.edu/aat/300026427)]
+
+
+
+
+
+
+
+
+
+
+[nursery school]	[nursery schools(http://vocab.getty.edu/aat/300343466), nursery schools(http://vocab.getty.edu/aat/300006593)]
+
+
+
+
+
+
+
+
+
+
+
+
+[quagga]	[Equus quagga(http://vocab.getty.edu/aat/300265993)]
+
+
+[trivium]	[trivium(http://vocab.getty.edu/aat/300054584)]
+
+
+
+
+[viola]	[violas(http://vocab.getty.edu/aat/300042225)]
+[mussel]	[mussels(http://vocab.getty.edu/aat/300379710)]
+
+[psychiatry]	[psychiatry(http://vocab.getty.edu/aat/300054521)]
+
+
+
+[composition]	[composition(http://vocab.getty.edu/aat/300056255), composition(http://vocab.getty.edu/aat/300237906), faience(http://vocab.getty.edu/aat/300265183)]
+
+
+
+
+
+
+[bar mitzvah]	[bar mitzvahs(http://vocab.getty.edu/aat/300069034)]
+
+
+
+[trigonometry]	[trigonometry(http://vocab.getty.edu/aat/300054531)]
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+[daughter]	[daughters(http://vocab.getty.edu/aat/300154348)]
+
+
+
+
+
+
+
+[director]	[directors(http://vocab.getty.edu/aat/300025654)]
+
+[wind]	[wind(http://vocab.getty.edu/aat/300055395)]
+
+[silo]	[silos(http://vocab.getty.edu/aat/300005024)]
+
+
+
+
+
+
+
+
+
+
+
+[yew]	[Taxus(http://vocab.getty.edu/aat/300343673), yew(http://vocab.getty.edu/aat/300012774)]
+
+
+
+
+
+
+[phoenix]	[phoenixes(http://vocab.getty.edu/aat/300379749)]
+
+
+
+
+
+[pig]	[Sus(http://vocab.getty.edu/aat/300250114)]
+
+
+
+
+
+
+
+[rattle]	[rattles(http://vocab.getty.edu/aat/300041933)]
+
+[harrow]	[harrows(http://vocab.getty.edu/aat/300024327)]
+
+
+[femur]	[femurs(http://vocab.getty.edu/aat/300386792)]
+
+
+
+
+
+
+
+[physiognomy]	[physiognomy(http://vocab.getty.edu/aat/300054424)]
+[camel]	[Camelus(http://vocab.getty.edu/aat/300250139)]
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+[calf]	[calf(http://vocab.getty.edu/aat/300227525), calfs(http://vocab.getty.edu/aat/300310537)]
+
+
+
+
+[orator]	[orators(http://vocab.getty.edu/aat/300025566)]
+
+
+[bill]	[paper money(http://vocab.getty.edu/aat/300191324), bills(http://vocab.getty.edu/aat/300027888)]
+
+
+
+
+
+
+[opening]	[openings(http://vocab.getty.edu/aat/300002765)]
+[rummer]	[rummers(http://vocab.getty.edu/aat/300043243)]
+
+
+[clergy]	[clergy(http://vocab.getty.edu/aat/300025747)]
+
+
+
+
+[waste land]	[wasteland(http://vocab.getty.edu/aat/300008654)]
+
+
+
+
+
+
+
+
+
+
+
+
+
+[dike]	[dikes(http://vocab.getty.edu/aat/300170882)]
+
+
+
+
+[mud]	[mud(http://vocab.getty.edu/aat/300014337)]
+
+
+
+
+
+[skiing]	[skiing(http://vocab.getty.edu/aat/300222781)]
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+[corporal]	[corporals(http://vocab.getty.edu/aat/300204865)]
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+[elegy]	[elegies(http://vocab.getty.edu/aat/300026285)]
+[empress]	[empresses(http://vocab.getty.edu/aat/300150492)]
+
+
+
+[Tuscan order]	[Tuscan order(http://vocab.getty.edu/aat/300067420)]
+
+[anemone]	[Anemone(http://vocab.getty.edu/aat/300379702)]
+
+
+[herb]	[herbs(http://vocab.getty.edu/aat/300132436)]
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+[pottery]	[pottery(http://vocab.getty.edu/aat/300010666)]
+
+
+
+[rhombus]	[rhombuses(http://vocab.getty.edu/aat/300009802)]
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+[motion picture]	[motion pictures(http://vocab.getty.edu/aat/300136900)]
+
+[execution]	[executions(http://vocab.getty.edu/aat/300069680), execution(http://vocab.getty.edu/aat/300069715)]
+
+
+
+
+[housing]	[housings(http://vocab.getty.edu/aat/300181483)]
+
+
+
+
+
+
+
+
+
+[key]	[keys(http://vocab.getty.edu/aat/300033579)]
+
+[lead]	[lead(http://vocab.getty.edu/aat/300011022)]
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+[illusionist]	[magicians(http://vocab.getty.edu/aat/300264526)]
+
+
+
+
+
+
+
+[fairy tale]	[fairy tales(http://vocab.getty.edu/aat/300185684)]
+
+
+[goose]	[geese(http://vocab.getty.edu/aat/300250063)]
+
+
+
+[Yom Kippur]	[Yom Kippur(http://vocab.getty.edu/aat/300069626)]
+
+
+
+
+
+
+
+
+[abbey]	[abbeys(http://vocab.getty.edu/aat/300000642)]
+
+
+
+
+
+
+
+
+
+
+
+
+
+[tiara]	[tiaras(http://vocab.getty.edu/aat/300046046)]
+
+
+
+
+[rural-urban migration]	[rural-urban migration(http://vocab.getty.edu/aat/300055412)]
+[feather]	[feathers(http://vocab.getty.edu/aat/300204649)]
+[gunpowder]	[gunpowder(http://vocab.getty.edu/aat/300015125)]
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+[bond]	[bonds(http://vocab.getty.edu/aat/300027603)]
+[transparency]	[transparencies(http://vocab.getty.edu/aat/300127478)]
+[prophet]	[prophets(http://vocab.getty.edu/aat/300188709)]
+
+[historical person]	[historical figures(http://vocab.getty.edu/aat/300386296)]
+
+[toothpick]	[toothpicks(http://vocab.getty.edu/aat/300236468)]
+
+
+
+
+[cithern]	[citterns(http://vocab.getty.edu/aat/300042020)]
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+[cork]	[cork(http://vocab.getty.edu/aat/300011862)]
+
+
+[football]	[footballs(http://vocab.getty.edu/aat/300211516)]
+
+
+
+
+
+
+
+[olive]	[Olea europaea(http://vocab.getty.edu/aat/300311369), olive(http://vocab.getty.edu/aat/300266440), olive(http://vocab.getty.edu/aat/300012333)]
+
+
+
+[dolphin]	[dolphins(http://vocab.getty.edu/aat/300250159)]
+
+
+
+
+[herb garden]	[herb gardens(http://vocab.getty.edu/aat/300008138)]
+
+
+
+
+
+
+
+
+[shuttering]	[formwork(http://vocab.getty.edu/aat/300252188)]
+
+
+[passenger train]	[passenger trains(http://vocab.getty.edu/aat/300233628)]
+
+
+
+[pumice]	[pumice(http://vocab.getty.edu/aat/300011250)]
+
+
+
+
+
+
+
+
+
+
+[brook]	[brooks(http://vocab.getty.edu/aat/300008703)]
+
+
+[Corpus Christi]	[Corpus Christi(http://vocab.getty.edu/aat/300264483)]
+
+
+
+[grand piano]	[grand pianos(http://vocab.getty.edu/aat/300041713)]
+
+
+[sawyer]	[sawyers(http://vocab.getty.edu/aat/300025380)]
+
+
+
+
+
+
+
+
+
+
+[Judaism]	[Judaism(http://vocab.getty.edu/aat/300073723)]
+[tree]	[trees(http://vocab.getty.edu/aat/300132410)]
+
+
+
+
+
+
+
+
+
+
+[screwing]	[screwing(http://vocab.getty.edu/aat/300053020)]
+[dome]	[domes(http://vocab.getty.edu/aat/300001280)]
+
+
+
+
+
+
+[yarn]	[yarn(http://vocab.getty.edu/aat/300014252)]
+
+
+
+
+
+
+[skimmer]	[skimmers(http://vocab.getty.edu/aat/300023116)]
+
+
+
+
+[Passion Sunday]	[Palm Sunday(http://vocab.getty.edu/aat/300069638)]
+
+
+
+
+
+
+
+
+[Christian Science]	[Christian Science(http://vocab.getty.edu/aat/300264476)]
+
+
+
+
+
+
+
+
+
+
+[sickle]	[sickles(http://vocab.getty.edu/aat/300264860)]
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+[fender]	[fenders(http://vocab.getty.edu/aat/300165113)]
+
+
+
+
+
+
+
+
+
+
+
+
+
+[cupboard]	[cupboards(http://vocab.getty.edu/aat/300039183)]
+
+
+[apartment house]	[apartment houses(http://vocab.getty.edu/aat/300005707)]
+
+[curve]	[curves(http://vocab.getty.edu/aat/300022493)]
+
+
+
+
+
+
+
+
+
+[tree of life]	[hayat agaci(http://vocab.getty.edu/aat/300375586)]
+
+
+[salamander]	[Caudata(http://vocab.getty.edu/aat/300310225)]
+[tric-trac]	[backgammon(http://vocab.getty.edu/aat/300222747)]
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+[aqueduct]	[aqueducts(http://vocab.getty.edu/aat/300006165)]
+
+
+
+
+
+
+[Old Age]	[old age(http://vocab.getty.edu/aat/300189603)]
+
+
+
+
+[brooch]	[brooches(http://vocab.getty.edu/aat/300045995)]
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+[fleur-de-lis]	[Iris(http://vocab.getty.edu/aat/300343602)]
+
+
+
+
+
+[breakfast]	[breakfasts(http://vocab.getty.edu/aat/300379055)]
+
+
+[padding]	[padding(http://vocab.getty.edu/aat/300232237)]
+
+
+
+[flea]	[Siphonaptera(http://vocab.getty.edu/aat/300310505)]
+
+
+
+
+
+
+
+
+
+
+[demon]	[demons(http://vocab.getty.edu/aat/300379730)]
+
+
+
+[telegraph]	[telegraphs(http://vocab.getty.edu/aat/300266535)]
+
+
+
+
+[bridegroom]	[bridegrooms(http://vocab.getty.edu/aat/300343614)]
+
+
+
+
+
+[thimble]	[thimbles(http://vocab.getty.edu/aat/300247551)]
+
+
+
+
+
+
+
+
+
+
+[red]	[red(http://vocab.getty.edu/aat/300126225)]
+
+
+
+[crypt]	[crypts(http://vocab.getty.edu/aat/300004618)]
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+[crystallography]	[crystallography(http://vocab.getty.edu/aat/300251565)]
+
+
+
+
+[pool]	[pools(http://vocab.getty.edu/aat/300008692)]
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+[bicycle]	[bicycles(http://vocab.getty.edu/aat/300212636)]
+
+
+
+
+
+
+
+
+
+[gisant]	[gisants(http://vocab.getty.edu/aat/300047449)]
+[village]	[villages(http://vocab.getty.edu/aat/300008372)]
+
+
+
+
+
+
+
+
+[booth]	[booths(http://vocab.getty.edu/aat/300004086)]
+
+
+
+
+
+[oyster]	[oysters(http://vocab.getty.edu/aat/300310174)]
+
+
+
+
+[schooner]	[schooners(http://vocab.getty.edu/aat/300212871)]
+[weathercock]	[weathercocks(http://vocab.getty.edu/aat/300192069)]
+[chisel]	[chisels(http://vocab.getty.edu/aat/300024665)]
+
+
+
+
+[percussion instrument]	[percussion instruments(http://vocab.getty.edu/aat/300041726)]
+
+
+
+[physiology]	[physiology(http://vocab.getty.edu/aat/300054471)]
+
+
+
+
+
+
+
+
+
+
+
+
+[beech]	[Fagus(http://vocab.getty.edu/aat/300343877), beech(http://vocab.getty.edu/aat/300011948)]
+
+
+
+
+[centaur]	[centaurs(http://vocab.getty.edu/aat/300379740)]
+
+
+
+
+[spring]	[springs(http://vocab.getty.edu/aat/300008697), spring(http://vocab.getty.edu/aat/300133097)]
+
+
+[thrush]	[Turdidae(http://vocab.getty.edu/aat/300310562)]
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+[boulevard]	[boulevards(http://vocab.getty.edu/aat/300008251)]
+
+[loft]	[lofts(http://vocab.getty.edu/aat/300255116)]
+
+
+
+[astronomical instrument]	[astronomical instruments(http://vocab.getty.edu/aat/300024497)]
+
+
+
+
+
+
+[cantor]	[cantors(http://vocab.getty.edu/aat/300136390)]
+
+
+
+
+
+
+
+
+
+
+
+
+
+[warehouse]	[warehouses(http://vocab.getty.edu/aat/300007722)]
+
+
+
+[guerilla warfare]	[guerrilla warfare(http://vocab.getty.edu/aat/300055316)]
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+[apple]	[Malus(http://vocab.getty.edu/aat/300343809), apple(http://vocab.getty.edu/aat/300266417)]
+[sand]	[sand(http://vocab.getty.edu/aat/300014341)]
+
+[comic strip]	[comic strips(http://vocab.getty.edu/aat/300220405)]
+
+
+
+
+
+
+
+
+
+
+
+[goldfinch]	[goldfinches(http://vocab.getty.edu/aat/300250061)]
+
+
+
+
+
+
+
+
+
+[chariot]	[chariots(http://vocab.getty.edu/aat/300219531)]
+
+
+
+
+
+
+[teacher]	[teachers(http://vocab.getty.edu/aat/300025529)]
+[chronicle]	[chronicles(http://vocab.getty.edu/aat/300026361)]
+
+
+[elm]	[Ulmus(http://vocab.getty.edu/aat/300374849), elm(http://vocab.getty.edu/aat/300012070)]
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+[manuscript]	[manuscripts(http://vocab.getty.edu/aat/300028569), handwriting(http://vocab.getty.edu/aat/300252927)]
+[brassworker]	[braziers(http://vocab.getty.edu/aat/300025315)]
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+[peninsula]	[peninsulas(http://vocab.getty.edu/aat/300008804)]
+
+
+
+
+
+
+[self-portrait]	[self-portraits(http://vocab.getty.edu/aat/300124534)]
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+[hornbill]	[Bucerotidae(http://vocab.getty.edu/aat/300258385)]
+
+
+
+[brocade]	[brocading(http://vocab.getty.edu/aat/300053648), brocade(http://vocab.getty.edu/aat/300227779)]
+
+
+
+
+
+
+[health]	[health(http://vocab.getty.edu/aat/300055133)]
+
+[mobile phone]	[cellular telephones(http://vocab.getty.edu/aat/300265393)]
+
+
+
+
+
+
+
+
+
+[mechanical toys]	[mechanical toys(http://vocab.getty.edu/aat/300211325)]
+
+
+
+
+[cornice]	[cornices(http://vocab.getty.edu/aat/300001788)]
+
+
+[noon]	[noon(http://vocab.getty.edu/aat/300343632)]
+
+
+
+
+
+
+
+
+[shoe-polish]	[shoe polish(http://vocab.getty.edu/aat/300375382)]
+
+
+
+
+
+
+
+
+
+
+
+
+
+[widower]	[widowers(http://vocab.getty.edu/aat/300263465)]
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+[chopping]	[chopping(http://vocab.getty.edu/aat/300379799)]
+
+
+
+
+
+
+
+
+
+
+
+
+[gasworks]	[gasworks(http://vocab.getty.edu/aat/300000386)]
+
+[Arcadia]	[pastoral(http://vocab.getty.edu/aat/300250491)]
+
+
+
+
+
+
+
+
+
+
+[sun]	[suns(http://vocab.getty.edu/aat/300379806), Sunda(http://vocab.getty.edu/aat/300389326)]
+
+
+
+
+
+
+
+
+[alligator]	[Alligator(http://vocab.getty.edu/aat/300252286)]
+
+[reflection]	[reflections(http://vocab.getty.edu/aat/300056034)]
+
+
+
+
+
+
+
+
+
+
+[art dealer]	[art dealers(http://vocab.getty.edu/aat/300386253)]
+
+
+
+
+
+
+
+
+
+
+
+[Pentecost]	[Shavuot(http://vocab.getty.edu/aat/300264445)]
+
+
+
+
+
+
+
+
+
+
+[musette]	[musettes(http://vocab.getty.edu/aat/300042414)]
+
+
+
+
+
+[turtle dove]	[Streptopelia turtur(http://vocab.getty.edu/aat/300379741)]
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+[pyramid]	[pyramids(http://vocab.getty.edu/aat/300163119), pyramids(http://vocab.getty.edu/aat/300004838)]
+
+
+
+
+
+
+
+[wheat]	[Triticum(http://vocab.getty.edu/aat/300343825)]
+
+[starfish]	[Asteroidea(http://vocab.getty.edu/aat/300258781)]
+
+
+
+[autograph]	[autographs(http://vocab.getty.edu/aat/300028571)]
+
+
+
+
+
+
+
+
+
+
+[brown coal]	[lignite(http://vocab.getty.edu/aat/300211957)]
+
+
+
+
+
+[butter]	[butter(http://vocab.getty.edu/aat/300389819)]
+
+
+
+
+
+
+
+
+
+
+
+
+[hurdy-gurdy]	[hurdy-gurdies(http://vocab.getty.edu/aat/300042179)]
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+[crustacean]	[Crustacea(http://vocab.getty.edu/aat/300310469)]
+
+
+
+
+
+
+
+
+
+
+[astronomy]	[astronomy(http://vocab.getty.edu/aat/300054534)]
+
+[control tower]	[control towers(http://vocab.getty.edu/aat/300007765)]
+
+
+
+[bimah]	[bemas(http://vocab.getty.edu/aat/300266806)]
+[safety]	[safety(http://vocab.getty.edu/aat/300055282)]
+
+
+
+
+
+[chapel]	[chapels(http://vocab.getty.edu/aat/300004590)]
+
+
+
+
+
+
+[pelican]	[Pelecanus(http://vocab.getty.edu/aat/300250083)]
+
+
+
+
+[scooter]	[scooters(http://vocab.getty.edu/aat/300253189), scooters(http://vocab.getty.edu/aat/300220160)]
+
+
+
+
+
+
+
+
+
+[pictograph]	[pictographs(http://vocab.getty.edu/aat/300124411)]
+
+
+
+[church bell]	[church bells(http://vocab.getty.edu/aat/300391226)]
+
+
+
+[president]	[presidents(http://vocab.getty.edu/aat/300025470)]
+[dentist]	[dentists(http://vocab.getty.edu/aat/300025808)]
+
+
+[cantilever bridge]	[cantilever bridges(http://vocab.getty.edu/aat/300007845)]
+
+
+[sheep]	[Ovis(http://vocab.getty.edu/aat/300250284)]
+[track]	[tracks(http://vocab.getty.edu/aat/300248196)]
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+[lawyer]	[lawyers(http://vocab.getty.edu/aat/300025627)]
+
+
+
+
+
+[carving]	[carving(http://vocab.getty.edu/aat/300053149)]
+
+[chemical apparatus]	[chemistry equipment(http://vocab.getty.edu/aat/300024500)]
+[chemistry]	[chemistry(http://vocab.getty.edu/aat/300054537)]
+
+
+[door]	[doors(http://vocab.getty.edu/aat/300002803)]
+
+
+
+
+
+
+[siddur]	[siddurim(http://vocab.getty.edu/aat/300211807)]
+
+
+
+
+
+[science]	[science(http://vocab.getty.edu/aat/300054462)]
+
+
+
+
+
+[dumb-bells]	[dumbbells(http://vocab.getty.edu/aat/300211093)]
+
+
+[bird]	[Aves(http://vocab.getty.edu/aat/300266506), birds(http://vocab.getty.edu/aat/300375751)]
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+[night]	[night(http://vocab.getty.edu/aat/300133095)]
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+[bride]	[brides(http://vocab.getty.edu/aat/300343613)]
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+[sawing]	[sawing(http://vocab.getty.edu/aat/300053072)]
+
+
+
+
+
+[rhinoceros]	[Rhinocerotidae(http://vocab.getty.edu/aat/300250315)]
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+[iceberg]	[icebergs(http://vocab.getty.edu/aat/300132319)]
+
+
+
+
+
+
+[cultural anthropology]	[social anthropology(http://vocab.getty.edu/aat/300137966)]
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+[wigwam]	[wigwams(http://vocab.getty.edu/aat/300005700)]
+
+
+
+
+
+
+
+
+[astrolabe]	[astrolabes(http://vocab.getty.edu/aat/300195790)]
+[cheese]	[cheese(http://vocab.getty.edu/aat/300390514)]
+
+
+
+
+
+[celluloid]	[cellulose nitrate film(http://vocab.getty.edu/aat/300311696)]
+
+
+
+
+
+
+
+
+
+
+
+
+
+[portcullis]	[portcullises(http://vocab.getty.edu/aat/300002921)]
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+[steward]	[stewards(http://vocab.getty.edu/aat/300236284)]
+
+
+
+
+
+[meteorites]	[meteorites(http://vocab.getty.edu/aat/300266159)]
+
+[arsenal]	[arsenals(http://vocab.getty.edu/aat/300000448)]
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+[architecture]	[architecture(http://vocab.getty.edu/aat/300054156)]
+
+
+[paten]	[patens(http://vocab.getty.edu/aat/300198942)]
+[God]	[gods(http://vocab.getty.edu/aat/300343851)]
+
+
+
+
+
+
+
+
+
+
+
+
+
+[apprentice]	[apprentices(http://vocab.getty.edu/aat/300025911)]
+
+[toe]	[toes(http://vocab.getty.edu/aat/300310188)]
+
+
+
+
+
+
+
+
+
+
+[childhood]	[childhood(http://vocab.getty.edu/aat/300189588)]
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+[tambourine]	[tambourines(http://vocab.getty.edu/aat/300041759)]
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+[knife]	[knives(http://vocab.getty.edu/aat/300024668)]
+
+
+
+
+
+
+
+[lignite]	[lignite(http://vocab.getty.edu/aat/300211957)]
+
+
+[mallet]	[mallets(http://vocab.getty.edu/aat/300024825)]
+
+
+
+[herm]	[herms(http://vocab.getty.edu/aat/300047170)]
+
+
+[stage design]	[scenography(http://vocab.getty.edu/aat/300054190)]
+
+
+
+
+
+
+
+
+
+
+
+[palisades]	[palisades(http://vocab.getty.edu/aat/300003717)]
+
+
+
+
+
+
+
+
+
+
+
+
+[cock]	[cocks(http://vocab.getty.edu/aat/300250039)]
+
+
+
+
+
+
+[quail]	[quails(http://vocab.getty.edu/aat/300379750)]
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+[draughts]	[checkers(http://vocab.getty.edu/aat/300266779)]
+
+
+
+
+
+
+
+
+
+
+
+[sextant]	[sextants(http://vocab.getty.edu/aat/300201687)]
+
+
+
+
+
+
+
+
+[pineapple]	[Ananas comosus(http://vocab.getty.edu/aat/300375582), pineapple(http://vocab.getty.edu/aat/300375583), Ananas(http://vocab.getty.edu/aat/300375584)]
+
+
+
+
+
+
+[fulling]	[fulling(http://vocab.getty.edu/aat/300232074)]
+
+[wig]	[wigs(http://vocab.getty.edu/aat/300046049)]
+
+
+
+
+
+
+
+
+
+
+
+
+[sparrow]	[sparrows(http://vocab.getty.edu/aat/300250095)]
+
+
+
+
+
+
+
+
+
+
+[scorpion]	[Scorpiones(http://vocab.getty.edu/aat/300249717)]
+
+
+[mandolin]	[mandolins(http://vocab.getty.edu/aat/300042135)]
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+[diplomat]	[diplomats(http://vocab.getty.edu/aat/300025462)]
+
+[touchstone]	[touchstone(http://vocab.getty.edu/aat/300011149)]
+
+
+
+
+
+
+
+
+
+
+
+
+
+[hippocampus]	[Hippocampus(http://vocab.getty.edu/aat/300261242), hippocampi(http://vocab.getty.edu/aat/300380159)]
+
+[rammer]	[rammers(http://vocab.getty.edu/aat/300022276)]
+
+
+
+
+
+
+
+
+
+
+
+
+
+[stocking]	[stockings(http://vocab.getty.edu/aat/300046088)]
+
+
+
+
+
+
+
+
+
+[badminton]	[badminton(http://vocab.getty.edu/aat/300222728)]
+
+[Memento mori]	[memento mori(http://vocab.getty.edu/aat/300257053)]
+[grand tour]	[grand tours(http://vocab.getty.edu/aat/300054796)]
+
+
+
+
+
+
+
+
+[composer]	[composers(http://vocab.getty.edu/aat/300025671)]
+
+
+
+
+
+
+
+
+[church]	[churches(http://vocab.getty.edu/aat/300007466)]
+
+
+
+[monastery]	[monasteries(http://vocab.getty.edu/aat/300000641)]
+
+[scarabaeus]	[Scarabaeus(http://vocab.getty.edu/aat/300310681)]
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+[happening]	[happenings(http://vocab.getty.edu/aat/300047935)]
+
+
+
+
+[four-poster bed]	[high-post beds(http://vocab.getty.edu/aat/300038732)]
+
+
+
+[supermarket]	[supermarkets(http://vocab.getty.edu/aat/300005246)]
+
+
+[underclothes]	[underwear(http://vocab.getty.edu/aat/300209267)]
+
+
+
+
+
+
+
+
+[herring]	[Clupea(http://vocab.getty.edu/aat/300261234)]
+
+
+
+[Church]	[churches(http://vocab.getty.edu/aat/300312247), churches(http://vocab.getty.edu/aat/300007466)]
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+[reindeer]	[Rangifer tarandus(http://vocab.getty.edu/aat/300253843)]
+[quadriga]	[quadrigas(http://vocab.getty.edu/aat/300239253)]
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+[rails]	[rails(http://vocab.getty.edu/aat/300248207)]
+
+
+[Naiad]	[naiads(http://vocab.getty.edu/aat/300380061)]
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+[exchange]	[exchanges(http://vocab.getty.edu/aat/300005222)]
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+[Christmas]	[Christmas(http://vocab.getty.edu/aat/300069053)]
+
+
+
+
+
+
+
+
+[engineering]	[engineering(http://vocab.getty.edu/aat/300054474)]
+[philosopher]	[philosophers(http://vocab.getty.edu/aat/300025569)]
+
+
+
+
+
+
+
+
+
+
+
+
+[ostrich]	[Struthio camelus(http://vocab.getty.edu/aat/300250074)]
+[bag]	[bags(http://vocab.getty.edu/aat/300198926), bags(http://vocab.getty.edu/aat/300194509)]
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+[valley]	[valleys(http://vocab.getty.edu/aat/300008761)]
+
+
+[gazelle]	[Gazella(http://vocab.getty.edu/aat/300250197)]
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+[three-wheeler]	[three-wheelers(http://vocab.getty.edu/aat/300227983)]
+
+
+
+
+
+
+
+
+[pendant]	[pendants(http://vocab.getty.edu/aat/300046002)]
+
+[platinum]	[platinum(http://vocab.getty.edu/aat/300011031)]
+
+
+
+
+[toque]	[toques(http://vocab.getty.edu/aat/300210812)]
+
+
+
+
+
+
+[partridge]	[partridges(http://vocab.getty.edu/aat/300250080)]
+
+
+[breloque]	[breloques(http://vocab.getty.edu/aat/300211660)]
+
+
+
+
+
+
+
+
+
+
+
+[civilization]	[civilization(http://vocab.getty.edu/aat/300055806)]
+[viceroy]	[viceroys(http://vocab.getty.edu/aat/300025472)]
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+[beret]	[berets(http://vocab.getty.edu/aat/300046091)]
+
+[concubine]	[concubines(http://vocab.getty.edu/aat/300386321)]
+
+
+
+
+
+
+
+
+
+[funerary art]	[funerary art(http://vocab.getty.edu/aat/300056488)]
+
+
+
+
+
+
+
+[caterpillar]	[caterpillars(http://vocab.getty.edu/aat/300259939)]
+
+
+
+[unicorn]	[unicorns(http://vocab.getty.edu/aat/300379595)]
+
+
+
+
+
+
+
+
+
+[marten]	[Martes(http://vocab.getty.edu/aat/300250169)]
+[écorché]	[écorchés(http://vocab.getty.edu/aat/300081090)]
+[roof]	[roofs(http://vocab.getty.edu/aat/300002098)]
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+[loam]	[loam(http://vocab.getty.edu/aat/300014335)]
+
+
+
+
+
+
+
+
+
+
+
+
+[clipeus]	[clipei(http://vocab.getty.edu/aat/300178246)]
+
+
+[acolyte]	[acolytes(http://vocab.getty.edu/aat/300266370)]
+
+
+
+
+
+
+
+
+[nurse]	[nurses(http://vocab.getty.edu/aat/300156142)]
+
+
+
+[perspective]	[perspective(http://vocab.getty.edu/aat/300056340)]
+
+[parasol]	[parasols(http://vocab.getty.edu/aat/300046218)]
+
+[choreographer]	[choreographers(http://vocab.getty.edu/aat/300025649)]
+
+
+[ideal city]	[ideal cities(http://vocab.getty.edu/aat/300008498)]
+
+
+
+[death]	[deaths(http://vocab.getty.edu/aat/300151836)]
+
+
+[foliage]	[leaf(http://vocab.getty.edu/aat/300011892)]
+
+[market]	[markets(http://vocab.getty.edu/aat/300005238)]
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+[fig]	[Ficus(http://vocab.getty.edu/aat/300343908), fig(http://vocab.getty.edu/aat/300012087)]
+
+
+
+
+[choir]	[choirs(http://vocab.getty.edu/aat/300389787), choirs(http://vocab.getty.edu/aat/300104479)]
+
+
+
+
+
+[robe à l'anglaise]	[sacks(http://vocab.getty.edu/aat/300224538)]
+
+[cuneiform writing]	[cuneiform(http://vocab.getty.edu/aat/300028711)]
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+[accountant]	[accountants(http://vocab.getty.edu/aat/300024982)]
+
+
+
+
+
+
+[sealing wax]	[sealing wax(http://vocab.getty.edu/aat/300311202)]
+
+
+
+
+
+
+
+
+
+
+
+[doormat]	[doormats(http://vocab.getty.edu/aat/300186842)]
+
+
+
+
+
+
+
+
+
+
+
+
+[sheepfold]	[sheepfolds(http://vocab.getty.edu/aat/300045477)]
+
+
+
+
+
+
+
+[province]	[provinces(http://vocab.getty.edu/aat/300000774)]
+
+[petition]	[petitions(http://vocab.getty.edu/aat/300027219)]
+
+
+
+
+
+[badger]	[badgers(http://vocab.getty.edu/aat/300310568)]
+
+
+
+
+
+
+
+
+
+[hollow casting]	[sand casting(http://vocab.getty.edu/aat/300053119)]
+[statue]	[statues(http://vocab.getty.edu/aat/300047600)]
+
+
+[printing]	[textile printing(http://vocab.getty.edu/aat/300387187), printing(http://vocab.getty.edu/aat/300053319)]
+
+
+
+
+
+
+[anthropology]	[anthropology(http://vocab.getty.edu/aat/300054315)]
+
+[explosive]	[explosive(http://vocab.getty.edu/aat/300015121)]
+
+
+
+[base metal]	[base metal(http://vocab.getty.edu/aat/300241615)]
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+[poster]	[posters(http://vocab.getty.edu/aat/300027221)]
+
+
+
+
+
+[cartouche]	[cartouches(http://vocab.getty.edu/aat/300010256)]
+
+
+
+
+
+
+
+
+[virgin]	[virgins(http://vocab.getty.edu/aat/300188706)]
+
+
+
+[extreme unction]	[extreme unction(http://vocab.getty.edu/aat/300162813)]
+
+
+
+
+
+
+
+
+[scales]	[scales(http://vocab.getty.edu/aat/300196293)]
+
+
+[architect]	[architects(http://vocab.getty.edu/aat/300024987)]
+
+
+
+[window]	[windows(http://vocab.getty.edu/aat/300002944)]
+
+
+[board]	[wood board(http://vocab.getty.edu/aat/300162666)]
+
+
+
+
+[king]	[kings(http://vocab.getty.edu/aat/300025481), kings(http://vocab.getty.edu/aat/300212342)]
+
+
+
+[anklet]	[anklets(http://vocab.getty.edu/aat/300209294)]
+
+
+
+
+
+
+
+
+[rapier]	[rapiers(http://vocab.getty.edu/aat/300037085)]
+
+
+
+
+
+
+[leaf]	[leaf(http://vocab.getty.edu/aat/300011892)]
+
+
+[bracelet]	[bracelets(http://vocab.getty.edu/aat/300045991)]
+[dice]	[dice(http://vocab.getty.edu/aat/300211084)]
+
+
+
+
+
+
+
+
+
+
+[cliff]	[cliffs(http://vocab.getty.edu/aat/300008749)]
+
+
+
+
+
+
+
+
+
+[hare]	[hares(http://vocab.getty.edu/aat/300250216)]
+
+
+[organic chemistry]	[organic chemistry(http://vocab.getty.edu/aat/300054541)]
+
+
+
+
+
+
+
+
+
+
+
+[grandchild]	[grandchildren(http://vocab.getty.edu/aat/300386748)]
+
+[polder]	[polders(http://vocab.getty.edu/aat/300006163)]
+[fish]	[fish(http://vocab.getty.edu/aat/300389825), fish(http://vocab.getty.edu/aat/300266085)]
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+[dominoes]	[dominoes(http://vocab.getty.edu/aat/300379949)]
+
+
+
+
+
+
+
+
+
+[hyena]	[Hyaenidae(http://vocab.getty.edu/aat/300310344)]
+
+
+
+
+
+
+
+
+[sacristy]	[sacristies(http://vocab.getty.edu/aat/300004631)]
+
+
+
+
+
+
+[civil war]	[civil wars(http://vocab.getty.edu/aat/300055315)]
+
+
+
+
+
+
+
+
+
+
+
+
+
+[soul]	[souls(http://vocab.getty.edu/aat/300379821)]
+
+
+[wine]	[wine(http://vocab.getty.edu/aat/300379442)]
+
+
+
+
+
+
+
+[television]	[television(http://vocab.getty.edu/aat/300249920)]
+[phonograph]	[phonographs(http://vocab.getty.edu/aat/300265796)]
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+[lover]	[lovers(http://vocab.getty.edu/aat/300188621)]
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+[electrician]	[electricians(http://vocab.getty.edu/aat/300025018)]
+
+
+
+
+
+
+
+[archivolt]	[archivolts(http://vocab.getty.edu/aat/300001152)]
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+[mahzor]	[mahzorim(http://vocab.getty.edu/aat/300211806)]
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+[college]	[colleges(http://vocab.getty.edu/aat/300312285), colleges(http://vocab.getty.edu/aat/300006610)]
+
+
+
+
+
+
+[tinsmith]	[tinsmiths(http://vocab.getty.edu/aat/300025324)]
+
+
+
+
+[printer]	[printers(http://vocab.getty.edu/aat/300025732)]
+
+[chimney]	[chimneys(http://vocab.getty.edu/aat/300003933)]
+
+
+
+
+[estuary]	[estuaries(http://vocab.getty.edu/aat/300266571)]
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+[ditch]	[ditches(http://vocab.getty.edu/aat/300006178)]
+
+
+
+
+
+
+
+[sword]	[swords(http://vocab.getty.edu/aat/300037048)]
+
+
+[miniature]	[miniatures(http://vocab.getty.edu/aat/300033936), miniatures(http://vocab.getty.edu/aat/300266033)]
+
+
+
+
+[quadrant]	[quadrants(http://vocab.getty.edu/aat/300200381)]
+
+
+
+[mineralogy]	[mineralogy(http://vocab.getty.edu/aat/300054552)]
+[field]	[fields(http://vocab.getty.edu/aat/300343519)]
+
+[absolution]	[absolution(http://vocab.getty.edu/aat/300264303)]
+
+
+
+[apostle]	[apostles(http://vocab.getty.edu/aat/300343837)]
+
+[sewing machine]	[sewing machines(http://vocab.getty.edu/aat/300266668)]
+
+
+
+
+
+
+
+
+[hangar]	[hangars(http://vocab.getty.edu/aat/300007768)]
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+[padlock]	[padlocks(http://vocab.getty.edu/aat/300133746)]
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+[confessional]	[confessionals(http://vocab.getty.edu/aat/300003777)]
+
+
+
+[headphones]	[headphones(http://vocab.getty.edu/aat/300266751)]
+
+
+
+
+
+[magpie]	[magpies(http://vocab.getty.edu/aat/300250072)]
+
+
+
+
+
+
+
+[tripod]	[tripods(http://vocab.getty.edu/aat/300164679)]
+
+
+
+
+
+
+
+
+
+[moped]	[mopeds(http://vocab.getty.edu/aat/300227933)]
+[clappers]	[clappers(http://vocab.getty.edu/aat/300191303)]
+
+
+
+
+
+
+
+
+[slave]	[slaves(http://vocab.getty.edu/aat/300230899)]
+
+
+
+
+
+
+
+
+
+
+[plum]	[plum(http://vocab.getty.edu/aat/300375308), plum(http://vocab.getty.edu/aat/300012418), plum(http://vocab.getty.edu/aat/300266438)]
+
+
+
+
+
+[elbow]	[elbows(http://vocab.getty.edu/aat/300310195)]
+
+
+
+
+
+
+
+
+
+[papacy]	[papacies(http://vocab.getty.edu/aat/300379037)]
+
+[equity]	[equity(http://vocab.getty.edu/aat/300055711)]
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+[battering ram]	[battering rams(http://vocab.getty.edu/aat/300036965)]
+[mill]	[mills(http://vocab.getty.edu/aat/300264628)]
+
+
+
+
+
+[machicolation]	[machicolations(http://vocab.getty.edu/aat/300002695)]
+
+
+[public baths]	[public baths(http://vocab.getty.edu/aat/300007353)]
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+[pot]	[Cannabis sativa(http://vocab.getty.edu/aat/300375510)]
+
+
+
+[campanile]	[campaniles(http://vocab.getty.edu/aat/300132457)]
+
+
+[comedy]	[comedies(http://vocab.getty.edu/aat/300201014)]
+
+[billiards]	[billiards(http://vocab.getty.edu/aat/300222754)]
+
+[film camera]	[motion-picture cameras(http://vocab.getty.edu/aat/300022644)]
+
+
+
+
+
+
+
+
+
+[Peace]	[peace(http://vocab.getty.edu/aat/300260027)]
+
+
+
+[nude]	[nudes(http://vocab.getty.edu/aat/300189568)]
+
+[cella]	[cellae(http://vocab.getty.edu/aat/300185263)]
+
+
+
+[cloister]	[cloisters(http://vocab.getty.edu/aat/300007423)]
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+[revolving door]	[revolving doors(http://vocab.getty.edu/aat/300374979)]
+
+
+
+
+
+[kinetics]	[kinetics(http://vocab.getty.edu/aat/300056102)]
+
+
+
+[offspring]	[offspring(http://vocab.getty.edu/aat/300154345)]
+
+[domestic animal]	[domestic animals(http://vocab.getty.edu/aat/300249497)]
+
+
+
+[gambling]	[gambling(http://vocab.getty.edu/aat/300252706)]
+
+
+
+
+
+
+
+
+[jester]	[jesters(http://vocab.getty.edu/aat/300025663)]
+
+
+
+
+
+
+[Corinthian order]	[Corinthian order(http://vocab.getty.edu/aat/300067417)]
+
+
+
+[hermaphrodite]	[hermaphrodites(http://vocab.getty.edu/aat/300386060)]
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+[uncle]	[uncles(http://vocab.getty.edu/aat/300386773)]
+
+
+
+
+
+
+
+
+[poppy]	[Papaver(http://vocab.getty.edu/aat/300375678)]
+
+
+
+
+
+
+[lizard]	[Sauria(http://vocab.getty.edu/aat/300250295), lizard leather(http://vocab.getty.edu/aat/300011848)]
+
+
+
+
+
+
+
+
+[baboon]	[Papio(http://vocab.getty.edu/aat/300255548)]
+
+
+
+[lily]	[Lilium(http://vocab.getty.edu/aat/300375591)]
+[mullah]	[mullahs(http://vocab.getty.edu/aat/300025767)]
+
+
+
+
+
+
+[beetle]	[Coleoptera(http://vocab.getty.edu/aat/300310502)]
+
+
+
+[treaty]	[treaties(http://vocab.getty.edu/aat/300027956)]
+
+
+
+[hippocamp]	[hippocampi(http://vocab.getty.edu/aat/300380159)]
+
+
+
+
+[vellum]	[vellum(http://vocab.getty.edu/aat/300011852)]
+
+
+
+
+
+
+
+[judge]	[judges(http://vocab.getty.edu/aat/300025625)]
+
+
+[horse]	[Equus caballus(http://vocab.getty.edu/aat/300250148)]
+
+[bat]	[Chiroptera(http://vocab.getty.edu/aat/300310316)]
+
+
+
+[frog]	[frogs(http://vocab.getty.edu/aat/300250018)]
+
+
+
+
+[brig]	[brigs(http://vocab.getty.edu/aat/300233042)]
+
+
+
+
+
+[handgun]	[handguns(http://vocab.getty.edu/aat/300037158)]
+[screen]	[screens(http://vocab.getty.edu/aat/300037737), screens(http://vocab.getty.edu/aat/300022775), screens(http://vocab.getty.edu/aat/300265735), molds(http://vocab.getty.edu/aat/300023393)]
+
+
+
+
+
+[stall]	[stalls(http://vocab.getty.edu/aat/300076122)]
+
+
+
+
+[penal law]	[criminal law(http://vocab.getty.edu/aat/300054415)]
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+[danger]	[hazards(http://vocab.getty.edu/aat/300224106)]
+[insect]	[Insecta(http://vocab.getty.edu/aat/300310470)]
+
+
+
+
+
+
+
+[spider]	[Araneae(http://vocab.getty.edu/aat/300249715)]
+[fashion]	[fashion design(http://vocab.getty.edu/aat/300138708), fashion(http://vocab.getty.edu/aat/300055811)]
+
+
+
+[porcupine]	[porcupines(http://vocab.getty.edu/aat/300250633)]
+
+[Christian]	[Christianity(http://vocab.getty.edu/aat/300073711)]
+
+
+
+
+
+
+[dynamics]	[dynamics(http://vocab.getty.edu/aat/300056100)]
+[sculptor]	[sculptors(http://vocab.getty.edu/aat/300025181)]
+
+
+
+
+
+
+
+
+
+
+
+[blacksmith]	[blacksmiths(http://vocab.getty.edu/aat/300025313)]
+
+
+
+[baton]	[batons(http://vocab.getty.edu/aat/300236137)]
+
+
+
+
+[allegory]	[allegory(http://vocab.getty.edu/aat/300055866), allegories(http://vocab.getty.edu/aat/300202507)]
+
+
+
+
+
+
+
+[dulcimer]	[dulcimers(http://vocab.getty.edu/aat/300042163)]
+[candlestick]	[candlesticks(http://vocab.getty.edu/aat/300037588)]
+
+
+
+
+
+
+
+[mollusc]	[Mollusca(http://vocab.getty.edu/aat/300266510)]
+
+
+
+
+
+
+
+
+
+[drama]	[drama(http://vocab.getty.edu/aat/300054152)]
+
+
+
+
+
+
+
+
+
+
+
+
+[evening dress]	[evening dresses(http://vocab.getty.edu/aat/300243843), evening dress(http://vocab.getty.edu/aat/300224227)]
+
+
+
+
+
+
+
+
+
+
+
+[cabbage]	[Brassica oleracea(http://vocab.getty.edu/aat/300391214)]
+
+
+[antelope]	[antelopes(http://vocab.getty.edu/aat/300250022)]
+
+
+
+[arrow]	[arrows(http://vocab.getty.edu/aat/300036976)]
+
+
+
+
+
+[milk]	[milk(http://vocab.getty.edu/aat/300191622)]
+
+
+
+[skull]	[skull(http://vocab.getty.edu/aat/300191856)]
+[communication]	[communication(http://vocab.getty.edu/aat/300137794)]
+
+
+
+
+
+[print]	[prints(http://vocab.getty.edu/aat/300041273)]
+
+
+
+[barrister]	[barristers(http://vocab.getty.edu/aat/300025629)]
+
+[omnibus]	[omnibuses(http://vocab.getty.edu/aat/300219954)]
+
+
+
+
+
+
+
+
+
+
+[rapids]	[rapids(http://vocab.getty.edu/aat/300008739)]
+
+
+
+[tundra]	[tundras(http://vocab.getty.edu/aat/300008921)]
+
+
+
+
+
+
+
+
+
+
+
+
+[pepper]	[pepper(http://vocab.getty.edu/aat/300389824)]
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+[wren]	[Troglodytidae(http://vocab.getty.edu/aat/300266493)]
+
+
+[vice-president]	[vice-presidents(http://vocab.getty.edu/aat/300122959)]
+[statesman]	[statesmen(http://vocab.getty.edu/aat/300025484)]
+
+
+
+
+
+
+[investiture]	[investitures(http://vocab.getty.edu/aat/300379144)]
+
+
+
+[flaming heart]	[flaming hearts(http://vocab.getty.edu/aat/300009875)]
+
+[moonlight]	[moonlight(http://vocab.getty.edu/aat/300386089)]
+
+
+
+
+
+
+
+[Purim]	[Purim(http://vocab.getty.edu/aat/300264545)]
+
+
+
+
+
+
+
+[wreath]	[wreaths(http://vocab.getty.edu/aat/300220784)]
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+[thermometer]	[thermometers(http://vocab.getty.edu/aat/300198647)]
+
+
+
+
+
+
+[gig]	[gigs(http://vocab.getty.edu/aat/300215697), gigs(http://vocab.getty.edu/aat/300232892)]
+
+[anthracite]	[anthracite(http://vocab.getty.edu/aat/300015140)]
+[grandmother]	[grandmothers(http://vocab.getty.edu/aat/300386752)]
+
+
+
+
+
+[compasses]	[compasses(http://vocab.getty.edu/aat/300196707), compasses(http://vocab.getty.edu/aat/300022488)]
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+[bicorne]	[bicornes(http://vocab.getty.edu/aat/300210870)]
+
+
+
+
+
+
+
+[walkie-talkie]	[walkie-talkies(http://vocab.getty.edu/aat/300389982)]
+
+
+
+
+[afternoon dress]	[afternoon dress(http://vocab.getty.edu/aat/300224228)]
+
+
+[chicken]	[Gallus gallus(http://vocab.getty.edu/aat/300250037)]
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+[saint]	[saints(http://vocab.getty.edu/aat/300150555)]
+
+[nave]	[naves(http://vocab.getty.edu/aat/300004627)]
+
+
+
+[artificial light]	[artificial light(http://vocab.getty.edu/aat/300051955)]
+
+
+
+
+
+
+
+[plastic]	[plastic(http://vocab.getty.edu/aat/300014570)]
+
+
+
+[public gardens]	[public gardens(http://vocab.getty.edu/aat/300008155)]
+
+
+[sculpture]	[sculpture(http://vocab.getty.edu/aat/300047090)]
+
+[ice]	[ice(http://vocab.getty.edu/aat/300011781)]
+
+
+
+
+
+
+
+
+[precious metal]	[precious metal(http://vocab.getty.edu/aat/300011054)]
+
+
+
+
+
+
+
+
+
+[swan]	[Cygnus(http://vocab.getty.edu/aat/300250103)]
+
+
+
+
+
+
+
+[octant]	[octants(http://vocab.getty.edu/aat/300199777)]
+
+
+[juniper]	[Juniperus(http://vocab.getty.edu/aat/300343647), juniper(http://vocab.getty.edu/aat/300012594)]
+
+
+
+
+
+
+
+
+
+
+
+
+
+[crocodile]	[Crocodylidae(http://vocab.getty.edu/aat/300250293)]
+[expression]	[expression(http://vocab.getty.edu/aat/300069339)]
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+[whipping]	[whipstitching(http://vocab.getty.edu/aat/300389689)]
+
+
+
+
+
+
+
+
+[reinforced concrete]	[reinforced concrete(http://vocab.getty.edu/aat/300010775)]
+[octagon]	[octagons(http://vocab.getty.edu/aat/300055635)]
+
+
+
+
+[fir]	[Abies(http://vocab.getty.edu/aat/300343643), fir(http://vocab.getty.edu/aat/300012558)]
+
+[pin]	[pins(http://vocab.getty.edu/aat/300046006), pins(http://vocab.getty.edu/aat/300036423)]
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+[harness]	[harnesses(http://vocab.getty.edu/aat/300212971)]
+
+
+[photography]	[photography(http://vocab.getty.edu/aat/300054225)]
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+[father-in-law]	[fathers-in-law(http://vocab.getty.edu/aat/300386758)]
+
+
+
+
+
+[ambassador]	[ambassadors(http://vocab.getty.edu/aat/300188587)]
+
+
+[chaplain]	[chaplains(http://vocab.getty.edu/aat/300025759)]
+
+
+
+
+
+
+
+
+
+
+[mason]	[masons(http://vocab.getty.edu/aat/300025040)]
+
+
+
+
+
+
+
+
+
+
+[ballet]	[ballets(http://vocab.getty.edu/aat/300389780), ballet(http://vocab.getty.edu/aat/300054145)]
+
+
+
+
+
+[tram]	[trams(http://vocab.getty.edu/aat/300312280)]
+
+
+
+
+
+
+[hospital]	[hospitals(http://vocab.getty.edu/aat/300006676), hospitals(http://vocab.getty.edu/aat/300343474), hospitals(http://vocab.getty.edu/aat/300343473), hospitals(http://vocab.getty.edu/aat/300312214)]
+
+
+
+[air force]	[air forces(http://vocab.getty.edu/aat/300137545)]
+
+
+
+
+
+
+
+[dwarf]	[dwarfs(http://vocab.getty.edu/aat/300236748)]
+[tarot]	[tarot(http://vocab.getty.edu/aat/300263332)]
+
+
+
+
+[friend]	[friends(http://vocab.getty.edu/aat/300263079)]
+
+
+
+
+
+
+
+[casting]	[casting(http://vocab.getty.edu/aat/300053104)]
+
+
+
+
+
+
+
+
+
+
+
+[light]	[light(http://vocab.getty.edu/aat/300311037)]
+
+
+
+
+
+
+
+[goat]	[Capra(http://vocab.getty.edu/aat/300250122)]
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+[bidet]	[bidets(http://vocab.getty.edu/aat/300052630)]
+
+
+[spit]	[spits(http://vocab.getty.edu/aat/300201151)]
+
+
+[Vanitas]	[vanitas(http://vocab.getty.edu/aat/300249151)]
+
+
+
+[bureau]	[bureaus(http://vocab.getty.edu/aat/300386644), bureaus(http://vocab.getty.edu/aat/300167570)]
+[urban-rural migration]	[urban-rural migration(http://vocab.getty.edu/aat/300055415)]
+
+
+
+
+
+
+
+
+
+
+[ideographic script]	[ideographic scripts(http://vocab.getty.edu/aat/300263241)]
+
+
+
+
+
+
+
+[botany]	[botany(http://vocab.getty.edu/aat/300054467)]
+
+
+
+[concave mirror]	[concave mirrors(http://vocab.getty.edu/aat/300223935)]
+
+[housewife]	[housewives(http://vocab.getty.edu/aat/300136476)]
+
+
+[court records]	[judicial records(http://vocab.getty.edu/aat/300027850)]
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+[marionette]	[marionettes(http://vocab.getty.edu/aat/300211126)]
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+[candelabrum]	[candelabras(http://vocab.getty.edu/aat/300037584)]
+
+
+
+
+
+
+
+
+
+
+
+[poet]	[poets(http://vocab.getty.edu/aat/300025513)]
+
+
+
+
+
+
+[strawberry]	[strawberry(http://vocab.getty.edu/aat/300375414), Fragaria(http://vocab.getty.edu/aat/300375423)]
+
+
+[first communion]	[first communions(http://vocab.getty.edu/aat/300391315)]
+[moss]	[moss(http://vocab.getty.edu/aat/300262568), Bryophyta(http://vocab.getty.edu/aat/300265698)]
+
+[children's art]	[children's art(http://vocab.getty.edu/aat/300056496)]
+
+
+
+
+
+[Ferris wheel]	[Ferris wheels(http://vocab.getty.edu/aat/300007315)]
+
+
+
+
+
+
+
+
+
+[seder]	[Seders(http://vocab.getty.edu/aat/300069407)]
+
+
+
+[surveying]	[surveying(http://vocab.getty.edu/aat/300054691)]
+[peak]	[peaks(http://vocab.getty.edu/aat/300008798)]
+
+
+[autogiro]	[autogiros(http://vocab.getty.edu/aat/300216076)]
+
+
+
+
+
+[Greek cross]	[Greek crosses(http://vocab.getty.edu/aat/300010071)]
+
+
+
+
+[lobster]	[Homaridae(http://vocab.getty.edu/aat/300249724)]
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+[national park]	[national parks(http://vocab.getty.edu/aat/300008189)]
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+[drawing]	[drawing(http://vocab.getty.edu/aat/300054196), drawings(http://vocab.getty.edu/aat/300033973)]
+
+
+
+
+[coffee]	[Coffea(http://vocab.getty.edu/aat/300375535)]
+
+
+
+
+
+
+[meteorology]	[meteorology(http://vocab.getty.edu/aat/300054550)]
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+[trench]	[trenches(http://vocab.getty.edu/aat/300008022)]
+[cream]	[cream(http://vocab.getty.edu/aat/300266243)]
+
+
+
+
+
+
+
+
+
+[baptizing]	[baptizing(http://vocab.getty.edu/aat/300137781)]
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+[animated cartoon]	[animated cartoons(http://vocab.getty.edu/aat/300263512)]
+
+
+
+
+
+
+
+[bridle]	[bridles(http://vocab.getty.edu/aat/300248092)]
+[silver]	[silver(http://vocab.getty.edu/aat/300011029)]
+
+
+[decoration]	[decorations(http://vocab.getty.edu/aat/300379003)]
+
+
+
+
+
+
+
+
+
+
+[fog]	[fog(http://vocab.getty.edu/aat/300055374)]
+
+
+
+
+
+[convent]	[convents(http://vocab.getty.edu/aat/300000635), convents(http://vocab.getty.edu/aat/300312089)]
+
+[ladle]	[ladles(http://vocab.getty.edu/aat/300200095)]
+
+
+
+
+
+
+
+
+[flax]	[Linum usitatissimum(http://vocab.getty.edu/aat/300375504), flax(http://vocab.getty.edu/aat/300014041)]
+
+
+
+
+
+
+
+
+
+
+
+[alchemy]	[alchemy(http://vocab.getty.edu/aat/300054588)]
+
+
+
+
+
+[lake]	[lakes(http://vocab.getty.edu/aat/300008680), Lake(http://vocab.getty.edu/aat/300017685)]
+
+
+
+
+
+
+
+[Sirens]	[sirens(http://vocab.getty.edu/aat/300379597)]
+
+
+
+
+
+
+
+
+
+
+[iron]	[iron(http://vocab.getty.edu/aat/300011002)]
+[finger]	[fingers(http://vocab.getty.edu/aat/300310194)]
+
+[social position]	[social status(http://vocab.getty.edu/aat/300065206)]
+
+
+
+[covered bridge]	[covered bridges(http://vocab.getty.edu/aat/300007872)]
+[dog]	[Canis familiaris(http://vocab.getty.edu/aat/300250130)]
+
+[howdah]	[howdahs(http://vocab.getty.edu/aat/300310130)]
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+[galley]	[galleys(http://vocab.getty.edu/aat/300125456)]
+[verge]	[verges(http://vocab.getty.edu/aat/300002376)]
+
+
+
+
+
+
+
+[river mouth]	[river mouths(http://vocab.getty.edu/aat/300387057)]
+
+
+
+
+[saw]	[saws(http://vocab.getty.edu/aat/300024671)]
+
+[transi]	[transis(http://vocab.getty.edu/aat/300252108)]
+[rose]	[Rosa(http://vocab.getty.edu/aat/300266246)]
+
+
+
+
+
+
+
+[producer]	[producers(http://vocab.getty.edu/aat/300197742)]
+
+
+
+
+[maize]	[Zea mays(http://vocab.getty.edu/aat/300375398)]
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+[crocheting]	[crocheting(http://vocab.getty.edu/aat/300053632)]
+[comet]	[comets(http://vocab.getty.edu/aat/300266158)]
+
+
+
+
+
+
+[hoopoe]	[Upupa epops(http://vocab.getty.edu/aat/300250068)]
+
+
+
+[fishing]	[fishing(http://vocab.getty.edu/aat/300239470)]
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+[vine]	[vines(http://vocab.getty.edu/aat/300132406)]
+
+
+[hemlock]	[Tsuga(http://vocab.getty.edu/aat/300343644), hemlock(http://vocab.getty.edu/aat/300012576)]
+
+
+
+
+[Good Friday]	[Good Friday(http://vocab.getty.edu/aat/300069634)]
+
+[hatter]	[hatters(http://vocab.getty.edu/aat/300025354)]
+
+
+
+
+
+
+
+
+
+[Passover]	[Passover(http://vocab.getty.edu/aat/300069405)]
+
+
+
+
+[profile]	[profiles(http://vocab.getty.edu/aat/300034272), profiles(http://vocab.getty.edu/aat/300123319)]
+
+
+
+
+
+[lectern]	[lecterns(http://vocab.getty.edu/aat/300170801)]
+
+
+
+[safety pin]	[safety pins(http://vocab.getty.edu/aat/300239269)]
+
+
+
+
+
+
+[old age]	[old age(http://vocab.getty.edu/aat/300189603)]
+
+
+[walnut]	[Juglans(http://vocab.getty.edu/aat/300374812), walnut(http://vocab.getty.edu/aat/300012476), walnut(http://vocab.getty.edu/aat/300266426)]
+
+
+
+
+
+
+
+
+
+
+[tester]	[testers(http://vocab.getty.edu/aat/300040453)]
+
+
+
+
+
+[cone]	[cones(http://vocab.getty.edu/aat/300055628)]
+
+
+
+
+
+
+
+
+
+
+[modem]	[modems(http://vocab.getty.edu/aat/300024534)]
+
+
+[mother-in-law]	[mothers-in-law(http://vocab.getty.edu/aat/300386757)]
+
+
+
+
+
+
+
+
+
+[silk]	[silk(http://vocab.getty.edu/aat/300014072), silk(http://vocab.getty.edu/aat/300243428)]
+
+
+
+
+
+
+
+
+
+
+
+[hide]	[hide(http://vocab.getty.edu/aat/300011844)]
+[vehicle]	[vehicle(http://vocab.getty.edu/aat/300014774)]
+
+
+
+[grammar]	[grammar(http://vocab.getty.edu/aat/300263250)]
+
+
+[pen]	[pens(http://vocab.getty.edu/aat/300022452)]
+[sea-horse]	[Hippocampus(http://vocab.getty.edu/aat/300261242)]
+
+
+
+
+
+
+
+
+[mason's mark]	[masons' marks(http://vocab.getty.edu/aat/300264553)]
+
+
+
+
+
+
+
+[poultry]	[poultry(http://vocab.getty.edu/aat/300250036)]
+
+
+
+
+
+[bust]	[busts(http://vocab.getty.edu/aat/300047457)]
+
+
+[arthropod]	[Arthropoda(http://vocab.getty.edu/aat/300265687)]
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+[jug]	[jugs(http://vocab.getty.edu/aat/300045685)]
+
+
+
+
+
+
+
+
+[Islam]	[Islam(http://vocab.getty.edu/aat/300073715)]
+
+
+
+[perfume bottle]	[perfume bottles(http://vocab.getty.edu/aat/300197635)]
+[covered wagon]	[covered wagons(http://vocab.getty.edu/aat/300219549)]
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+[tetrahedron]	[tetrahedra(http://vocab.getty.edu/aat/300068741)]
+
+
+[triton]	[tritons(http://vocab.getty.edu/aat/300379733)]
+
+
+[clog]	[clogs(http://vocab.getty.edu/aat/300046066)]
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+[velvet]	[velvet(http://vocab.getty.edu/aat/300133711)]
+
+[Academia]	[academia(http://vocab.getty.edu/aat/300266107)]
+
+
+[squid]	[Teuthida(http://vocab.getty.edu/aat/300259787)]
+
+
+
+
+
+
+
+
+[Jainism]	[Jainism(http://vocab.getty.edu/aat/300143540)]
+
+
+
+
+
+
+
+
+
+
+[fantasy]	[fantasy(http://vocab.getty.edu/aat/300068545), fantasies(http://vocab.getty.edu/aat/300380288), fantasies(http://vocab.getty.edu/aat/300380290)]
+
+
+
+
+
+
+
+
+
+[carding]	[carding(http://vocab.getty.edu/aat/300053751)]
+
+
+
+
+
+
+
+
+
+[alder]	[Alnus(http://vocab.getty.edu/aat/300343619), alder(http://vocab.getty.edu/aat/300011918)]
+
+
+
+
+
+
+
+
+[layman]	[laity(http://vocab.getty.edu/aat/300025779)]
+[crucifix]	[crucifixes(http://vocab.getty.edu/aat/300248835)]
+
+
+
+
+
+
+
+
+
+
+
+[stag]	[stags(http://vocab.getty.edu/aat/300250314)]
+
+
+
+
+
+
+[stage]	[stages(http://vocab.getty.edu/aat/300004751)]
+
+
+
+
+[ninepins]	[ninepins(http://vocab.getty.edu/aat/300211171)]
+[water-pipe]	[water pipes(http://vocab.getty.edu/aat/300263308)]
+
+
+
+[princess]	[princesses(http://vocab.getty.edu/aat/300155241)]
+
+
+
+
+
+
+
+
+
+
+
+
+
+[mikveh]	[mikvehs(http://vocab.getty.edu/aat/300391219)]
+
+
+
+
+
+[medium]	[vehicle(http://vocab.getty.edu/aat/300014774), medium(http://vocab.getty.edu/aat/300311035)]
+
+
+
+
+[drill]	[drills(http://vocab.getty.edu/aat/300024679)]
+
+
+[convex mirror]	[convex mirrors(http://vocab.getty.edu/aat/300223932)]
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+[armadillo]	[Dasypodidae(http://vocab.getty.edu/aat/300255521)]
+
+
+
+
+
+
+[conjurer]	[magicians(http://vocab.getty.edu/aat/300264526)]
+[minister]	[ministers(http://vocab.getty.edu/aat/300386633)]
+
+
+
+
+
+
+[mound]	[mounds(http://vocab.getty.edu/aat/300008024)]
+
+
+[mandorla]	[mandorlas(http://vocab.getty.edu/aat/300375683)]
+
+
+
+
+[celestial globe]	[celestial globes(http://vocab.getty.edu/aat/300028090)]
+
+
+
+
+
+
+
+
+[wood(en)]	[woods(http://vocab.getty.edu/aat/300132451), wood(http://vocab.getty.edu/aat/300011914)]
+[mammal]	[Mammalia(http://vocab.getty.edu/aat/300265707)]
+
+
+
+[plumber]	[plumbers(http://vocab.getty.edu/aat/300025030)]
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+[thin]	[thin(http://vocab.getty.edu/aat/300379389)]
+
+
+[silhouette]	[silhouettes(http://vocab.getty.edu/aat/300015423)]
+
+[cult]	[cults(http://vocab.getty.edu/aat/300251847)]
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+[Lycaon]	[Lycaon(http://vocab.getty.edu/aat/300310358)]
+
+
+
+
+[liquid]	[liquid(http://vocab.getty.edu/aat/300015378)]
+[bastion]	[bastions(http://vocab.getty.edu/aat/300002495)]
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+[border]	[borders(http://vocab.getty.edu/aat/300010252)]
+[nautilus]	[nautilus shell(http://vocab.getty.edu/aat/300261383)]
+
+
+
+
+
+
+
+
+
+
+
+
+[lavatory]	[lavatories(http://vocab.getty.edu/aat/300052632)]
+
+
+
+
+
+[soccer]	[soccer(http://vocab.getty.edu/aat/300222801)]
+
+
+
+
+
+
+
+[performance]	[performance art(http://vocab.getty.edu/aat/300121445)]
+
+
+
+
+
+
+[Epiphany]	[Epiphany(http://vocab.getty.edu/aat/300264546)]
+
+
+
+
+
+[hall]	[halls(http://vocab.getty.edu/aat/300004420)]
+
+
+
+[scimitar]	[scimitars(http://vocab.getty.edu/aat/300037089)]
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+[betting]	[gambling(http://vocab.getty.edu/aat/300252706)]
+
+
+
+
+
+
+
+
+
+
+
+
+[elder]	[elders(http://vocab.getty.edu/aat/300025761)]
+
+[airport]	[airports(http://vocab.getty.edu/aat/300000681)]
+
+[lamprey]	[Petromyzonidae(http://vocab.getty.edu/aat/300249653)]
+[wrist]	[wrists(http://vocab.getty.edu/aat/300310203)]
+
+
+
+
+
+
+
+
+
+[Bailey bridge]	[bailey bridges(http://vocab.getty.edu/aat/300007841)]
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+[swamp]	[swamps(http://vocab.getty.edu/aat/300008905)]
+
+
+
+
+
+
+[binding]	[bookbinding(http://vocab.getty.edu/aat/300053592), bindings(http://vocab.getty.edu/aat/300055023)]
+
+
+
+
+[fiddler]	[fiddlers(http://vocab.getty.edu/aat/300386073)]
+
+
+
+
+
+
+
+[orangery]	[orangeries(http://vocab.getty.edu/aat/300006804)]
+
+[chemist's]	[chemists(http://vocab.getty.edu/aat/300025793)]
+[mask]	[masks(http://vocab.getty.edu/aat/300138758)]
+
+[bowling]	[bowling(http://vocab.getty.edu/aat/300239467)]
+
+
+[earth]	[earth(http://vocab.getty.edu/aat/300011734)]
+
+
+
+
+
+
+
+
+
+
+[sundial]	[sundials(http://vocab.getty.edu/aat/300041614)]
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+[audio equipment]	[audio equipment(http://vocab.getty.edu/aat/300257199)]
+[laurel]	[Laurus(http://vocab.getty.edu/aat/300374994)]
+
+
+
+
+
+
+[synagogue]	[synagogues(http://vocab.getty.edu/aat/300312245), synagogues(http://vocab.getty.edu/aat/300007590)]
+
+[cabaret]	[cabarets(http://vocab.getty.edu/aat/300007099)]
+
+
+
+
+
+
+
+
+
+
+
+
+
+[action]	[actions(http://vocab.getty.edu/aat/300212480)]
+[saying]	[sayings(http://vocab.getty.edu/aat/300264590)]
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+[queen]	[queens(http://vocab.getty.edu/aat/300025483)]
+
+
+
+
+
+
+
+[wiring]	[electric wiring(http://vocab.getty.edu/aat/300050687)]
+
+[psychiatric art]	[outsider art(http://vocab.getty.edu/aat/300056472)]
+
+
+
+
+
+
+
+
+
+
+
+[hyacinth]	[Hyacinthus(http://vocab.getty.edu/aat/300379703)]
+
+
+
+
+
+
+
+
+
+[torso]	[torsos(http://vocab.getty.edu/aat/300375051)]
+
+
+
+
+[Protestantism]	[Protestantism(http://vocab.getty.edu/aat/300073735)]
+
+
+
+
+
+
+
+
+
+[spinning-wheel]	[spinning wheels(http://vocab.getty.edu/aat/300263278)]
+
+
+
+
+
+[Holy Water]	[holy water(http://vocab.getty.edu/aat/300264702)]
+
+
+
+[medallion]	[medallions(http://vocab.getty.edu/aat/300077354)]
+[electric locomotive]	[electric locomotives(http://vocab.getty.edu/aat/300228506)]
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+[hydra]	[Hydra(http://vocab.getty.edu/aat/300258932)]
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+[lane]	[lanes(http://vocab.getty.edu/aat/300003913), lanes(http://vocab.getty.edu/aat/300008258)]
+[pencil]	[pencils(http://vocab.getty.edu/aat/300022439)]
+
+
+
+
+
+
+
+
+
+
+
+[lemon]	[lemon(http://vocab.getty.edu/aat/300266423), Citrus limon(http://vocab.getty.edu/aat/300311516)]
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+[cyclone]	[cyclones(http://vocab.getty.edu/aat/300054736)]
+
+
+[salmon]	[salmon(http://vocab.getty.edu/aat/300261263)]
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+[viol]	[viols(http://vocab.getty.edu/aat/300042233)]
+
+
+
+
+
+
+
+[fox]	[foxes(http://vocab.getty.edu/aat/300266520)]
+
+
+
+
+
+
+
+[button]	[buttons(http://vocab.getty.edu/aat/300239261)]
+
+
+
+
+
+
+
+
+[linden]	[Tilia(http://vocab.getty.edu/aat/300343929), linden(http://vocab.getty.edu/aat/300012456)]
+[cithara]	[kitharas(http://vocab.getty.edu/aat/300042121)]
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+[balloon]	[balloons(http://vocab.getty.edu/aat/300222189), balloons(http://vocab.getty.edu/aat/300264568)]
+
+
+[engraving]	[engravings(http://vocab.getty.edu/aat/300041340)]
+
+
+
+
+
+
+
+
+[crushing]	[crushing(http://vocab.getty.edu/aat/300053084)]
+
+
+
+
+
+
+
+
+[priestess]	[priestesses(http://vocab.getty.edu/aat/300343853)]
+
+
+
+
+
+[wall]	[walls(http://vocab.getty.edu/aat/300002469)]
+
+
+
+
+
+
+
+
+
+
+[ell]	[Greek(http://vocab.getty.edu/aat/300388361)]
+
+
+[backgammon]	[backgammon(http://vocab.getty.edu/aat/300222747)]
+
+
+
+[planet]	[planets(http://vocab.getty.edu/aat/300263109)]
+
+
+
+
+
+
+[jungle]	[jungles(http://vocab.getty.edu/aat/300008869)]
+
+[myrtle]	[Myrtus(http://vocab.getty.edu/aat/300343655), myrtle(http://vocab.getty.edu/aat/300136896)]
+
+
+
+
+
+[genius]	[genius(http://vocab.getty.edu/aat/300263852)]
+
+
+
+
+
+
+
+
+[sink]	[sinks(http://vocab.getty.edu/aat/300052634)]
+
+
+
+
+
+
+[trousers]	[trousers(http://vocab.getty.edu/aat/300209935)]
+
+
+[shell]	[shell(http://vocab.getty.edu/aat/300011829)]
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+[philosophy]	[philosophy(http://vocab.getty.edu/aat/300054279)]
+
+
+
+
+[traffic sign]	[traffic signs(http://vocab.getty.edu/aat/300211849)]
+
+
+
+
+
+
+
+[passage]	[passages(http://vocab.getty.edu/aat/300387217)]
+
+
+
+
+
+
+
+
+
+
+[clothes]	[clothing(http://vocab.getty.edu/aat/300266639)]
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+[pomander]	[pomanders(http://vocab.getty.edu/aat/300220822)]
+
+
+
+
+
+[wolf]	[wolves(http://vocab.getty.edu/aat/300250132)]
+
+
+
+
+
+
+[mantis]	[Mantodea(http://vocab.getty.edu/aat/300389900)]
+
+
+
+
+
+
+
+
+[sock]	[socks(http://vocab.getty.edu/aat/300046087)]
+
+[forge]	[forges(http://vocab.getty.edu/aat/300023137)]
+
+
+
+
+[mattress]	[mattresses(http://vocab.getty.edu/aat/300040450)]
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+[surgeon]	[surgeons(http://vocab.getty.edu/aat/300025810)]
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+[buckle]	[buckles(http://vocab.getty.edu/aat/300239260)]
+
+
+
+
+
+
+
+
+
+
+
+
+
+[wife]	[wives(http://vocab.getty.edu/aat/300154343)]
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+[crowbar]	[crowbars(http://vocab.getty.edu/aat/300024696)]
+
+
+
+
+
+[lynx]	[Lynx(http://vocab.getty.edu/aat/300310362)]
+
+
+
+[trombone]	[trombones(http://vocab.getty.edu/aat/300042335)]
+
+
+[hut]	[huts(http://vocab.getty.edu/aat/300004824)]
+
+
+
+
+[property]	[property(http://vocab.getty.edu/aat/300055588)]
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+[moustache]	[moustaches(http://vocab.getty.edu/aat/300379264)]
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+[Shrovetide]	[Carnival(http://vocab.getty.edu/aat/300069281)]
+
+[canister]	[canisters(http://vocab.getty.edu/aat/300195322)]
+
+[film]	[motion pictures(http://vocab.getty.edu/aat/300136900)]
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+[geomancy]	[geomancy(http://vocab.getty.edu/aat/300239121)]
+
+
+
+
+
+
+
+
+
+
+
+
+
+[airfield]	[airfields(http://vocab.getty.edu/aat/300000679)]
+
+
+
+
+[school]	[schools(http://vocab.getty.edu/aat/300266108), schools(http://vocab.getty.edu/aat/300266106)]
+
+
+
+[drought]	[drought(http://vocab.getty.edu/aat/300055368)]
+
+
+
+[Marianum]	[marianums(http://vocab.getty.edu/aat/300390931)]
+[biology]	[biology(http://vocab.getty.edu/aat/300054466)]
+
+[nursery]	[nurseries(http://vocab.getty.edu/aat/300004949)]
+
+[riveting]	[riveting(http://vocab.getty.edu/aat/300053019)]
+
+
+
+
+
+
+
+
+
+[ship]	[ships(http://vocab.getty.edu/aat/300082981)]
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+[credence]	[credences(http://vocab.getty.edu/aat/300077337)]
+
+
+
+
+
+
+[balalaika]	[balalaikas(http://vocab.getty.edu/aat/300042011)]
+
+
+
+
+
+
+
+
+
+
+
+
+
+[collar]	[collars(http://vocab.getty.edu/aat/300255580), collars(http://vocab.getty.edu/aat/300210058)]
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+[lotus]	[Nelumbo(http://vocab.getty.edu/aat/300375579), lotus(http://vocab.getty.edu/aat/300375570), Lotus(http://vocab.getty.edu/aat/300375569)]
+
+
+[ravine]	[ravines(http://vocab.getty.edu/aat/300008773)]
+
+
+
+
+
+
+[roulette]	[roulette(http://vocab.getty.edu/aat/300222823)]
+
+
+[teddy bear]	[teddy bears(http://vocab.getty.edu/aat/300211334)]
+
+
+
+[woodpecker]	[Picinae(http://vocab.getty.edu/aat/300266495)]
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+[stone]	[stone(http://vocab.getty.edu/aat/300011176)]
+
+
+[cello]	[violoncellos(http://vocab.getty.edu/aat/300209202)]
+
+
+
+
+[sister]	[sisters(http://vocab.getty.edu/aat/300188720)]
+
+
+
+
+
+
+[frieze]	[friezes(http://vocab.getty.edu/aat/300001816)]
+
+
+
+
+
+
+[tower]	[towers(http://vocab.getty.edu/aat/300003615)]
+
+
+
+
+
+
+
+
+
+
+
+
+[grasshopper]	[Caelifera(http://vocab.getty.edu/aat/300310684)]
+
+
+[acacia]	[Acacia(http://vocab.getty.edu/aat/300375009), acacia(http://vocab.getty.edu/aat/300048911)]
+
+
+
+
+
+[quarry]	[quarries(http://vocab.getty.edu/aat/300000402)]
+
+[castle]	[castles(http://vocab.getty.edu/aat/300006891)]
+
+
+[spice]	[spices(http://vocab.getty.edu/aat/300386730)]
+
+[Ash Wednesday]	[Ash Wednesday(http://vocab.getty.edu/aat/300069636)]
+
+
+
+
+
+
+
+
+
+
+
+
+[bacilli]	[Bacilli(http://vocab.getty.edu/aat/300390507)]
+
+
+
+
+
+
+
+
+
+[metropolis]	[metropolises(http://vocab.getty.edu/aat/300008401)]
+
+
+[corn]	[Zea mays(http://vocab.getty.edu/aat/300375398)]
+
+
+
+
+
+[hoop]	[hoops(http://vocab.getty.edu/aat/300218130)]
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+[ankle]	[ankles(http://vocab.getty.edu/aat/300310189)]
+
+
+[waterfall]	[waterfalls(http://vocab.getty.edu/aat/300008736)]
+[galaxy]	[galaxies(http://vocab.getty.edu/aat/300386943)]
+
+
+
+
+
+
+
+
+
+[vault]	[vaults(http://vocab.getty.edu/aat/300001324), vaults(http://vocab.getty.edu/aat/300112480)]
+
+
+
+
+
+
+
+
+[dune]	[dunes(http://vocab.getty.edu/aat/300008750)]
+
+
+
+
+
+
+[porter]	[porters(http://vocab.getty.edu/aat/300025868)]
+
+
+
+[bourgeoisie]	[bourgeoisie(http://vocab.getty.edu/aat/300055482)]
+
+
+
+
+[dew]	[dew(http://vocab.getty.edu/aat/300073061)]
+
+
+
+
+
+
+
+
+
+
+
+
+[archbishop]	[archbishops(http://vocab.getty.edu/aat/300025753)]
+
+
+
+
+
+
+
+[necklace]	[necklaces(http://vocab.getty.edu/aat/300046001)]
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+[brush]	[brushes(http://vocab.getty.edu/aat/300024760)]
+
+
+
+
+
+[plank]	[planks(http://vocab.getty.edu/aat/300012825)]
+
+
+
+
+
+
+
+
+
+
+[kaki persimmon]	[kaki(http://vocab.getty.edu/aat/300012060), Diospyros kaki(http://vocab.getty.edu/aat/300374845)]
+
+[scythe]	[scythes(http://vocab.getty.edu/aat/300024371)]
+
+
+
+
+
+
+[procession]	[processions(http://vocab.getty.edu/aat/300069290)]
+
+
+
+
+[circus]	[circuses(http://vocab.getty.edu/aat/300069235), circuses(http://vocab.getty.edu/aat/300007255)]
+[nut]	[nut(http://vocab.getty.edu/aat/300011897)]
+
+
+[mourning]	[mourning(http://vocab.getty.edu/aat/300238450)]
+[nobility]	[nobility(http://vocab.getty.edu/aat/300025942)]
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+[painting]	[painting(http://vocab.getty.edu/aat/300054216), paintings(http://vocab.getty.edu/aat/300033618)]
+[bookbinding]	[bookbinding(http://vocab.getty.edu/aat/300053592)]
+
+
+
+
+
+
+[hieroglyph]	[hieroglyphics(http://vocab.getty.edu/aat/300028721)]
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+[market cross]	[market crosses(http://vocab.getty.edu/aat/300006966)]
+[gate]	[gates(http://vocab.getty.edu/aat/300002916)]
+[bittern]	[Botaurinae(http://vocab.getty.edu/aat/300310534)]
+
+
+
+
+
+
+[fens]	[fens(http://vocab.getty.edu/aat/300132322)]
+[gown]	[gowns(http://vocab.getty.edu/aat/300046161)]
+
+
+
+
+
+
+
+
+
+
+
+
+
+[keystone]	[keystones(http://vocab.getty.edu/aat/300001183)]
+
+
+
+
+
+
+
+
+[steam locomotive]	[steam locomotives(http://vocab.getty.edu/aat/300228422)]
+
+
+
+
+
+
+[wing]	[wings(http://vocab.getty.edu/aat/300375053)]
+
+[giraffe]	[Giraffa camelopardalis(http://vocab.getty.edu/aat/300250194)]
+[arithmetic]	[arithmetic(http://vocab.getty.edu/aat/300054525)]
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+[chalice]	[chalices(http://vocab.getty.edu/aat/300194762)]
+
+[soldier]	[soldiers(http://vocab.getty.edu/aat/300185678)]
+[riddle]	[riddles(http://vocab.getty.edu/aat/300255244)]
+
+
+
+
+
+[catacomb]	[catacombs(http://vocab.getty.edu/aat/300000367)]
+
+
+
+
+[degree]	[degrees(http://vocab.getty.edu/aat/300312080)]
+[agent]	[agents(http://vocab.getty.edu/aat/300025213)]
+
+[frontispiece]	[frontispieces(http://vocab.getty.edu/aat/300083021)]
+
+
+
+
+
+
+
+
+
+[Mithraism]	[Mithraism(http://vocab.getty.edu/aat/300143629)]
+
+
+[mannequin]	[manikins(http://vocab.getty.edu/aat/300239050)]
+
+
+
+
+[clock]	[clocks(http://vocab.getty.edu/aat/300041575)]
+
+
+
+[ocean]	[oceans(http://vocab.getty.edu/aat/300008687)]
+[etiquette]	[etiquette(http://vocab.getty.edu/aat/300055810)]
+
+
+
+
+
+
+
+
+
+[official]	[officials(http://vocab.getty.edu/aat/300386641)]
+
+[sawfish]	[Pristidae(http://vocab.getty.edu/aat/300379823)]
+
+
+
+
+
+
+[T-shape]	[T-shaped(http://vocab.getty.edu/aat/300378895)]
+
+
+[lodge]	[lodges(http://vocab.getty.edu/aat/300250330), lodges(http://vocab.getty.edu/aat/300250342)]
+
+
+
+
+[waterlily]	[Nymphaea(http://vocab.getty.edu/aat/300375575)]
+[dreidel]	[dreidels(http://vocab.getty.edu/aat/300211091)]
+
+
+[memory]	[memory(http://vocab.getty.edu/aat/300254803)]
+
+
+
+
+
+[hinny]	[hinnies(http://vocab.getty.edu/aat/300265978)]
+
+
+
+
+
+[Jehovah's Witnesses]	[Jehovah's Witnesses(http://vocab.getty.edu/aat/300265857)]
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+[joiner]	[joiners(http://vocab.getty.edu/aat/300025376)]
+
+[balance]	[balances(http://vocab.getty.edu/aat/300195805)]
+[tailor]	[tailors(http://vocab.getty.edu/aat/300025365)]
+
+
+
+
+
+
+
+
+[civil law]	[civil law(http://vocab.getty.edu/aat/300054414)]
+[algebra]	[algebra(http://vocab.getty.edu/aat/300054523)]
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+[conventicle]	[conventicles(http://vocab.getty.edu/aat/300004614)]
+[martyr]	[martyrs(http://vocab.getty.edu/aat/300188714)]
+[confessor]	[confessors(http://vocab.getty.edu/aat/300025775)]
+[glass]	[drinking glasses(http://vocab.getty.edu/aat/300043230)]
+[polyhedron]	[polyhedra(http://vocab.getty.edu/aat/300072513)]
+
+
+
+
+
+
+
+
+
+[bean]	[bean(http://vocab.getty.edu/aat/300011863)]
+[toothbrush]	[toothbrushes(http://vocab.getty.edu/aat/300236465)]
+
+[collection]	[collecting(http://vocab.getty.edu/aat/300077121)]
+
+
+
+
+
+
+
+
+
+[company]	[companies(http://vocab.getty.edu/aat/300160084)]
+
+
+
+
+
+[Janus]	[jani(http://vocab.getty.edu/aat/300264342)]
+
+
+[constable]	[constables(http://vocab.getty.edu/aat/300136406)]
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+[radiator]	[radiators(http://vocab.getty.edu/aat/300052261)]
+
+
+
+
+
+
+
+
+
+
+[reptile]	[Reptilia(http://vocab.getty.edu/aat/300265956)]
+
+
+
+
+
+
+
+
+
+
+
+[broom]	[brooms(http://vocab.getty.edu/aat/300024758)]
+
+
+[plant material]	[plant material(http://vocab.getty.edu/aat/300124117)]
+[relatives]	[relatives(http://vocab.getty.edu/aat/300386155)]
+[snipe]	[snipes(http://vocab.getty.edu/aat/300386116)]
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+[logic]	[logic(http://vocab.getty.edu/aat/300054292)]
+
+
+
+
+
+
+
+
+
+
+[fern]	[Pteridophyta(http://vocab.getty.edu/aat/300265699)]
+
+
+
+
+[hawk]	[hawks(http://vocab.getty.edu/aat/300379800)]
+
+
+
+[lithograph]	[lithographs(http://vocab.getty.edu/aat/300041379)]
+
+
+
+
+
+
+[ciborium]	[ciboria(http://vocab.getty.edu/aat/300076084), ciboria(http://vocab.getty.edu/aat/300198813)]
+
+
+
+
+
+
+
+
+
+[merman]	[tritons(http://vocab.getty.edu/aat/300379733)]
+
+
+
+
+
+
+
+
+[art collection]	[art collections(http://vocab.getty.edu/aat/300386365)]
+
+
+[morning]	[morning(http://vocab.getty.edu/aat/300343630)]
+
+
+
+
+[client]	[clients(http://vocab.getty.edu/aat/300025833)]
+
+
+
+
+
+
+
+
+
+
+
+[tortoise]	[tortoises(http://vocab.getty.edu/aat/300250297)]
+
+
+
+
+
+
+
+
+
+
+
+[cart]	[carts(http://vocab.getty.edu/aat/300212695)]
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+[evangelist]	[evangelists(http://vocab.getty.edu/aat/300025762)]
+
+
+
+
+
+
+
+
+
+
+[nuclear physics]	[nuclear physics(http://vocab.getty.edu/aat/300054569)]
+
+
+
+
+[coat of arms]	[coats of arms(http://vocab.getty.edu/aat/300126352)]
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+[tennis]	[tennis(http://vocab.getty.edu/aat/300222793)]
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+[ambulatory]	[ambulatories(http://vocab.getty.edu/aat/300075884)]
+
+
+
+
+
+
+
+
+[tipi]	[tipis(http://vocab.getty.edu/aat/300005697)]
+[aerodynamics]	[aerodynamics(http://vocab.getty.edu/aat/300056101)]
+
+
+[academy]	[academies(http://vocab.getty.edu/aat/300007089), academies(http://vocab.getty.edu/aat/300312331)]
+[gesture]	[gesture(http://vocab.getty.edu/aat/300056179)]
+
+
+
+
+
+
+
+
+
+
+
+
+
+[bricklayer]	[bricklayers(http://vocab.getty.edu/aat/300025043)]
+
+
+
+
+
+
+
+
+[natural light]	[daylight(http://vocab.getty.edu/aat/300051964)]
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+[muff]	[muffs(http://vocab.getty.edu/aat/300210014)]
+
+
+
+
+
+[gramophone]	[gramophones(http://vocab.getty.edu/aat/300310107)]
+
+
+
+
+
+[christening gown]	[christening gowns(http://vocab.getty.edu/aat/300265752)]
+
+[razor]	[razors(http://vocab.getty.edu/aat/300236438)]
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+[melting]	[melting(http://vocab.getty.edu/aat/300186835)]
+
+
+
+
+
+
+[electric lamp]	[electric lamps(http://vocab.getty.edu/aat/300182922), electric lamps(http://vocab.getty.edu/aat/300037640)]
+
+
+
+[codpiece]	[codpieces(http://vocab.getty.edu/aat/300046148)]
+
+
+[production]	[production(http://vocab.getty.edu/aat/300054713)]
+
+
+
+
+
+
+
+
+
+[axe]	[axes(http://vocab.getty.edu/aat/300024664)]
+
+
+[Bridgettines]	[Brigittine(http://vocab.getty.edu/aat/300264370)]
+
+
+
+
+[tricycle]	[tricycles(http://vocab.getty.edu/aat/300212989)]
+
+
+
+
+
+
+
+[female]	[female(http://vocab.getty.edu/aat/300189557)]
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+[fowl]	[fowl(http://vocab.getty.edu/aat/300250065)]
+
+
+
+
+
+
+
+[pilgrimage]	[pilgrimages(http://vocab.getty.edu/aat/300069279)]
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+[theology]	[theology(http://vocab.getty.edu/aat/300054313)]
+[helix]	[helices(http://vocab.getty.edu/aat/300230256)]
+
+
+
+[priest]	[priests(http://vocab.getty.edu/aat/300025774)]
+
+
+
+
+
+
+
+
+
+[strip mining]	[strip mining(http://vocab.getty.edu/aat/300160031)]
+
+[gardener]	[gardeners(http://vocab.getty.edu/aat/300025614)]
+
+[recreation]	[recreation(http://vocab.getty.edu/aat/300069710)]
+
+[formal garden]	[formal gardens(http://vocab.getty.edu/aat/300008092)]
+
+
+
+
+[glacier]	[glaciers(http://vocab.getty.edu/aat/300008835)]
+
+[dark lantern]	[dark lanterns(http://vocab.getty.edu/aat/300180134)]
+
+
+
+
+
+
+[merry-go-round]	[carousels(http://vocab.getty.edu/aat/300007316)]
+[chocolate]	[chocolate(http://vocab.getty.edu/aat/300387485)]
+
+[hiking]	[hiking(http://vocab.getty.edu/aat/300252249)]
+
+
+[cloth]	[cloth(http://vocab.getty.edu/aat/300162391)]
+
+
+
+
+
+[parents]	[parents(http://vocab.getty.edu/aat/300025930)]
+[banquet]	[banquets(http://vocab.getty.edu/aat/300247614)]
+
+
+
+[snow]	[snows(http://vocab.getty.edu/aat/300233043), snow(http://vocab.getty.edu/aat/300055381)]
+
+
+
+
+
+
+
+
+
+[high school]	[high schools(http://vocab.getty.edu/aat/300343452), high schools(http://vocab.getty.edu/aat/300006603)]
+
+[patriarch]	[patriarchs(http://vocab.getty.edu/aat/300025772)]
+
+
+
+
+
+
+[top hat]	[top hats(http://vocab.getty.edu/aat/300046113)]
+
+
+[cattle]	[cattle(http://vocab.getty.edu/aat/300250116)]
+
+
+
+
+
+[zoology]	[zoology(http://vocab.getty.edu/aat/300054472)]
+
+
+
+
+
+[plain]	[plains(http://vocab.getty.edu/aat/300008805)]
+[shovel-board]	[shuffleboard(http://vocab.getty.edu/aat/300222736)]
+
+[coat]	[coats(http://vocab.getty.edu/aat/300046143)]
+
+
+
+
+
+
+
+
+
+[egg]	[egg(http://vocab.getty.edu/aat/300011801)]
+
+
+
+[beaver]	[Castor(http://vocab.getty.edu/aat/300250578)]
+
+
+
+
+
+[mule]	[mules(http://vocab.getty.edu/aat/300250277)]
+
+[specialist]	[specialists(http://vocab.getty.edu/aat/300025908)]
+
+
+
+
+
+
+
+[amphibian]	[Amphibia(http://vocab.getty.edu/aat/300249665)]
+[vassal]	[vassals(http://vocab.getty.edu/aat/300237335)]
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+[eel]	[Anguilliformes(http://vocab.getty.edu/aat/300261225)]
+
+
+
+
+
+
+
+
+[seed]	[seed(http://vocab.getty.edu/aat/300011902)]
+
+[cousin]	[cousins(http://vocab.getty.edu/aat/300386747)]
+[man]	[Homo sapiens(http://vocab.getty.edu/aat/300265711), men(http://vocab.getty.edu/aat/300025928)]
+
+
+
+
+
+
+
+
+
+
+
+
+
+[scissors]	[scissors(http://vocab.getty.edu/aat/300023459)]
+
+
+
+[governor]	[governors(http://vocab.getty.edu/aat/300025465)]
+[musician]	[musicians(http://vocab.getty.edu/aat/300025666)]
+
+[griffin]	[griffins(http://vocab.getty.edu/aat/300379594)]
+
+
+
+
+
+
+
+[smell]	[smell(http://vocab.getty.edu/aat/300055140)]
+
+[cube]	[cubes(http://vocab.getty.edu/aat/300133032)]
+
+[distaff]	[distaffs(http://vocab.getty.edu/aat/300263795)]
+
+[jar]	[jars(http://vocab.getty.edu/aat/300195347)]
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+[cheetah]	[Acinonyx jubatus(http://vocab.getty.edu/aat/300266537)]
+
+[barrage]	[barrages(http://vocab.getty.edu/aat/300006092)]
+
+
+[pharmacy]	[pharmacy(http://vocab.getty.edu/aat/300054520)]
+
+
+
+
+[justification]	[justification(http://vocab.getty.edu/aat/300195856)]
+
+
+[stool]	[stools(http://vocab.getty.edu/aat/300038418)]
+[lion]	[Panthera leo(http://vocab.getty.edu/aat/300310388)]
+
+[elephant]	[Elephantidae(http://vocab.getty.edu/aat/300250160)]
+
+
+
+
+
+
+
+[arena]	[arenas(http://vocab.getty.edu/aat/300007268)]
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+[Samaritan]	[Samaritan(http://vocab.getty.edu/aat/300389196)]
+
+
+
+
+
+
+
+
+
+
+[nightcap]	[nightcaps(http://vocab.getty.edu/aat/300046101)]
+
+
+
+[purificator]	[purificators(http://vocab.getty.edu/aat/300216653)]
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+[chestnut]	[Castanea(http://vocab.getty.edu/aat/300374834), chestnut(http://vocab.getty.edu/aat/300266428), chestnut(http://vocab.getty.edu/aat/300012039)]
+
+
+
+
+[labyrinth]	[labyrinths(http://vocab.getty.edu/aat/300010167)]
+
+[wadi]	[wadis(http://vocab.getty.edu/aat/300379998)]
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+[scabbard]	[scabbards(http://vocab.getty.edu/aat/300037139)]
+
+
+
+
+
+[disease]	[disease(http://vocab.getty.edu/aat/300055130)]
+
+
+
+
+
+
+
+[cruet]	[cruets(http://vocab.getty.edu/aat/300043035)]
+
+
+
+
+
+
+
+
+
+
+
+[spur]	[spurs(http://vocab.getty.edu/aat/300387002)]
+
+
+
+
+
+
+[eschatology]	[eschatology(http://vocab.getty.edu/aat/300054311)]
+
+
+
+
+
+
+
+[comb]	[combs(http://vocab.getty.edu/aat/300046265), combs(http://vocab.getty.edu/aat/300236397)]
+
+[chrismon]	[chi-rhos(http://vocab.getty.edu/aat/300310602)]
+
+
+[churchyard]	[churchyards(http://vocab.getty.edu/aat/300008170)]
+
+
+
+
+
+
+
+[ashtray]	[ashtrays(http://vocab.getty.edu/aat/300198897)]
+
+
+
+
+[meadow]	[meadows(http://vocab.getty.edu/aat/300008876)]
+
+
+
+
+
+
+[hippopotamus]	[Hippopotamus amphibius(http://vocab.getty.edu/aat/300258403), Hippopotamus(http://vocab.getty.edu/aat/300310418)]
+
+
+
+[finch]	[finches(http://vocab.getty.edu/aat/300250059)]
+
+
+
+
+
+
+
+[hexagon]	[hexagons(http://vocab.getty.edu/aat/300055634)]
+
+
+[tile]	[tile(http://vocab.getty.edu/aat/300010676)]
+[antipope]	[antipopes(http://vocab.getty.edu/aat/300379813)]
+
+
+
+[narghile]	[hookahs(http://vocab.getty.edu/aat/300259151)]
+
+
+
+
+
+
+
+
+
+
+[quicksilver]	[mercury(http://vocab.getty.edu/aat/300011026)]
+
+
+
+
+[cold]	[cold(http://vocab.getty.edu/aat/300068991)]
+[abbot]	[abbots(http://vocab.getty.edu/aat/300162118)]
+
+
+
+
+
+
+
+
+
+
+
+
+
+[ermine]	[Mustela erminea(http://vocab.getty.edu/aat/300250167)]
+
+
+
+
+
+
+[society]	[societies(http://vocab.getty.edu/aat/300026009)]
+
+
+[gamekeeper]	[gamekeepers(http://vocab.getty.edu/aat/300236757)]
+
+[skirt]	[skirts(http://vocab.getty.edu/aat/300209932)]
+
+[head]	[heads(http://vocab.getty.edu/aat/300262520), heads(http://vocab.getty.edu/aat/300375054)]
+
+
+[zeppelin]	[zeppelins(http://vocab.getty.edu/aat/300212908)]
+
+
+
+[folly]	[follies(http://vocab.getty.edu/aat/300006795)]
+
+
+
+
+
+[nightingale]	[nightingales(http://vocab.getty.edu/aat/300253847)]
+
+[melon]	[melon(http://vocab.getty.edu/aat/300266444)]
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+[banker]	[bankers(http://vocab.getty.edu/aat/300025209)]
+
+
+
+
+[triangle]	[triangles(http://vocab.getty.edu/aat/300009806), triangles(http://vocab.getty.edu/aat/300041911)]
+[opera]	[operas(http://vocab.getty.edu/aat/300255765)]
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+[fashion designer]	[fashion designers(http://vocab.getty.edu/aat/300025198)]
+
+[corsage]	[corsages(http://vocab.getty.edu/aat/300220745), corsages(http://vocab.getty.edu/aat/300220744)]
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+[tyrant]	[tyrants(http://vocab.getty.edu/aat/300236616)]
+
+[chimes]	[chimes(http://vocab.getty.edu/aat/300195452)]
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+[grandfather]	[grandfathers(http://vocab.getty.edu/aat/300386753)]
+
+
+
+
+
+
+
+[thesis]	[theses(http://vocab.getty.edu/aat/300028028)]
+
+
+
+
+
+
+
+
+
+[Franciscans]	[Franciscan(http://vocab.getty.edu/aat/300148096)]
+
+[instrument]	[instruments(http://vocab.getty.edu/aat/300024838)]
+[counterfeiter]	[counterfeiters(http://vocab.getty.edu/aat/300025838)]
+
+
+
+
+
+
+
+
+
+[Doric order]	[Doric order(http://vocab.getty.edu/aat/300067406)]
+
+
+
+
+
+
+
+
+
+
+[ass]	[asses(http://vocab.getty.edu/aat/300265964)]
+
+
+
+
+[garage]	[garages(http://vocab.getty.edu/aat/300007806)]
+
+
+
+
+
+
+
+
+
+[consort]	[consorts(http://vocab.getty.edu/aat/300386271)]
+[translator]	[translators(http://vocab.getty.edu/aat/300025601)]
+
+
+[woodcutter]	[woodcutters(http://vocab.getty.edu/aat/300025178)]
+
+
+[leather]	[leather(http://vocab.getty.edu/aat/300011845)]
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+[can]	[cans(http://vocab.getty.edu/aat/300045657)]
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+[donkey]	[donkeys(http://vocab.getty.edu/aat/300265959)]
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+[grandparent]	[grandparents(http://vocab.getty.edu/aat/300386751)]
+
+
+
+
+
+
+
+
+
+[hen]	[hens(http://vocab.getty.edu/aat/300266507)]
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+[wagon]	[wagons(http://vocab.getty.edu/aat/300215710)]
+
+[rebec]	[rebecs(http://vocab.getty.edu/aat/300042211)]
+[beauty]	[beauty(http://vocab.getty.edu/aat/300055821)]
+[white poplar]	[Populus alba(http://vocab.getty.edu/aat/300375465), white poplar(http://vocab.getty.edu/aat/300012386)]
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+[prairie]	[prairies(http://vocab.getty.edu/aat/300008880)]
+
+[afternoon]	[afternoon(http://vocab.getty.edu/aat/300343631)]
+
+[art]	[art(http://vocab.getty.edu/aat/300054138)]
+[cottage]	[cottages(http://vocab.getty.edu/aat/300005500)]
+[stepfather]	[stepfathers(http://vocab.getty.edu/aat/300386764)]
+
+
+
+
+[barrier]	[barriers(http://vocab.getty.edu/aat/300005043)]
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+[wax tablet]	[wax tablets(http://vocab.getty.edu/aat/300192670)]
+
+[orchard]	[orchards(http://vocab.getty.edu/aat/300008890)]
+
+
+
+
+
+
+
+
+
+[cotton]	[cotton(http://vocab.getty.edu/aat/300183670), cotton(http://vocab.getty.edu/aat/300014067)]
+
+
+
+
+[abbess]	[abbesses(http://vocab.getty.edu/aat/300236003)]
+
+
+
+
+[mitten]	[mittens(http://vocab.getty.edu/aat/300210012)]
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+[executioner]	[executioners(http://vocab.getty.edu/aat/300230894)]
+
+
+
+[liturgy]	[liturgy(http://vocab.getty.edu/aat/300055983)]
+
+
+
+
+
+[carillon]	[carillons(http://vocab.getty.edu/aat/300195449)]
+[altar]	[altars(http://vocab.getty.edu/aat/300003725)]
+
+
+
+
+
+
+[pedestal]	[pedestals(http://vocab.getty.edu/aat/300001744)]
+[bread]	[bread(http://vocab.getty.edu/aat/300262820)]
+
+
+
+
+[epergne]	[epergnes(http://vocab.getty.edu/aat/300043038)]
+
+
+
+[freight train]	[freight trains(http://vocab.getty.edu/aat/300212739)]
+
+
+
+
+[ram]	[rams(http://vocab.getty.edu/aat/300232835), rams(http://vocab.getty.edu/aat/300250287)]
+
+
+
+
+
+[gauge]	[gauges(http://vocab.getty.edu/aat/300197526)]
+[bull]	[bulls(http://vocab.getty.edu/aat/300250117)]
+[industrial designer]	[industrial designers(http://vocab.getty.edu/aat/300025203)]
+
+
+
+
+
+
+
+
+
+
+
+
+
+[farm]	[farms(http://vocab.getty.edu/aat/300000206)]
+
+[winner]	[winners(http://vocab.getty.edu/aat/300207894)]
+
+
+[timber]	[timber(http://vocab.getty.edu/aat/300012827), timbers(http://vocab.getty.edu/aat/300264606)]
+
+
+
+
+[metaphysics]	[metaphysics(http://vocab.getty.edu/aat/300054293)]
+
+
+
+
+
+
+
+[chicken house]	[chicken houses(http://vocab.getty.edu/aat/300005003)]
+
+
+
+
+
+
+
+
+
+
+
+
+[bishop]	[bishops(http://vocab.getty.edu/aat/300025756)]
+
+
+
+
+
+
+
+
+
+
+
+[devil]	[devils(http://vocab.getty.edu/aat/300379005)]
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+[Freemasonry]	[Freemasonry(http://vocab.getty.edu/aat/300375628)]
+
+
+
+[mat]	[mats(http://vocab.getty.edu/aat/300204928)]
+
+
+[officer]	[military officers(http://vocab.getty.edu/aat/300236210)]
+
+
+
+
+
+[acorn]	[acorn(http://vocab.getty.edu/aat/300251844)]
+
+[coral]	[corals(http://vocab.getty.edu/aat/300250925), coral(http://vocab.getty.edu/aat/300011800)]
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+[cannon]	[cannons(http://vocab.getty.edu/aat/300036936)]
+
+[stable]	[stables(http://vocab.getty.edu/aat/300005015)]
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+[optical instrument]	[optical instruments(http://vocab.getty.edu/aat/300024585)]
+
+
+
+
+
+
+[historiated initial]	[historiated initials(http://vocab.getty.edu/aat/300194390)]
+[industry]	[industries(http://vocab.getty.edu/aat/300025995)]
+
+[farmer]	[farmers(http://vocab.getty.edu/aat/300025607)]
+
+
+
+
+
+
+
+
+
+
+[fan]	[fans(http://vocab.getty.edu/aat/300258857)]
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+[hat]	[hats(http://vocab.getty.edu/aat/300046106)]
+[buckthorn]	[Rhamnus(http://vocab.getty.edu/aat/300311397)]
+
+[kingdom]	[kingdoms(http://vocab.getty.edu/aat/300235096)]
+
+
+
+
+
+
+
+[folk art]	[folk art(http://vocab.getty.edu/aat/300056487)]
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+[unemployment]	[unemployment(http://vocab.getty.edu/aat/300055709)]
+
+
+
+[hanging]	[hangings(http://vocab.getty.edu/aat/300386106)]
+
+
+
+
+
+
+
+[Ionic order]	[Ionic order(http://vocab.getty.edu/aat/300067423)]
+[hammer]	[hammers(http://vocab.getty.edu/aat/300024823)]
+[baseball]	[baseball(http://vocab.getty.edu/aat/300222760), baseballs(http://vocab.getty.edu/aat/300211456)]
+
+
+
+
+
+
+
+[aunt]	[aunts(http://vocab.getty.edu/aat/300386772)]
+
+
+
+[rectangle]	[rectangles(http://vocab.getty.edu/aat/300055636)]
+
+
+
+
+
+
+
+
+
+
+[dove]	[doves(http://vocab.getty.edu/aat/300250045)]
+
+[sadness]	[melancholy(http://vocab.getty.edu/aat/300055166)]
+
+[chessmen]	[chessmen(http://vocab.getty.edu/aat/300211432)]
+
+
+[Love]	[love(http://vocab.getty.edu/aat/300055165)]
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+[cherry]	[cherry(http://vocab.getty.edu/aat/300375306), cherry(http://vocab.getty.edu/aat/300012403)]
+
+
+
+
+
+[Mardi gras]	[Mardi Gras(http://vocab.getty.edu/aat/300164207)]
+[amber]	[amber(http://vocab.getty.edu/aat/300012934)]
+
+
+
+
+
+[helicopter]	[helicopters(http://vocab.getty.edu/aat/300212771)]
+
+
+
+
+
+
+
+
+
+
+
+
+[Carnival]	[Carnival(http://vocab.getty.edu/aat/300069281)]
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+[echinoderm]	[Echinodermata(http://vocab.getty.edu/aat/300265692)]
+
+[working class]	[working class(http://vocab.getty.edu/aat/300055485)]
+
+
+[crane]	[Gruidae(http://vocab.getty.edu/aat/300254555)]
+
+
+
+
+
+
+
+
+
+
+
+[pantograph]	[pantographs(http://vocab.getty.edu/aat/300022426)]
+[lamb]	[lambs(http://vocab.getty.edu/aat/300250289)]
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+[David]	[davids(http://vocab.getty.edu/aat/300232909)]
+[steam]	[steam(http://vocab.getty.edu/aat/300011784)]
+
+
+[woodcut]	[woodcuts(http://vocab.getty.edu/aat/300041405)]
+
+
+
+
+
+
+
+
+
+[concrete]	[concrete(http://vocab.getty.edu/aat/300010737)]
+
+
+
+
+
+
+
+
+
+
+[doge]	[doges(http://vocab.getty.edu/aat/300025463)]
+
+
+
+
+[carrousel]	[carousels(http://vocab.getty.edu/aat/300007316)]
+
+
+
+[folding screen]	[folding screens(http://vocab.getty.edu/aat/300265156)]
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+[handwriting]	[handwriting(http://vocab.getty.edu/aat/300252927)]
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+[nailing]	[nailing(http://vocab.getty.edu/aat/300053017)]
+
+
+[card game]	[card games(http://vocab.getty.edu/aat/300222738), card games(http://vocab.getty.edu/aat/300191227)]
+
+
+
+
+
+
+
+
+[boar]	[Sus scrofa(http://vocab.getty.edu/aat/300250112)]
+
+
+
+
+
+
+[cardinal]	[cardinals(http://vocab.getty.edu/aat/300212304), cardinals(http://vocab.getty.edu/aat/300025758)]
+
+
+
+
+
+[passion]	[passion(http://vocab.getty.edu/aat/300379701)]
+
+[boxing]	[boxing(http://vocab.getty.edu/aat/300374825)]
+
+
+[stalls]	[stands(http://vocab.getty.edu/aat/300122180), stalls(http://vocab.getty.edu/aat/300076122), carrels(http://vocab.getty.edu/aat/300004173)]
+
+
+
+[cartoon]	[cartoons(http://vocab.getty.edu/aat/300123430), animated cartoons(http://vocab.getty.edu/aat/300263512), cartoons(http://vocab.getty.edu/aat/300034442)]
+
+
+
+[deacon]	[deacons(http://vocab.getty.edu/aat/300025760)]
+
+
+[sleeve]	[sleeves(http://vocab.getty.edu/aat/300210530)]
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+[mother]	[mothers(http://vocab.getty.edu/aat/300025932)]
+
+
+
+
+
+
+[apse]	[apses(http://vocab.getty.edu/aat/300004607)]
+
+[sight]	[sight(http://vocab.getty.edu/aat/300055143)]
+
+
+[acrobat]	[acrobats(http://vocab.getty.edu/aat/300263157)]
+[archdeacon]	[archdeacons(http://vocab.getty.edu/aat/300264311)]
+
+[lance]	[lances(http://vocab.getty.edu/aat/300037029)]
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+[tuber]	[tuber(http://vocab.getty.edu/aat/300251432)]
+
+
+
+
+
+
+
+
+
+
+
+[general]	[generals(http://vocab.getty.edu/aat/300236762)]
+
+
+
+
+
+
+[rural housing]	[rural housing(http://vocab.getty.edu/aat/300169810)]
+
+[tournament]	[tournaments(http://vocab.getty.edu/aat/300069188)]
+
+[yacht]	[yachts(http://vocab.getty.edu/aat/300082988)]
+
+[crown]	[crowns(http://vocab.getty.edu/aat/300046020), crowns(http://vocab.getty.edu/aat/300037295)]
+
+[wild animal]	[wild animals(http://vocab.getty.edu/aat/300310185)]
+[leech]	[Hirudinea(http://vocab.getty.edu/aat/300258565)]
+
+
+
+
+[mythology]	[mythology(http://vocab.getty.edu/aat/300055985)]
+
+
+[bone]	[bone(http://vocab.getty.edu/aat/300011798)]
+
+
+
+
+[cypress]	[Cupressus(http://vocab.getty.edu/aat/300343641), cypress(http://vocab.getty.edu/aat/300012540)]
+
+
+
+
+
+
+[Discalced Carmelites]	[Discalced Carmelite(http://vocab.getty.edu/aat/300264419)]
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+[huppah]	[huppahs(http://vocab.getty.edu/aat/300255094)]
+
+
+
+[law]	[law(http://vocab.getty.edu/aat/300054412)]
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+[toddler]	[toddlers(http://vocab.getty.edu/aat/300379598)]
+
+
+
+[savanna]	[savannas(http://vocab.getty.edu/aat/300008881)]
+
+
+
+
+
+
+
+
+[radio]	[radio(http://vocab.getty.edu/aat/300249989), radio receivers(http://vocab.getty.edu/aat/300248664)]
+[acoustics]	[acoustics(http://vocab.getty.edu/aat/300054562)]
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+[pergola]	[pergolas(http://vocab.getty.edu/aat/300006783)]
+
+
+
+
+
+
+
+
+
+
+
+
+
+[barn]	[barns(http://vocab.getty.edu/aat/300004900)]
+
+
+[parking meter]	[parking meters(http://vocab.getty.edu/aat/300003857)]
+[tide]	[tides(http://vocab.getty.edu/aat/300068836)]
+[psaltery]	[psalteries(http://vocab.getty.edu/aat/300042136)]
+
+[proverb]	[proverbs(http://vocab.getty.edu/aat/300188783)]
+
+
+
+
+
+[naïve art]	[naive art(http://vocab.getty.edu/aat/300263555)]
+
+
+
+
+
+
+
+
+
+
+[ibis]	[ibises(http://vocab.getty.edu/aat/300379758)]
+
+
+
+
+
+[desert]	[deserts(http://vocab.getty.edu/aat/300008916)]
+
+
+
+[video recorder]	[videotape recorders(http://vocab.getty.edu/aat/300265809)]
+
+
+
+
+
+
+
+
+
+
+
+[husband]	[husbands(http://vocab.getty.edu/aat/300154341)]
+
+
+[feeling]	[touch(http://vocab.getty.edu/aat/300055142)]
+
+
+
+
+[collecting]	[collecting(http://vocab.getty.edu/aat/300077121)]
+
+
+
+
+
+[stabbing]	[side sewing(http://vocab.getty.edu/aat/300053596), side stitching(http://vocab.getty.edu/aat/300234798)]
+
+
+
+
+
+
+
+
+
+
+[eurhythmy]	[concinnity(http://vocab.getty.edu/aat/300069331)]
+
+
+
+
+
+
+
+
+
+
+
+[gymnastics]	[gymnastics(http://vocab.getty.edu/aat/300222782)]
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+[centipede]	[Chilopoda(http://vocab.getty.edu/aat/300249712)]
+[canon]	[canons(http://vocab.getty.edu/aat/300025757)]
+
+[communications satellite]	[communications satellites(http://vocab.getty.edu/aat/300212700)]
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+[exposing]	[exposure(http://vocab.getty.edu/aat/300191218)]
+
+[baldachin]	[baldachins(http://vocab.getty.edu/aat/300003762)]
+
+
+
+
+[clothing]	[clothing(http://vocab.getty.edu/aat/300266639)]
+
+
+
+
+[hunting]	[hunting(http://vocab.getty.edu/aat/300239666)]
+[freedom]	[freedom(http://vocab.getty.edu/aat/300055497)]
+
+
+
+
+
+
+
+
+
+[zither]	[zithers(http://vocab.getty.edu/aat/300042138)]
+
+
+
+
+
+
+
+
+
+[chasuble]	[chasubles(http://vocab.getty.edu/aat/300210424)]
+
+
+
+
+
+[sound]	[sound(http://vocab.getty.edu/aat/300056060), sounds(http://vocab.getty.edu/aat/300266558)]
+
+
+[sociology]	[sociology(http://vocab.getty.edu/aat/300054453)]
+
+
+
+
+
+
+
+
+
+
+
+
+[wedge]	[wedges(http://vocab.getty.edu/aat/300024101)]
+
+
+
+
+
+
+
+[breaking]	[breaking(http://vocab.getty.edu/aat/300053083)]
+
+
+
+
+
+
+
+
+
+
+
+
+[sideburns]	[whiskers(http://vocab.getty.edu/aat/300379274), sideburns(http://vocab.getty.edu/aat/300379265)]
+
+[Daphne]	[Daphne(http://vocab.getty.edu/aat/300107061)]
+
+
+
+
+
+
+
+
+[Phoenix]	[phoenixes(http://vocab.getty.edu/aat/300379749)]
+
+
+
+
+
+
+
+
+
+
+
+
+[gasholder]	[gasholders(http://vocab.getty.edu/aat/300266430)]
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+[cat]	[Felidae(http://vocab.getty.edu/aat/300265716)]
+
+
+
+
+
+
+
+
+
+
+
+[fibula]	[fibulae(http://vocab.getty.edu/aat/300209303)]
+
+
+
+
+[suspenders]	[suspenders(http://vocab.getty.edu/aat/300255782)]
+
+
+
+
+
+
+
+
+
+[work of art]	[works of art(http://vocab.getty.edu/aat/300133025)]
+
+
+
+
+
+
+
+
+
+[stock exchange]	[stock exchanges(http://vocab.getty.edu/aat/300005229)]
+
+
+[millstone]	[millstones(http://vocab.getty.edu/aat/300185256)]
+
+[cinnamon]	[Cinnamomum(http://vocab.getty.edu/aat/300343896)]
+
+
+
+
+
+
+
+
+
+[water pollution]	[water pollution(http://vocab.getty.edu/aat/300055355)]
+
+
+
+
+
+
+
+[grandson]	[grandsons(http://vocab.getty.edu/aat/300386750)]
+
+[maquette]	[maquettes(http://vocab.getty.edu/aat/300047837)]
+
+
+[dancer]	[dancers(http://vocab.getty.edu/aat/300025653)]
+
+
+[cataract]	[cataracts(http://vocab.getty.edu/aat/300008738)]
+
+
+
+
+
+
+
+
+
+[crab]	[Brachyura(http://vocab.getty.edu/aat/300249722)]
+
+
+
+
+
+
+[echo]	[echo(http://vocab.getty.edu/aat/300056063)]
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+[hourglass]	[hourglasses(http://vocab.getty.edu/aat/300198626)]
+
+
+
+
+
+
+
+[adult]	[adults(http://vocab.getty.edu/aat/300154397)]
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+[fen]	[fens(http://vocab.getty.edu/aat/300132322)]
+
+
+[raven]	[ravens(http://vocab.getty.edu/aat/300250089)]
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+[Shrove Tuesday]	[Mardi Gras(http://vocab.getty.edu/aat/300164207)]
+
+
+[quadrivium]	[quadrivium(http://vocab.getty.edu/aat/300054583)]
+
+
+
+
+
+
+
+[chess]	[chess(http://vocab.getty.edu/aat/300222748)]
+
+
+
+
+
+
+
+
+[tooth]	[tooth(http://vocab.getty.edu/aat/300011855)]
+[circle]	[circles(http://vocab.getty.edu/aat/300055627), circles(http://vocab.getty.edu/aat/300227479)]
+[epic]	[epics(http://vocab.getty.edu/aat/300253035)]
+
+
+
+
+
+[club]	[clubs(http://vocab.getty.edu/aat/300025975)]
+
+
+
+
+
+[brick]	[brick(http://vocab.getty.edu/aat/300010463)]
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+[automobile]	[automobiles(http://vocab.getty.edu/aat/300178739)]
+[nationality]	[nationality(http://vocab.getty.edu/aat/300379842)]
+
+
+[Dies]	[dadoes(http://vocab.getty.edu/aat/300001746)]
+
+[jelly-fish]	[jellyfish(http://vocab.getty.edu/aat/300249423)]
+
+
+
+[jabot]	[jabots(http://vocab.getty.edu/aat/300210062)]
+
+
+
+
+
+
+
+
+[hood]	[hoods(http://vocab.getty.edu/aat/300046121)]
+[population redistribution]	[internal migration(http://vocab.getty.edu/aat/300055408)]
